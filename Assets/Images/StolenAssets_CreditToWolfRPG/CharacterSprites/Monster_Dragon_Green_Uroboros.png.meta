@@ -1,0 +1,741 @@
+fileFormatVersion: 2
+guid: 3544c8e7eefd26d4080dcbe96fb77b9f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8239957786386085623
+    second: Monster_Dragon_Green_Uroboros_0
+  - first:
+      213: 6257016903086538755
+    second: Monster_Dragon_Green_Uroboros_1
+  - first:
+      213: -6082171300841106210
+    second: Monster_Dragon_Green_Uroboros_2
+  - first:
+      213: -956006448963153266
+    second: Monster_Dragon_Green_Uroboros_3
+  - first:
+      213: -6465280818013603737
+    second: Monster_Dragon_Green_Uroboros_4
+  - first:
+      213: 2977527113567541059
+    second: Monster_Dragon_Green_Uroboros_5
+  - first:
+      213: 9086898255525220419
+    second: Monster_Dragon_Green_Uroboros_6
+  - first:
+      213: -4890891842024842627
+    second: Monster_Dragon_Green_Uroboros_7
+  - first:
+      213: 173243868528268621
+    second: Monster_Dragon_Green_Uroboros_8
+  - first:
+      213: 4057958759309710672
+    second: Monster_Dragon_Green_Uroboros_9
+  - first:
+      213: -4842346155461131464
+    second: Monster_Dragon_Green_Uroboros_10
+  - first:
+      213: -5663374800493034184
+    second: Monster_Dragon_Green_Uroboros_11
+  - first:
+      213: -4319180867726378327
+    second: Monster_Dragon_Green_Uroboros_12
+  - first:
+      213: -2718266490825024746
+    second: Monster_Dragon_Green_Uroboros_13
+  - first:
+      213: -3000951420135493113
+    second: Monster_Dragon_Green_Uroboros_14
+  - first:
+      213: 3040962410088015318
+    second: Monster_Dragon_Green_Uroboros_15
+  - first:
+      213: -4351710954141570963
+    second: Monster_Dragon_Green_Uroboros_16
+  - first:
+      213: -5538311941820896174
+    second: Monster_Dragon_Green_Uroboros_17
+  - first:
+      213: -3243553497797805016
+    second: Monster_Dragon_Green_Uroboros_18
+  - first:
+      213: -8618325854832231905
+    second: Monster_Dragon_Green_Uroboros_19
+  - first:
+      213: -9157649503382283023
+    second: Monster_Dragon_Green_Uroboros_20
+  - first:
+      213: 1738543133536731062
+    second: Monster_Dragon_Green_Uroboros_21
+  - first:
+      213: 7065066510447096193
+    second: Monster_Dragon_Green_Uroboros_22
+  - first:
+      213: -5915097033975657683
+    second: Monster_Dragon_Green_Uroboros_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Monster_Dragon_Green_Uroboros_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 83
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9094e3aec0ac5ad80800000000000000
+      internalID: -8239957786386085623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_Dragon_Green_Uroboros_1
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 84
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3008616e8b365d650800000000000000
+      internalID: 6257016903086538755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_Dragon_Green_Uroboros_2
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 85
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed45a463d69c79ba0800000000000000
+      internalID: -6082171300841106210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_Dragon_Green_Uroboros_3
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 83
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e82919623359bb2f0800000000000000
+      internalID: -956006448963153266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_Dragon_Green_Uroboros_4
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 84
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 768f62db955b646a0800000000000000
+      internalID: -6465280818013603737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_Dragon_Green_Uroboros_5
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 85
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3479949522d425920800000000000000
+      internalID: 2977527113567541059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_Dragon_Green_Uroboros_6
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 55
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34092b6a1d52b1e70800000000000000
+      internalID: 9086898255525220419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_Dragon_Green_Uroboros_7
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 56
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7ad04168cf002cb0800000000000000
+      internalID: -4890891842024842627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_Dragon_Green_Uroboros_8
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 57
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d45542b616c776200800000000000000
+      internalID: 173243868528268621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_Dragon_Green_Uroboros_9
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 55
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05517d9ddf3c05830800000000000000
+      internalID: 4057958759309710672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_Dragon_Green_Uroboros_10
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 56
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 833c244d3d78cccb0800000000000000
+      internalID: -4842346155461131464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_Dragon_Green_Uroboros_11
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 57
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 835c6b2ff96a761b0800000000000000
+      internalID: -5663374800493034184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_Dragon_Green_Uroboros_12
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 27
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9aa718282ef2f04c0800000000000000
+      internalID: -4319180867726378327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_Dragon_Green_Uroboros_13
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 28
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61bd6815707c64ad0800000000000000
+      internalID: -2718266490825024746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_Dragon_Green_Uroboros_14
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 29
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 702be96459a7a56d0800000000000000
+      internalID: -3000951420135493113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_Dragon_Green_Uroboros_15
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 27
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d5ac94433ba33a20800000000000000
+      internalID: 3040962410088015318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_Dragon_Green_Uroboros_16
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 28
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d68273d81fd9b93c0800000000000000
+      internalID: -4351710954141570963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_Dragon_Green_Uroboros_17
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 29
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25c2674d1a6f323b0800000000000000
+      internalID: -5538311941820896174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_Dragon_Green_Uroboros_18
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 0
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82c39c167459cf2d0800000000000000
+      internalID: -3243553497797805016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_Dragon_Green_Uroboros_19
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 0
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1af8200c4e856880800000000000000
+      internalID: -8618325854832231905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_Dragon_Green_Uroboros_20
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 1
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fcdd55cb4e79e080800000000000000
+      internalID: -9157649503382283023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_Dragon_Green_Uroboros_21
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 0
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bfb62dc4cb802810800000000000000
+      internalID: 1738543133536731062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_Dragon_Green_Uroboros_22
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 0
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18135b51f882c0260800000000000000
+      internalID: 7065066510447096193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_Dragon_Green_Uroboros_23
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 1
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2b0aed469a59eda0800000000000000
+      internalID: -5915097033975657683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Monster_Dragon_Green_Uroboros_0: -8239957786386085623
+      Monster_Dragon_Green_Uroboros_1: 6257016903086538755
+      Monster_Dragon_Green_Uroboros_10: -4842346155461131464
+      Monster_Dragon_Green_Uroboros_11: -5663374800493034184
+      Monster_Dragon_Green_Uroboros_12: -4319180867726378327
+      Monster_Dragon_Green_Uroboros_13: -2718266490825024746
+      Monster_Dragon_Green_Uroboros_14: -3000951420135493113
+      Monster_Dragon_Green_Uroboros_15: 3040962410088015318
+      Monster_Dragon_Green_Uroboros_16: -4351710954141570963
+      Monster_Dragon_Green_Uroboros_17: -5538311941820896174
+      Monster_Dragon_Green_Uroboros_18: -3243553497797805016
+      Monster_Dragon_Green_Uroboros_19: -8618325854832231905
+      Monster_Dragon_Green_Uroboros_2: -6082171300841106210
+      Monster_Dragon_Green_Uroboros_20: -9157649503382283023
+      Monster_Dragon_Green_Uroboros_21: 1738543133536731062
+      Monster_Dragon_Green_Uroboros_22: 7065066510447096193
+      Monster_Dragon_Green_Uroboros_23: -5915097033975657683
+      Monster_Dragon_Green_Uroboros_3: -956006448963153266
+      Monster_Dragon_Green_Uroboros_4: -6465280818013603737
+      Monster_Dragon_Green_Uroboros_5: 2977527113567541059
+      Monster_Dragon_Green_Uroboros_6: 9086898255525220419
+      Monster_Dragon_Green_Uroboros_7: -4890891842024842627
+      Monster_Dragon_Green_Uroboros_8: 173243868528268621
+      Monster_Dragon_Green_Uroboros_9: 4057958759309710672
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

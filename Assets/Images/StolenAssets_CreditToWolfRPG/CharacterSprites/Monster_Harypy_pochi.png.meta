@@ -1,0 +1,741 @@
+fileFormatVersion: 2
+guid: d870b115d6bc86144a558089c043ca5d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8743631505858079939
+    second: Monster_Harypy_pochi_0
+  - first:
+      213: -7962962276298762891
+    second: Monster_Harypy_pochi_1
+  - first:
+      213: 3040830137523345950
+    second: Monster_Harypy_pochi_2
+  - first:
+      213: 7522660883320200010
+    second: Monster_Harypy_pochi_3
+  - first:
+      213: -3029605769068834275
+    second: Monster_Harypy_pochi_4
+  - first:
+      213: -7424099025310282798
+    second: Monster_Harypy_pochi_5
+  - first:
+      213: -2704135977843027874
+    second: Monster_Harypy_pochi_6
+  - first:
+      213: 4068920875472385406
+    second: Monster_Harypy_pochi_7
+  - first:
+      213: -2880501958184966804
+    second: Monster_Harypy_pochi_8
+  - first:
+      213: -1748567562455099108
+    second: Monster_Harypy_pochi_9
+  - first:
+      213: -5486324569906901284
+    second: Monster_Harypy_pochi_10
+  - first:
+      213: 2246808455348242942
+    second: Monster_Harypy_pochi_11
+  - first:
+      213: -2425189108510528205
+    second: Monster_Harypy_pochi_12
+  - first:
+      213: 3431721138960885201
+    second: Monster_Harypy_pochi_13
+  - first:
+      213: 7893459590331272056
+    second: Monster_Harypy_pochi_14
+  - first:
+      213: 6316570399525705315
+    second: Monster_Harypy_pochi_15
+  - first:
+      213: 8098362424726433872
+    second: Monster_Harypy_pochi_16
+  - first:
+      213: -3181891998089604334
+    second: Monster_Harypy_pochi_17
+  - first:
+      213: -8275854041341606448
+    second: Monster_Harypy_pochi_18
+  - first:
+      213: -8629515521782961029
+    second: Monster_Harypy_pochi_19
+  - first:
+      213: -7411574887732630018
+    second: Monster_Harypy_pochi_20
+  - first:
+      213: -468798634874902550
+    second: Monster_Harypy_pochi_21
+  - first:
+      213: -3263481582615575296
+    second: Monster_Harypy_pochi_22
+  - first:
+      213: 8093992123899824371
+    second: Monster_Harypy_pochi_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Monster_Harypy_pochi_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 86
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d335a6e987168a680800000000000000
+      internalID: -8743631505858079939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_Harypy_pochi_1
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 85
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5755061dfffdd7190800000000000000
+      internalID: -7962962276298762891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_Harypy_pochi_2
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 84
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1a916926e2333a20800000000000000
+      internalID: 3040830137523345950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_Harypy_pochi_3
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 86
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4bd604773cd56860800000000000000
+      internalID: 7522660883320200010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_Harypy_pochi_4
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 85
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d129d25ca9da4f5d0800000000000000
+      internalID: -3029605769068834275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_Harypy_pochi_5
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 84
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2db8e03654d48f890800000000000000
+      internalID: -7424099025310282798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_Harypy_pochi_6
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 59
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e501050c7aaf87ad0800000000000000
+      internalID: -2704135977843027874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_Harypy_pochi_7
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 59
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e75f3b96af5b77830800000000000000
+      internalID: 4068920875472385406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_Harypy_pochi_8
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 58
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6561970bb66608d0800000000000000
+      internalID: -2880501958184966804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_Harypy_pochi_9
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 60
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c19d716f017dbb7e0800000000000000
+      internalID: -1748567562455099108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_Harypy_pochi_10
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 60
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cde83381fd8acd3b0800000000000000
+      internalID: -5486324569906901284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_Harypy_pochi_11
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 59
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef94063d2644e2f10800000000000000
+      internalID: 2246808455348242942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_Harypy_pochi_12
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 33
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33d6512ea5ff75ed0800000000000000
+      internalID: -2425189108510528205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_Harypy_pochi_13
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 33
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d566ff913cef9f20800000000000000
+      internalID: 3431721138960885201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_Harypy_pochi_14
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 32
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87b88921da33b8d60800000000000000
+      internalID: 7893459590331272056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_Harypy_pochi_15
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 34
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3661a7ecf47f8a750800000000000000
+      internalID: 6316570399525705315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_Harypy_pochi_16
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 33
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 050b034e7b9236070800000000000000
+      internalID: 8098362424726433872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_Harypy_pochi_17
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 32
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 213163c0616a7d3d0800000000000000
+      internalID: -3181891998089604334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_Harypy_pochi_18
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 7
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d54ad4c892462d80800000000000000
+      internalID: -8275854041341606448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_Harypy_pochi_19
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 6
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7c2864aa5dcd3880800000000000000
+      internalID: -8629515521782961029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_Harypy_pochi_20
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 5
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efdad7668ebc42990800000000000000
+      internalID: -7411574887732630018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_Harypy_pochi_21
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 7
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae7e719102e7e79f0800000000000000
+      internalID: -468798634874902550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_Harypy_pochi_22
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 6
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0054b219ac8c5b2d0800000000000000
+      internalID: -3263481582615575296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_Harypy_pochi_23
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 5
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f8cbdfe3f2a35070800000000000000
+      internalID: 8093992123899824371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Monster_Harypy_pochi_0: -8743631505858079939
+      Monster_Harypy_pochi_1: -7962962276298762891
+      Monster_Harypy_pochi_10: -5486324569906901284
+      Monster_Harypy_pochi_11: 2246808455348242942
+      Monster_Harypy_pochi_12: -2425189108510528205
+      Monster_Harypy_pochi_13: 3431721138960885201
+      Monster_Harypy_pochi_14: 7893459590331272056
+      Monster_Harypy_pochi_15: 6316570399525705315
+      Monster_Harypy_pochi_16: 8098362424726433872
+      Monster_Harypy_pochi_17: -3181891998089604334
+      Monster_Harypy_pochi_18: -8275854041341606448
+      Monster_Harypy_pochi_19: -8629515521782961029
+      Monster_Harypy_pochi_2: 3040830137523345950
+      Monster_Harypy_pochi_20: -7411574887732630018
+      Monster_Harypy_pochi_21: -468798634874902550
+      Monster_Harypy_pochi_22: -3263481582615575296
+      Monster_Harypy_pochi_23: 8093992123899824371
+      Monster_Harypy_pochi_3: 7522660883320200010
+      Monster_Harypy_pochi_4: -3029605769068834275
+      Monster_Harypy_pochi_5: -7424099025310282798
+      Monster_Harypy_pochi_6: -2704135977843027874
+      Monster_Harypy_pochi_7: 4068920875472385406
+      Monster_Harypy_pochi_8: -2880501958184966804
+      Monster_Harypy_pochi_9: -1748567562455099108
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

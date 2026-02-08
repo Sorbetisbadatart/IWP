@@ -1,0 +1,741 @@
+fileFormatVersion: 2
+guid: 305aee2cdbf70c04b80637a2b4cd6e57
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2380590535067553900
+    second: Chara_Civilian_Child_A_0
+  - first:
+      213: 8943821726732738131
+    second: Chara_Civilian_Child_A_1
+  - first:
+      213: -2050438734606730430
+    second: Chara_Civilian_Child_A_2
+  - first:
+      213: 7156915871576172986
+    second: Chara_Civilian_Child_A_3
+  - first:
+      213: 8433007929844247946
+    second: Chara_Civilian_Child_A_4
+  - first:
+      213: 8704319920061795912
+    second: Chara_Civilian_Child_A_5
+  - first:
+      213: 3262818064108425088
+    second: Chara_Civilian_Child_A_6
+  - first:
+      213: -7958246935601924034
+    second: Chara_Civilian_Child_A_7
+  - first:
+      213: 658502022183740858
+    second: Chara_Civilian_Child_A_8
+  - first:
+      213: 2703082173897106056
+    second: Chara_Civilian_Child_A_9
+  - first:
+      213: 7385029636655355693
+    second: Chara_Civilian_Child_A_10
+  - first:
+      213: 8264396550253975502
+    second: Chara_Civilian_Child_A_11
+  - first:
+      213: -5084952692322473223
+    second: Chara_Civilian_Child_A_12
+  - first:
+      213: 7645201055937185590
+    second: Chara_Civilian_Child_A_13
+  - first:
+      213: 8933920557090803676
+    second: Chara_Civilian_Child_A_14
+  - first:
+      213: -7667063673986692342
+    second: Chara_Civilian_Child_A_15
+  - first:
+      213: -3095837686101473167
+    second: Chara_Civilian_Child_A_16
+  - first:
+      213: 1728478337755234084
+    second: Chara_Civilian_Child_A_17
+  - first:
+      213: 2892892672150096966
+    second: Chara_Civilian_Child_A_18
+  - first:
+      213: -4789359275614621547
+    second: Chara_Civilian_Child_A_19
+  - first:
+      213: -5759877185532026895
+    second: Chara_Civilian_Child_A_20
+  - first:
+      213: -2333082352569897387
+    second: Chara_Civilian_Child_A_21
+  - first:
+      213: 5971899082902589532
+    second: Chara_Civilian_Child_A_22
+  - first:
+      213: 7606654522407123998
+    second: Chara_Civilian_Child_A_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Chara_Civilian_Child_A_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 83
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49f24a1758176fed0800000000000000
+      internalID: -2380590535067553900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chara_Civilian_Child_A_1
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 84
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35e535c5976de1c70800000000000000
+      internalID: 8943821726732738131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chara_Civilian_Child_A_2
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 83
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24b7016a5d06b83e0800000000000000
+      internalID: -2050438734606730430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chara_Civilian_Child_A_3
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 84
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab927a4f019725360800000000000000
+      internalID: 7156915871576172986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chara_Civilian_Child_A_4
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 84
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8d2b6e3800180570800000000000000
+      internalID: 8433007929844247946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chara_Civilian_Child_A_5
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 83
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84ec3ae89d4fbc870800000000000000
+      internalID: 8704319920061795912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chara_Civilian_Child_A_6
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 56
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08f09edfdbbd74d20800000000000000
+      internalID: 3262818064108425088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chara_Civilian_Child_A_7
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 56
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e383b90a390ae8190800000000000000
+      internalID: -7958246935601924034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chara_Civilian_Child_A_8
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 56
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab5632ca918732900800000000000000
+      internalID: 658502022183740858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chara_Civilian_Child_A_9
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 55
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 882e3d56ae6438520800000000000000
+      internalID: 2703082173897106056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chara_Civilian_Child_A_10
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 56
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d271394b355ec7660800000000000000
+      internalID: 7385029636655355693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chara_Civilian_Child_A_11
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 56
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec71ad430e801b270800000000000000
+      internalID: 8264396550253975502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chara_Civilian_Child_A_12
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 28
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fae372b77e9e69b0800000000000000
+      internalID: -5084952692322473223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chara_Civilian_Child_A_13
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 28
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 637c397bad5391a60800000000000000
+      internalID: 7645201055937185590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chara_Civilian_Child_A_14
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 28
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdf05f8a969abfb70800000000000000
+      internalID: 8933920557090803676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chara_Civilian_Child_A_15
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 27
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0bc8b9d53e199590800000000000000
+      internalID: -7667063673986692342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chara_Civilian_Child_A_16
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 28
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17887a5e6006905d0800000000000000
+      internalID: -3095837686101473167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chara_Civilian_Child_A_17
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 28
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42fbbdbe3e9ccf710800000000000000
+      internalID: 1728478337755234084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chara_Civilian_Child_A_18
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 0
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64c46d0ee8e952820800000000000000
+      internalID: 2892892672150096966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chara_Civilian_Child_A_19
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 0
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 590b44b2d17c88db0800000000000000
+      internalID: -4789359275614621547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chara_Civilian_Child_A_20
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 0
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ff9c76873ec010b0800000000000000
+      internalID: -5759877185532026895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chara_Civilian_Child_A_21
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 0
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55ea65726f93f9fd0800000000000000
+      internalID: -2333082352569897387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chara_Civilian_Child_A_22
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 0
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c50d3ee439270e250800000000000000
+      internalID: 5971899082902589532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chara_Civilian_Child_A_23
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 0
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1cf1318cf3409960800000000000000
+      internalID: 7606654522407123998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Chara_Civilian_Child_A_0: -2380590535067553900
+      Chara_Civilian_Child_A_1: 8943821726732738131
+      Chara_Civilian_Child_A_10: 7385029636655355693
+      Chara_Civilian_Child_A_11: 8264396550253975502
+      Chara_Civilian_Child_A_12: -5084952692322473223
+      Chara_Civilian_Child_A_13: 7645201055937185590
+      Chara_Civilian_Child_A_14: 8933920557090803676
+      Chara_Civilian_Child_A_15: -7667063673986692342
+      Chara_Civilian_Child_A_16: -3095837686101473167
+      Chara_Civilian_Child_A_17: 1728478337755234084
+      Chara_Civilian_Child_A_18: 2892892672150096966
+      Chara_Civilian_Child_A_19: -4789359275614621547
+      Chara_Civilian_Child_A_2: -2050438734606730430
+      Chara_Civilian_Child_A_20: -5759877185532026895
+      Chara_Civilian_Child_A_21: -2333082352569897387
+      Chara_Civilian_Child_A_22: 5971899082902589532
+      Chara_Civilian_Child_A_23: 7606654522407123998
+      Chara_Civilian_Child_A_3: 7156915871576172986
+      Chara_Civilian_Child_A_4: 8433007929844247946
+      Chara_Civilian_Child_A_5: 8704319920061795912
+      Chara_Civilian_Child_A_6: 3262818064108425088
+      Chara_Civilian_Child_A_7: -7958246935601924034
+      Chara_Civilian_Child_A_8: 658502022183740858
+      Chara_Civilian_Child_A_9: 2703082173897106056
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

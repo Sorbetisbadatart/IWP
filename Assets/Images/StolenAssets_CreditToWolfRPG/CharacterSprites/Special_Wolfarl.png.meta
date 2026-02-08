@@ -1,0 +1,732 @@
+fileFormatVersion: 2
+guid: cb7549f96d855e7438843047a9829dd6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2837620657912479221
+    second: Special_Wolfarl_0
+  - first:
+      213: 7302306497808648858
+    second: Special_Wolfarl_1
+  - first:
+      213: -4787506624037045761
+    second: Special_Wolfarl_2
+  - first:
+      213: 3992208012422205111
+    second: Special_Wolfarl_3
+  - first:
+      213: -313223685792936498
+    second: Special_Wolfarl_4
+  - first:
+      213: 3043868381093256637
+    second: Special_Wolfarl_5
+  - first:
+      213: 5941090291121806030
+    second: Special_Wolfarl_6
+  - first:
+      213: -4582077787870044562
+    second: Special_Wolfarl_7
+  - first:
+      213: 968536514226178878
+    second: Special_Wolfarl_8
+  - first:
+      213: 1961514500579001414
+    second: Special_Wolfarl_9
+  - first:
+      213: 6488783473970719992
+    second: Special_Wolfarl_10
+  - first:
+      213: -8315760148603098363
+    second: Special_Wolfarl_11
+  - first:
+      213: -8491018299247565691
+    second: Special_Wolfarl_12
+  - first:
+      213: 4880786841742076828
+    second: Special_Wolfarl_13
+  - first:
+      213: -7669702199963819603
+    second: Special_Wolfarl_14
+  - first:
+      213: 6130739161014715815
+    second: Special_Wolfarl_15
+  - first:
+      213: 127464930314954677
+    second: Special_Wolfarl_16
+  - first:
+      213: -6615956150010413668
+    second: Special_Wolfarl_17
+  - first:
+      213: 6955502743926249680
+    second: Special_Wolfarl_18
+  - first:
+      213: -3900709393654462564
+    second: Special_Wolfarl_19
+  - first:
+      213: 2493322566021326836
+    second: Special_Wolfarl_20
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Special_Wolfarl_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 60
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fdfe2a34f0416720800000000000000
+      internalID: 2837620657912479221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special_Wolfarl_1
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 60
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9a49ea0211075560800000000000000
+      internalID: 7302306497808648858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special_Wolfarl_2
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 60
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff9317a371c5f8db0800000000000000
+      internalID: -4787506624037045761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special_Wolfarl_3
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 60
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bec4e1290c276730800000000000000
+      internalID: 3992208012422205111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special_Wolfarl_4
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 60
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecdc211a7b437abf0800000000000000
+      internalID: -313223685792936498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special_Wolfarl_5
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 60
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbd5b1e5a2efd3a20800000000000000
+      internalID: 3043868381093256637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special_Wolfarl_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 40
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eca56dc742ef27250800000000000000
+      internalID: 5941090291121806030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special_Wolfarl_7
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 40
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6e5cc067803960c0800000000000000
+      internalID: -4582077787870044562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special_Wolfarl_8
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 40
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3b427204dee07d00800000000000000
+      internalID: 968536514226178878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special_Wolfarl_9
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 40
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6440ac4bb03b83b10800000000000000
+      internalID: 1961514500579001414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special_Wolfarl_10
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 40
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fc2376c03acc0a50800000000000000
+      internalID: 6488783473970719992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special_Wolfarl_11
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 40
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50ba921243c789c80800000000000000
+      internalID: -8315760148603098363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special_Wolfarl_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 20
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 584e10c18d7d92a80800000000000000
+      internalID: -8491018299247565691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special_Wolfarl_13
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 20
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9bef66e5c90cb340800000000000000
+      internalID: 4880786841742076828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special_Wolfarl_14
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 20
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da1ef162c7ebf8590800000000000000
+      internalID: -7669702199963819603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special_Wolfarl_15
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 20
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a5cbdee8c2c41550800000000000000
+      internalID: 6130739161014715815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special_Wolfarl_16
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 20
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b72eb4cda8d4c100800000000000000
+      internalID: 127464930314954677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special_Wolfarl_17
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 20
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9d71153fe66f24a0800000000000000
+      internalID: -6615956150010413668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special_Wolfarl_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d89afdc4e8e68060800000000000000
+      internalID: 6955502743926249680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special_Wolfarl_19
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 0
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c97423b2975edd9c0800000000000000
+      internalID: -3900709393654462564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special_Wolfarl_20
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 0
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f7aa22e9af0a9220800000000000000
+      internalID: 2493322566021326836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special_Wolfarl_21
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 0
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80a55216a4942e843b01650a1871c266
+      internalID: 1266861940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special_Wolfarl_22
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 0
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c594c0b5c256b64ab52a890665897b5
+      internalID: 1107606397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special_Wolfarl_23
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 0
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbe719f1c341be74fb5f5c07a9e73986
+      internalID: -1894871978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: ea926839795afe641948a74138feab30
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Special_Wolfarl_0: 2837620657912479221
+      Special_Wolfarl_1: 7302306497808648858
+      Special_Wolfarl_10: 6488783473970719992
+      Special_Wolfarl_11: -8315760148603098363
+      Special_Wolfarl_12: -8491018299247565691
+      Special_Wolfarl_13: 4880786841742076828
+      Special_Wolfarl_14: -7669702199963819603
+      Special_Wolfarl_15: 6130739161014715815
+      Special_Wolfarl_16: 127464930314954677
+      Special_Wolfarl_17: -6615956150010413668
+      Special_Wolfarl_18: 6955502743926249680
+      Special_Wolfarl_19: -3900709393654462564
+      Special_Wolfarl_2: -4787506624037045761
+      Special_Wolfarl_20: 2493322566021326836
+      Special_Wolfarl_21: 1266861940
+      Special_Wolfarl_22: 1107606397
+      Special_Wolfarl_23: -1894871978
+      Special_Wolfarl_3: 3992208012422205111
+      Special_Wolfarl_4: -313223685792936498
+      Special_Wolfarl_5: 3043868381093256637
+      Special_Wolfarl_6: 5941090291121806030
+      Special_Wolfarl_7: -4582077787870044562
+      Special_Wolfarl_8: 968536514226178878
+      Special_Wolfarl_9: 1961514500579001414
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,741 @@
+fileFormatVersion: 2
+guid: 5be6f73b804d1434baad5dc30ace14fa
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6166657257973927658
+    second: Monster_Dragon_A_pochi_0
+  - first:
+      213: -7970028249597289760
+    second: Monster_Dragon_A_pochi_1
+  - first:
+      213: -3364273091306948105
+    second: Monster_Dragon_A_pochi_2
+  - first:
+      213: 8424071896984441536
+    second: Monster_Dragon_A_pochi_3
+  - first:
+      213: 1829513253275425930
+    second: Monster_Dragon_A_pochi_4
+  - first:
+      213: -405304378490909909
+    second: Monster_Dragon_A_pochi_5
+  - first:
+      213: -2655332680171818297
+    second: Monster_Dragon_A_pochi_6
+  - first:
+      213: 4048581607517487613
+    second: Monster_Dragon_A_pochi_7
+  - first:
+      213: 2378027942179283354
+    second: Monster_Dragon_A_pochi_8
+  - first:
+      213: 3757816507407639409
+    second: Monster_Dragon_A_pochi_9
+  - first:
+      213: -8984826436051034470
+    second: Monster_Dragon_A_pochi_10
+  - first:
+      213: 5104364171848104395
+    second: Monster_Dragon_A_pochi_11
+  - first:
+      213: 7208619192579946762
+    second: Monster_Dragon_A_pochi_12
+  - first:
+      213: 6718050464442684454
+    second: Monster_Dragon_A_pochi_13
+  - first:
+      213: -6501176768105863216
+    second: Monster_Dragon_A_pochi_14
+  - first:
+      213: -721863512932067948
+    second: Monster_Dragon_A_pochi_15
+  - first:
+      213: -5150541317929764174
+    second: Monster_Dragon_A_pochi_16
+  - first:
+      213: -2245730693546956117
+    second: Monster_Dragon_A_pochi_17
+  - first:
+      213: 529607341057421138
+    second: Monster_Dragon_A_pochi_18
+  - first:
+      213: -5778310652968300654
+    second: Monster_Dragon_A_pochi_19
+  - first:
+      213: -138245525607102699
+    second: Monster_Dragon_A_pochi_20
+  - first:
+      213: -7921112131925981611
+    second: Monster_Dragon_A_pochi_21
+  - first:
+      213: 367171695392860791
+    second: Monster_Dragon_A_pochi_22
+  - first:
+      213: -5457665934954356155
+    second: Monster_Dragon_A_pochi_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Monster_Dragon_A_pochi_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 90
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aeece119a1e549550800000000000000
+      internalID: 6166657257973927658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_Dragon_A_pochi_1
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 91
+        width: 34
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0eadce4b885c46190800000000000000
+      internalID: -7970028249597289760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_Dragon_A_pochi_2
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 90
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f97e39b273bf41d0800000000000000
+      internalID: -3364273091306948105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_Dragon_A_pochi_3
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 91
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c2db16f1c058e470800000000000000
+      internalID: 8424071896984441536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_Dragon_A_pochi_4
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 61
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8cd9555c9cb36910800000000000000
+      internalID: 1829513253275425930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_Dragon_A_pochi_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 91
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2b832ea0d1106af0800000000000000
+      internalID: -405304378490909909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_Dragon_A_pochi_6
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 90
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c27fd5fefc562bd0800000000000000
+      internalID: -2655332680171818297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_Dragon_A_pochi_7
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 60
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df1824095837f2830800000000000000
+      internalID: 4048581607517487613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_Dragon_A_pochi_8
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 60
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a91ac8760d3700120800000000000000
+      internalID: 2378027942179283354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_Dragon_A_pochi_9
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 60
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 173a1272432762430800000000000000
+      internalID: 3757816507407639409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_Dragon_A_pochi_10
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 60
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9e93a6c5fb7f4380800000000000000
+      internalID: -8984826436051034470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_Dragon_A_pochi_11
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 61
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc9bc339b2856d640800000000000000
+      internalID: 5104364171848104395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_Dragon_A_pochi_12
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 30
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a097ac676f82a0460800000000000000
+      internalID: 7208619192579946762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_Dragon_A_pochi_13
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 30
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 624114cbd4f4b3d50800000000000000
+      internalID: 6718050464442684454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_Dragon_A_pochi_14
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 30
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d727039c2e27c5a0800000000000000
+      internalID: -6501176768105863216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_Dragon_A_pochi_15
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 29
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4955e57a5fc6bf5f0800000000000000
+      internalID: -721863512932067948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_Dragon_A_pochi_16
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 31
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2baf2d7c5f99588b0800000000000000
+      internalID: -5150541317929764174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_Dragon_A_pochi_17
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 31
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baa21f525df85d0e0800000000000000
+      internalID: -2245730693546956117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_Dragon_A_pochi_18
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 0
+        width: 34
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25faa2a121b895700800000000000000
+      internalID: 529607341057421138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_Dragon_A_pochi_19
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 1
+        width: 34
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29f08ff63115fcfa0800000000000000
+      internalID: -5778310652968300654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_Dragon_A_pochi_20
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 0
+        width: 34
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 517c66a4d6ad41ef0800000000000000
+      internalID: -138245525607102699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_Dragon_A_pochi_21
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 1
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 556c38edb7e821290800000000000000
+      internalID: -7921112131925981611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_Dragon_A_pochi_22
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 1
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77a287b26b4781500800000000000000
+      internalID: 367171695392860791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_Dragon_A_pochi_23
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 0
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 542ab448fb97244b0800000000000000
+      internalID: -5457665934954356155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Monster_Dragon_A_pochi_0: 6166657257973927658
+      Monster_Dragon_A_pochi_1: -7970028249597289760
+      Monster_Dragon_A_pochi_10: -8984826436051034470
+      Monster_Dragon_A_pochi_11: 5104364171848104395
+      Monster_Dragon_A_pochi_12: 7208619192579946762
+      Monster_Dragon_A_pochi_13: 6718050464442684454
+      Monster_Dragon_A_pochi_14: -6501176768105863216
+      Monster_Dragon_A_pochi_15: -721863512932067948
+      Monster_Dragon_A_pochi_16: -5150541317929764174
+      Monster_Dragon_A_pochi_17: -2245730693546956117
+      Monster_Dragon_A_pochi_18: 529607341057421138
+      Monster_Dragon_A_pochi_19: -5778310652968300654
+      Monster_Dragon_A_pochi_2: -3364273091306948105
+      Monster_Dragon_A_pochi_20: -138245525607102699
+      Monster_Dragon_A_pochi_21: -7921112131925981611
+      Monster_Dragon_A_pochi_22: 367171695392860791
+      Monster_Dragon_A_pochi_23: -5457665934954356155
+      Monster_Dragon_A_pochi_3: 8424071896984441536
+      Monster_Dragon_A_pochi_4: 1829513253275425930
+      Monster_Dragon_A_pochi_5: -405304378490909909
+      Monster_Dragon_A_pochi_6: -2655332680171818297
+      Monster_Dragon_A_pochi_7: 4048581607517487613
+      Monster_Dragon_A_pochi_8: 2378027942179283354
+      Monster_Dragon_A_pochi_9: 3757816507407639409
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

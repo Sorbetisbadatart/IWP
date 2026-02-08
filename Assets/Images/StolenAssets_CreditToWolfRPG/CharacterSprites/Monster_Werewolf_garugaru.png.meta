@@ -1,0 +1,741 @@
+fileFormatVersion: 2
+guid: 76da0e04bb58b5947ba11aea45414382
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3502293604277806863
+    second: Monster_Werewolf_garugaru_0
+  - first:
+      213: 4635322683671971153
+    second: Monster_Werewolf_garugaru_1
+  - first:
+      213: 8356047085716319130
+    second: Monster_Werewolf_garugaru_2
+  - first:
+      213: 303867054065363044
+    second: Monster_Werewolf_garugaru_3
+  - first:
+      213: 6961501628417529123
+    second: Monster_Werewolf_garugaru_4
+  - first:
+      213: -3668856829872705932
+    second: Monster_Werewolf_garugaru_5
+  - first:
+      213: 5038140257246088956
+    second: Monster_Werewolf_garugaru_6
+  - first:
+      213: -7510796672433028299
+    second: Monster_Werewolf_garugaru_7
+  - first:
+      213: 6335262055848760359
+    second: Monster_Werewolf_garugaru_8
+  - first:
+      213: 6430982649795139698
+    second: Monster_Werewolf_garugaru_9
+  - first:
+      213: -6395516342934440145
+    second: Monster_Werewolf_garugaru_10
+  - first:
+      213: -2956055395390119832
+    second: Monster_Werewolf_garugaru_11
+  - first:
+      213: 4207370204512633618
+    second: Monster_Werewolf_garugaru_12
+  - first:
+      213: -8960571236269985085
+    second: Monster_Werewolf_garugaru_13
+  - first:
+      213: 661280284083775693
+    second: Monster_Werewolf_garugaru_14
+  - first:
+      213: -5455349152651186226
+    second: Monster_Werewolf_garugaru_15
+  - first:
+      213: 5274733324737917397
+    second: Monster_Werewolf_garugaru_16
+  - first:
+      213: 7021485921382345137
+    second: Monster_Werewolf_garugaru_17
+  - first:
+      213: 2946031183116708370
+    second: Monster_Werewolf_garugaru_18
+  - first:
+      213: -2970513598553728863
+    second: Monster_Werewolf_garugaru_19
+  - first:
+      213: 4110346757434155458
+    second: Monster_Werewolf_garugaru_20
+  - first:
+      213: -691007468984579933
+    second: Monster_Werewolf_garugaru_21
+  - first:
+      213: 2680852199015204635
+    second: Monster_Werewolf_garugaru_22
+  - first:
+      213: -6117319606592857881
+    second: Monster_Werewolf_garugaru_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Monster_Werewolf_garugaru_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 95
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f816e9d58a556fc0800000000000000
+      internalID: -3502293604277806863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_Werewolf_garugaru_1
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 96
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 155049bfb69f35040800000000000000
+      internalID: 4635322683671971153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_Werewolf_garugaru_2
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 95
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9b2f8e5d84a6f370800000000000000
+      internalID: 8356047085716319130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_Werewolf_garugaru_3
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 95
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 468a288c97d873400800000000000000
+      internalID: 303867054065363044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_Werewolf_garugaru_4
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 96
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3255121f8d83c9060800000000000000
+      internalID: 6961501628417529123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_Werewolf_garugaru_5
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 95
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47eeba3d62a951dc0800000000000000
+      internalID: -3668856829872705932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_Werewolf_garugaru_6
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 63
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfe8fb9eed11be540800000000000000
+      internalID: 5038140257246088956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_Werewolf_garugaru_7
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 64
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5338177683a44c790800000000000000
+      internalID: -7510796672433028299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_Werewolf_garugaru_8
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 63
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72450ed264f5be750800000000000000
+      internalID: 6335262055848760359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_Werewolf_garugaru_9
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 63
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2785dbda5a07f3950800000000000000
+      internalID: 6430982649795139698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_Werewolf_garugaru_10
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 64
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f27ff2065cf8e37a0800000000000000
+      internalID: -6395516342934440145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_Werewolf_garugaru_11
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 63
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 860256d974bf9f6d0800000000000000
+      internalID: -2956055395390119832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_Werewolf_garugaru_12
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 31
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 213c98ec8e4936a30800000000000000
+      internalID: 4207370204512633618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_Werewolf_garugaru_13
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 32
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c27b8d8fe7a5a380800000000000000
+      internalID: -8960571236269985085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_Werewolf_garugaru_14
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 31
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc868cd2ae65d2900800000000000000
+      internalID: 661280284083775693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_Werewolf_garugaru_15
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 31
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecf6f7e69d4ba44b0800000000000000
+      internalID: -5455349152651186226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_Werewolf_garugaru_16
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 32
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d13be9130e933940800000000000000
+      internalID: 5274733324737917397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_Werewolf_garugaru_17
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 32
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b9a66b7e34517160800000000000000
+      internalID: 7021485921382345137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_Werewolf_garugaru_18
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 0
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21a25e690c762e820800000000000000
+      internalID: 2946031183116708370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_Werewolf_garugaru_19
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 0
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a8dcbdde9d96c6d0800000000000000
+      internalID: -2970513598553728863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_Werewolf_garugaru_20
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 0
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c1aa8c2992ea0930800000000000000
+      internalID: 4110346757434155458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_Werewolf_garugaru_21
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 0
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a8480a3e5c0966f0800000000000000
+      internalID: -691007468984579933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_Werewolf_garugaru_22
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 0
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1740a90fdc443520800000000000000
+      internalID: 2680852199015204635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_Werewolf_garugaru_23
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 0
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e8108f8a3aea1ba0800000000000000
+      internalID: -6117319606592857881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Monster_Werewolf_garugaru_0: -3502293604277806863
+      Monster_Werewolf_garugaru_1: 4635322683671971153
+      Monster_Werewolf_garugaru_10: -6395516342934440145
+      Monster_Werewolf_garugaru_11: -2956055395390119832
+      Monster_Werewolf_garugaru_12: 4207370204512633618
+      Monster_Werewolf_garugaru_13: -8960571236269985085
+      Monster_Werewolf_garugaru_14: 661280284083775693
+      Monster_Werewolf_garugaru_15: -5455349152651186226
+      Monster_Werewolf_garugaru_16: 5274733324737917397
+      Monster_Werewolf_garugaru_17: 7021485921382345137
+      Monster_Werewolf_garugaru_18: 2946031183116708370
+      Monster_Werewolf_garugaru_19: -2970513598553728863
+      Monster_Werewolf_garugaru_2: 8356047085716319130
+      Monster_Werewolf_garugaru_20: 4110346757434155458
+      Monster_Werewolf_garugaru_21: -691007468984579933
+      Monster_Werewolf_garugaru_22: 2680852199015204635
+      Monster_Werewolf_garugaru_23: -6117319606592857881
+      Monster_Werewolf_garugaru_3: 303867054065363044
+      Monster_Werewolf_garugaru_4: 6961501628417529123
+      Monster_Werewolf_garugaru_5: -3668856829872705932
+      Monster_Werewolf_garugaru_6: 5038140257246088956
+      Monster_Werewolf_garugaru_7: -7510796672433028299
+      Monster_Werewolf_garugaru_8: 6335262055848760359
+      Monster_Werewolf_garugaru_9: 6430982649795139698
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

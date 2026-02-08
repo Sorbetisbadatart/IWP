@@ -1,0 +1,741 @@
+fileFormatVersion: 2
+guid: f065e8ee8cf909448af8858e073d1c95
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4638676210637525917
+    second: Chara_Witch1_USM_0
+  - first:
+      213: 6796363549715394138
+    second: Chara_Witch1_USM_1
+  - first:
+      213: -3619003134215622981
+    second: Chara_Witch1_USM_2
+  - first:
+      213: 8850968675597895219
+    second: Chara_Witch1_USM_3
+  - first:
+      213: 6939580700243954728
+    second: Chara_Witch1_USM_4
+  - first:
+      213: -5190504079505611460
+    second: Chara_Witch1_USM_5
+  - first:
+      213: 6051882892845090808
+    second: Chara_Witch1_USM_6
+  - first:
+      213: -3752306345124981477
+    second: Chara_Witch1_USM_7
+  - first:
+      213: 7899795155385232587
+    second: Chara_Witch1_USM_8
+  - first:
+      213: 6443028368481832246
+    second: Chara_Witch1_USM_9
+  - first:
+      213: -5365824634123490360
+    second: Chara_Witch1_USM_10
+  - first:
+      213: -1962710242712517249
+    second: Chara_Witch1_USM_11
+  - first:
+      213: 7489946020297432956
+    second: Chara_Witch1_USM_12
+  - first:
+      213: 1933476548421880481
+    second: Chara_Witch1_USM_13
+  - first:
+      213: -4151305956284634889
+    second: Chara_Witch1_USM_14
+  - first:
+      213: -9015663680641577741
+    second: Chara_Witch1_USM_15
+  - first:
+      213: -3779443232550591514
+    second: Chara_Witch1_USM_16
+  - first:
+      213: 1631475610704920796
+    second: Chara_Witch1_USM_17
+  - first:
+      213: 6809701717170301279
+    second: Chara_Witch1_USM_18
+  - first:
+      213: -2947554042854330216
+    second: Chara_Witch1_USM_19
+  - first:
+      213: 9217667429493853430
+    second: Chara_Witch1_USM_20
+  - first:
+      213: 8962173629989196109
+    second: Chara_Witch1_USM_21
+  - first:
+      213: 2525376471732829381
+    second: Chara_Witch1_USM_22
+  - first:
+      213: -4309331424452517561
+    second: Chara_Witch1_USM_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Chara_Witch1_USM_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 68
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d93da13df63ef5040800000000000000
+      internalID: 4638676210637525917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chara_Witch1_USM_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 69
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5ee239c3a8815e50800000000000000
+      internalID: 6796363549715394138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chara_Witch1_USM_2
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 46
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbe6d00e2d7b6cdc0800000000000000
+      internalID: -3619003134215622981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chara_Witch1_USM_3
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 68
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3364f13bd15f4da70800000000000000
+      internalID: 8850968675597895219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chara_Witch1_USM_4
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 69
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82c823021e75e4060800000000000000
+      internalID: 6939580700243954728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chara_Witch1_USM_5
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 69
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c352ad74a00a7f7b0800000000000000
+      internalID: -5190504079505611460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chara_Witch1_USM_6
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 46
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f78b424d6b9cf350800000000000000
+      internalID: 6051882892845090808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chara_Witch1_USM_7
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 68
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b15916a72412debc0800000000000000
+      internalID: -3752306345124981477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chara_Witch1_USM_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 46
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcca613c6d5b1ad60800000000000000
+      internalID: 7899795155385232587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chara_Witch1_USM_9
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 23
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63dcf1d1a2c3a6950800000000000000
+      internalID: 6443028368481832246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chara_Witch1_USM_10
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 46
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cb6704bce2c885b0800000000000000
+      internalID: -5365824634123490360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chara_Witch1_USM_11
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 45
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f758912ee6d03c4e0800000000000000
+      internalID: -1962710242712517249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chara_Witch1_USM_12
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 23
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7fdda6d832a1f760800000000000000
+      internalID: 7489946020297432956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chara_Witch1_USM_13
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 46
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1aa0c324da615da10800000000000000
+      internalID: 1933476548421880481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chara_Witch1_USM_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 23
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f8e0b13a399366c0800000000000000
+      internalID: -4151305956284634889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chara_Witch1_USM_15
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 0
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fcc7f446ade1e280800000000000000
+      internalID: -9015663680641577741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chara_Witch1_USM_16
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 23
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e361138768bc8bc0800000000000000
+      internalID: -3779443232550591514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chara_Witch1_USM_17
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 22
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd0c7cb8c6a24a610800000000000000
+      internalID: 1631475610704920796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chara_Witch1_USM_18
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f59ad46e1abe08e50800000000000000
+      internalID: 6809701717170301279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chara_Witch1_USM_19
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 23
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 890b66ff63f2817d0800000000000000
+      internalID: -2947554042854330216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chara_Witch1_USM_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fc4ba890bbbbef70800000000000000
+      internalID: 9217667429493853430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chara_Witch1_USM_21
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4111eece69006c70800000000000000
+      internalID: 8962173629989196109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chara_Witch1_USM_22
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ccb3c16580fb0320800000000000000
+      internalID: 2525376471732829381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chara_Witch1_USM_23
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 741641ab6ed2234c0800000000000000
+      internalID: -4309331424452517561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Chara_Witch1_USM_0: 4638676210637525917
+      Chara_Witch1_USM_1: 6796363549715394138
+      Chara_Witch1_USM_10: -5365824634123490360
+      Chara_Witch1_USM_11: -1962710242712517249
+      Chara_Witch1_USM_12: 7489946020297432956
+      Chara_Witch1_USM_13: 1933476548421880481
+      Chara_Witch1_USM_14: -4151305956284634889
+      Chara_Witch1_USM_15: -9015663680641577741
+      Chara_Witch1_USM_16: -3779443232550591514
+      Chara_Witch1_USM_17: 1631475610704920796
+      Chara_Witch1_USM_18: 6809701717170301279
+      Chara_Witch1_USM_19: -2947554042854330216
+      Chara_Witch1_USM_2: -3619003134215622981
+      Chara_Witch1_USM_20: 9217667429493853430
+      Chara_Witch1_USM_21: 8962173629989196109
+      Chara_Witch1_USM_22: 2525376471732829381
+      Chara_Witch1_USM_23: -4309331424452517561
+      Chara_Witch1_USM_3: 8850968675597895219
+      Chara_Witch1_USM_4: 6939580700243954728
+      Chara_Witch1_USM_5: -5190504079505611460
+      Chara_Witch1_USM_6: 6051882892845090808
+      Chara_Witch1_USM_7: -3752306345124981477
+      Chara_Witch1_USM_8: 7899795155385232587
+      Chara_Witch1_USM_9: 6443028368481832246
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,741 @@
+fileFormatVersion: 2
+guid: 49b72f6bca3d5034aa3415715c68b58d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 557731706448671336
+    second: Chara_Priest1_USM_0
+  - first:
+      213: 8465898793933260892
+    second: Chara_Priest1_USM_1
+  - first:
+      213: -2096775002675743379
+    second: Chara_Priest1_USM_2
+  - first:
+      213: -8471816329511603811
+    second: Chara_Priest1_USM_3
+  - first:
+      213: -7004183784960295606
+    second: Chara_Priest1_USM_4
+  - first:
+      213: 1002165696676839612
+    second: Chara_Priest1_USM_5
+  - first:
+      213: 1279004926321710834
+    second: Chara_Priest1_USM_6
+  - first:
+      213: -3088591845096806221
+    second: Chara_Priest1_USM_7
+  - first:
+      213: -9155919733791222668
+    second: Chara_Priest1_USM_8
+  - first:
+      213: 104546058069988066
+    second: Chara_Priest1_USM_9
+  - first:
+      213: -5600618319279444438
+    second: Chara_Priest1_USM_10
+  - first:
+      213: -2873664102647657720
+    second: Chara_Priest1_USM_11
+  - first:
+      213: -8113624809877659527
+    second: Chara_Priest1_USM_12
+  - first:
+      213: 3150263045325172751
+    second: Chara_Priest1_USM_13
+  - first:
+      213: 2290142121156160881
+    second: Chara_Priest1_USM_14
+  - first:
+      213: 7342504555123296263
+    second: Chara_Priest1_USM_15
+  - first:
+      213: -7412163186354480119
+    second: Chara_Priest1_USM_16
+  - first:
+      213: 8720141386457912738
+    second: Chara_Priest1_USM_17
+  - first:
+      213: -6521075315241298314
+    second: Chara_Priest1_USM_18
+  - first:
+      213: -694456164771076993
+    second: Chara_Priest1_USM_19
+  - first:
+      213: -5327510089243867943
+    second: Chara_Priest1_USM_20
+  - first:
+      213: 6164475418630989709
+    second: Chara_Priest1_USM_21
+  - first:
+      213: -3060939174762529267
+    second: Chara_Priest1_USM_22
+  - first:
+      213: 583303945078052508
+    second: Chara_Priest1_USM_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Chara_Priest1_USM_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 56
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86278d238067db700800000000000000
+      internalID: 557731706448671336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chara_Priest1_USM_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 38
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c58cccc491aec7570800000000000000
+      internalID: 8465898793933260892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chara_Priest1_USM_2
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 57
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d65f7978e32c6e2e0800000000000000
+      internalID: -2096775002675743379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chara_Priest1_USM_3
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 38
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d917b151fef0e6a80800000000000000
+      internalID: -8471816329511603811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chara_Priest1_USM_4
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 56
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4df3e315f32cce90800000000000000
+      internalID: -7004183784960295606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chara_Priest1_USM_5
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 38
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb04184346868ed00800000000000000
+      internalID: 1002165696676839612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chara_Priest1_USM_6
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 37
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f6516b3430ffb110800000000000000
+      internalID: 1279004926321710834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chara_Priest1_USM_7
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 57
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b826d8b41e1325d0800000000000000
+      internalID: -3088591845096806221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chara_Priest1_USM_8
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 57
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47492632383afe080800000000000000
+      internalID: -9155919733791222668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chara_Priest1_USM_9
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 38
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e2ddedf51c637100800000000000000
+      internalID: 104546058069988066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chara_Priest1_USM_10
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 56
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2eadccdf4b9642b0800000000000000
+      internalID: -5600618319279444438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chara_Priest1_USM_11
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 38
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80b05e559b1be18d0800000000000000
+      internalID: -2873664102647657720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chara_Priest1_USM_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 19
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9702276293d966f80800000000000000
+      internalID: -8113624809877659527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chara_Priest1_USM_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f00b5a58c8bf7bb20800000000000000
+      internalID: 3150263045325172751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chara_Priest1_USM_14
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 0
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17d2ca0202838cf10800000000000000
+      internalID: 2290142121156160881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chara_Priest1_USM_15
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 19
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 708cfc99df0d5e560800000000000000
+      internalID: 7342504555123296263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chara_Priest1_USM_16
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 19
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90c1d147ad4b22990800000000000000
+      internalID: -7412163186354480119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chara_Priest1_USM_17
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 0
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a59103c36a240970800000000000000
+      internalID: 8720141386457912738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chara_Priest1_USM_18
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 18
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67659790d8c7085a0800000000000000
+      internalID: -6521075315241298314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chara_Priest1_USM_19
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 0
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f746dba2ccbcc56f0800000000000000
+      internalID: -694456164771076993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chara_Priest1_USM_20
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 19
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d44f49dcc1e016b0800000000000000
+      internalID: -5327510089243867943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chara_Priest1_USM_21
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 0
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d87a0228bbd9c8550800000000000000
+      internalID: 6164475418630989709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chara_Priest1_USM_22
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 0
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0eb331c90c5585d0800000000000000
+      internalID: -3060939174762529267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chara_Priest1_USM_23
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 19
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c96167af8df481800800000000000000
+      internalID: 583303945078052508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Chara_Priest1_USM_0: 557731706448671336
+      Chara_Priest1_USM_1: 8465898793933260892
+      Chara_Priest1_USM_10: -5600618319279444438
+      Chara_Priest1_USM_11: -2873664102647657720
+      Chara_Priest1_USM_12: -8113624809877659527
+      Chara_Priest1_USM_13: 3150263045325172751
+      Chara_Priest1_USM_14: 2290142121156160881
+      Chara_Priest1_USM_15: 7342504555123296263
+      Chara_Priest1_USM_16: -7412163186354480119
+      Chara_Priest1_USM_17: 8720141386457912738
+      Chara_Priest1_USM_18: -6521075315241298314
+      Chara_Priest1_USM_19: -694456164771076993
+      Chara_Priest1_USM_2: -2096775002675743379
+      Chara_Priest1_USM_20: -5327510089243867943
+      Chara_Priest1_USM_21: 6164475418630989709
+      Chara_Priest1_USM_22: -3060939174762529267
+      Chara_Priest1_USM_23: 583303945078052508
+      Chara_Priest1_USM_3: -8471816329511603811
+      Chara_Priest1_USM_4: -7004183784960295606
+      Chara_Priest1_USM_5: 1002165696676839612
+      Chara_Priest1_USM_6: 1279004926321710834
+      Chara_Priest1_USM_7: -3088591845096806221
+      Chara_Priest1_USM_8: -9155919733791222668
+      Chara_Priest1_USM_9: 104546058069988066
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

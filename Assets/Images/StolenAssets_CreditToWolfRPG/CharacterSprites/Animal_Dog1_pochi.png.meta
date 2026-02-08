@@ -1,0 +1,741 @@
+fileFormatVersion: 2
+guid: 2da92f95be383034f9961a5e586f9f7c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3300399066062657894
+    second: Animal_Dog1_pochi_0
+  - first:
+      213: 6130469611510618138
+    second: Animal_Dog1_pochi_1
+  - first:
+      213: -9029348877099961362
+    second: Animal_Dog1_pochi_2
+  - first:
+      213: 9024936346257001466
+    second: Animal_Dog1_pochi_3
+  - first:
+      213: -5782092854906682141
+    second: Animal_Dog1_pochi_4
+  - first:
+      213: 6501066325352262163
+    second: Animal_Dog1_pochi_5
+  - first:
+      213: -3992453409227596912
+    second: Animal_Dog1_pochi_6
+  - first:
+      213: 7570308795809334150
+    second: Animal_Dog1_pochi_7
+  - first:
+      213: 6732008582223993971
+    second: Animal_Dog1_pochi_8
+  - first:
+      213: -1474011126660144109
+    second: Animal_Dog1_pochi_9
+  - first:
+      213: 2184667234735046613
+    second: Animal_Dog1_pochi_10
+  - first:
+      213: -6998584943348353327
+    second: Animal_Dog1_pochi_11
+  - first:
+      213: -2897114316647496884
+    second: Animal_Dog1_pochi_12
+  - first:
+      213: -844674872833579875
+    second: Animal_Dog1_pochi_13
+  - first:
+      213: 4282171709335250310
+    second: Animal_Dog1_pochi_14
+  - first:
+      213: 4176078595872774855
+    second: Animal_Dog1_pochi_15
+  - first:
+      213: 8242738799978707285
+    second: Animal_Dog1_pochi_16
+  - first:
+      213: -4601752710633515952
+    second: Animal_Dog1_pochi_17
+  - first:
+      213: -3121723849730128114
+    second: Animal_Dog1_pochi_18
+  - first:
+      213: 5510835090715503173
+    second: Animal_Dog1_pochi_19
+  - first:
+      213: 256686125681768974
+    second: Animal_Dog1_pochi_20
+  - first:
+      213: 5202079645378383115
+    second: Animal_Dog1_pochi_21
+  - first:
+      213: 5211824444553105416
+    second: Animal_Dog1_pochi_22
+  - first:
+      213: 8158977187945672103
+    second: Animal_Dog1_pochi_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Animal_Dog1_pochi_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 53
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66912bdd67f5dcd20800000000000000
+      internalID: 3300399066062657894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Dog1_pochi_1
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 54
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a18da6c81adc31550800000000000000
+      internalID: 6130469611510618138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Dog1_pochi_2
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 53
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee3726b290f41b280800000000000000
+      internalID: -9029348877099961362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Dog1_pochi_3
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 54
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afb092f6ac30f3d70800000000000000
+      internalID: 9024936346257001466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Dog1_pochi_4
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 54
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e486fcee21e1cfa0800000000000000
+      internalID: -5782092854906682141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Dog1_pochi_5
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 53
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31a20e7f06d683a50800000000000000
+      internalID: 6501066325352262163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Dog1_pochi_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 37
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09b11b8f6c4f798c0800000000000000
+      internalID: -3992453409227596912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Dog1_pochi_7
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 37
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6830b369db32f0960800000000000000
+      internalID: 7570308795809334150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Dog1_pochi_8
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 37
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37c97584326ec6d50800000000000000
+      internalID: 6732008582223993971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Dog1_pochi_9
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 35
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 314e270a0b24b8be0800000000000000
+      internalID: -1474011126660144109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Dog1_pochi_10
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 36
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5df31de664f715e10800000000000000
+      internalID: 2184667234735046613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Dog1_pochi_11
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 36
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d6f259f21800ee90800000000000000
+      internalID: -6998584943348353327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Dog1_pochi_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 19
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c43078ae0e16bc7d0800000000000000
+      internalID: -2897114316647496884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Dog1_pochi_13
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 19
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d946e0eadac1744f0800000000000000
+      internalID: -844674872833579875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Dog1_pochi_14
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 19
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 685a7225b745d6b30800000000000000
+      internalID: 4282171709335250310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Dog1_pochi_15
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 18
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cadb1d6b5964f930800000000000000
+      internalID: 4176078595872774855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Dog1_pochi_16
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 18
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5597f054447146270800000000000000
+      internalID: 8242738799978707285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Dog1_pochi_17
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 17
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0549f727a4a4320c0800000000000000
+      internalID: -4601752710633515952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Dog1_pochi_18
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 0
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0788f1c2b86da4d0800000000000000
+      internalID: -3121723849730128114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Dog1_pochi_19
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 0
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54aeadd315b6a7c40800000000000000
+      internalID: 5510835090715503173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Dog1_pochi_20
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 0
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0a780cdbaeef8300800000000000000
+      internalID: 256686125681768974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Dog1_pochi_21
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 0
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0d811c20ef713840800000000000000
+      internalID: 5202079645378383115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Dog1_pochi_22
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 0
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 800194908be145840800000000000000
+      internalID: 5211824444553105416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Dog1_pochi_23
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 0
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ad640a36828a3170800000000000000
+      internalID: 8158977187945672103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Animal_Dog1_pochi_0: 3300399066062657894
+      Animal_Dog1_pochi_1: 6130469611510618138
+      Animal_Dog1_pochi_10: 2184667234735046613
+      Animal_Dog1_pochi_11: -6998584943348353327
+      Animal_Dog1_pochi_12: -2897114316647496884
+      Animal_Dog1_pochi_13: -844674872833579875
+      Animal_Dog1_pochi_14: 4282171709335250310
+      Animal_Dog1_pochi_15: 4176078595872774855
+      Animal_Dog1_pochi_16: 8242738799978707285
+      Animal_Dog1_pochi_17: -4601752710633515952
+      Animal_Dog1_pochi_18: -3121723849730128114
+      Animal_Dog1_pochi_19: 5510835090715503173
+      Animal_Dog1_pochi_2: -9029348877099961362
+      Animal_Dog1_pochi_20: 256686125681768974
+      Animal_Dog1_pochi_21: 5202079645378383115
+      Animal_Dog1_pochi_22: 5211824444553105416
+      Animal_Dog1_pochi_23: 8158977187945672103
+      Animal_Dog1_pochi_3: 9024936346257001466
+      Animal_Dog1_pochi_4: -5782092854906682141
+      Animal_Dog1_pochi_5: 6501066325352262163
+      Animal_Dog1_pochi_6: -3992453409227596912
+      Animal_Dog1_pochi_7: 7570308795809334150
+      Animal_Dog1_pochi_8: 6732008582223993971
+      Animal_Dog1_pochi_9: -1474011126660144109
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

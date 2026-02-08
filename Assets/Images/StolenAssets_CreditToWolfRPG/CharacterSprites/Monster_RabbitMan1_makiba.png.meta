@@ -1,0 +1,741 @@
+fileFormatVersion: 2
+guid: 6f07687f15001964f8e6ed4f31666982
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6153685214833334013
+    second: Monster_RabbitMan1_makiba_0
+  - first:
+      213: -3976613344535076844
+    second: Monster_RabbitMan1_makiba_1
+  - first:
+      213: -6948203209753290204
+    second: Monster_RabbitMan1_makiba_2
+  - first:
+      213: -1080947662704713116
+    second: Monster_RabbitMan1_makiba_3
+  - first:
+      213: -5347642580183797881
+    second: Monster_RabbitMan1_makiba_4
+  - first:
+      213: -2837334683300352225
+    second: Monster_RabbitMan1_makiba_5
+  - first:
+      213: -1455155350626443030
+    second: Monster_RabbitMan1_makiba_6
+  - first:
+      213: 7432130383145628818
+    second: Monster_RabbitMan1_makiba_7
+  - first:
+      213: 6430737651443389218
+    second: Monster_RabbitMan1_makiba_8
+  - first:
+      213: 3657750704757613260
+    second: Monster_RabbitMan1_makiba_9
+  - first:
+      213: -780349246373408592
+    second: Monster_RabbitMan1_makiba_10
+  - first:
+      213: 4910072749374011226
+    second: Monster_RabbitMan1_makiba_11
+  - first:
+      213: -5960247883293697676
+    second: Monster_RabbitMan1_makiba_12
+  - first:
+      213: 5788939353335508579
+    second: Monster_RabbitMan1_makiba_13
+  - first:
+      213: -3303246737746639353
+    second: Monster_RabbitMan1_makiba_14
+  - first:
+      213: -6688823328214964796
+    second: Monster_RabbitMan1_makiba_15
+  - first:
+      213: 5884286581304181370
+    second: Monster_RabbitMan1_makiba_16
+  - first:
+      213: -6974207204323041130
+    second: Monster_RabbitMan1_makiba_17
+  - first:
+      213: -1219858555258718483
+    second: Monster_RabbitMan1_makiba_18
+  - first:
+      213: 3564029529602589396
+    second: Monster_RabbitMan1_makiba_19
+  - first:
+      213: 6139860016588246598
+    second: Monster_RabbitMan1_makiba_20
+  - first:
+      213: 2866405043512840318
+    second: Monster_RabbitMan1_makiba_21
+  - first:
+      213: -7227280980215923830
+    second: Monster_RabbitMan1_makiba_22
+  - first:
+      213: 2688308834742071370
+    second: Monster_RabbitMan1_makiba_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Monster_RabbitMan1_makiba_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 65
+        width: 13
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 309294696e7b99aa0800000000000000
+      internalID: -6153685214833334013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_RabbitMan1_makiba_1
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 66
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 410a8ed6b3b30d8c0800000000000000
+      internalID: -3976613344535076844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_RabbitMan1_makiba_2
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 44
+        width: 11
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42a1d6f6ef5039f90800000000000000
+      internalID: -6948203209753290204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_RabbitMan1_makiba_3
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 65
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46262bfe3d3bff0f0800000000000000
+      internalID: -1080947662704713116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_RabbitMan1_makiba_4
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 66
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78f2466086b59c5b0800000000000000
+      internalID: -5347642580183797881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_RabbitMan1_makiba_5
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 43
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1facfc6323cf98d0800000000000000
+      internalID: -2837334683300352225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_RabbitMan1_makiba_6
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 66
+        width: 13
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae0e6e81bef3ecbe0800000000000000
+      internalID: -1455155350626443030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_RabbitMan1_makiba_7
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 44
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29478c3d43b342760800000000000000
+      internalID: 7432130383145628818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_RabbitMan1_makiba_8
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 65
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 223530e82d19e3950800000000000000
+      internalID: 6430737651443389218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_RabbitMan1_makiba_9
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 44
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc2230ae2e0f2c230800000000000000
+      internalID: 3657750704757613260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_RabbitMan1_makiba_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 44
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b05b21be74ab25f0800000000000000
+      internalID: -780349246373408592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_RabbitMan1_makiba_11
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 22
+        width: 11
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5773cf9625142440800000000000000
+      internalID: 4910072749374011226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_RabbitMan1_makiba_12
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 22
+        width: 11
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 479510ff022f84da0800000000000000
+      internalID: -5960247883293697676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_RabbitMan1_makiba_13
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 44
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36ea7d5bba1765050800000000000000
+      internalID: 5788939353335508579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_RabbitMan1_makiba_14
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 22
+        width: 11
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 706c427e7928822d0800000000000000
+      internalID: -3303246737746639353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_RabbitMan1_makiba_15
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 22
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c5a6643f968c23a0800000000000000
+      internalID: -6688823328214964796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_RabbitMan1_makiba_16
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 0
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a72cb3b287f29a150800000000000000
+      internalID: 5884286581304181370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_RabbitMan1_makiba_17
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 21
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 690ea54af73a63f90800000000000000
+      internalID: -6974207204323041130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_RabbitMan1_makiba_18
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 0
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de635996b11321fe0800000000000000
+      internalID: -1219858555258718483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_RabbitMan1_makiba_19
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 0
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d207f069f9f57130800000000000000
+      internalID: 3564029529602589396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_RabbitMan1_makiba_20
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 0
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64ecd5b972a253550800000000000000
+      internalID: 6139860016588246598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_RabbitMan1_makiba_21
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 22
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7098f0433487c720800000000000000
+      internalID: 2866405043512840318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_RabbitMan1_makiba_22
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 0
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8bfa428d3a83bb90800000000000000
+      internalID: -7227280980215923830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_RabbitMan1_makiba_23
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 0
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a40785554aace4520800000000000000
+      internalID: 2688308834742071370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Monster_RabbitMan1_makiba_0: -6153685214833334013
+      Monster_RabbitMan1_makiba_1: -3976613344535076844
+      Monster_RabbitMan1_makiba_10: -780349246373408592
+      Monster_RabbitMan1_makiba_11: 4910072749374011226
+      Monster_RabbitMan1_makiba_12: -5960247883293697676
+      Monster_RabbitMan1_makiba_13: 5788939353335508579
+      Monster_RabbitMan1_makiba_14: -3303246737746639353
+      Monster_RabbitMan1_makiba_15: -6688823328214964796
+      Monster_RabbitMan1_makiba_16: 5884286581304181370
+      Monster_RabbitMan1_makiba_17: -6974207204323041130
+      Monster_RabbitMan1_makiba_18: -1219858555258718483
+      Monster_RabbitMan1_makiba_19: 3564029529602589396
+      Monster_RabbitMan1_makiba_2: -6948203209753290204
+      Monster_RabbitMan1_makiba_20: 6139860016588246598
+      Monster_RabbitMan1_makiba_21: 2866405043512840318
+      Monster_RabbitMan1_makiba_22: -7227280980215923830
+      Monster_RabbitMan1_makiba_23: 2688308834742071370
+      Monster_RabbitMan1_makiba_3: -1080947662704713116
+      Monster_RabbitMan1_makiba_4: -5347642580183797881
+      Monster_RabbitMan1_makiba_5: -2837334683300352225
+      Monster_RabbitMan1_makiba_6: -1455155350626443030
+      Monster_RabbitMan1_makiba_7: 7432130383145628818
+      Monster_RabbitMan1_makiba_8: 6430737651443389218
+      Monster_RabbitMan1_makiba_9: 3657750704757613260
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

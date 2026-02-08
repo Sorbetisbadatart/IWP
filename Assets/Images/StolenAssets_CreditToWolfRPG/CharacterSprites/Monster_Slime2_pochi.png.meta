@@ -1,0 +1,845 @@
+fileFormatVersion: 2
+guid: 7fb62d55cea2a6842bf449b39572d66e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -200666147237149574
+    second: Monster_Slime2_pochi_0
+  - first:
+      213: -255644760490049443
+    second: Monster_Slime2_pochi_1
+  - first:
+      213: 1333622405006252768
+    second: Monster_Slime2_pochi_2
+  - first:
+      213: -5239128868287909243
+    second: Monster_Slime2_pochi_3
+  - first:
+      213: -1389195902934859980
+    second: Monster_Slime2_pochi_4
+  - first:
+      213: 2673327120576628306
+    second: Monster_Slime2_pochi_5
+  - first:
+      213: 3248667636310629686
+    second: Monster_Slime2_pochi_6
+  - first:
+      213: 4420704693949099992
+    second: Monster_Slime2_pochi_7
+  - first:
+      213: -6145926074504515057
+    second: Monster_Slime2_pochi_8
+  - first:
+      213: 7180030949672741708
+    second: Monster_Slime2_pochi_9
+  - first:
+      213: -4883352781080566204
+    second: Monster_Slime2_pochi_10
+  - first:
+      213: -8990322202485336264
+    second: Monster_Slime2_pochi_11
+  - first:
+      213: -1356196933181796193
+    second: Monster_Slime2_pochi_12
+  - first:
+      213: 5759232134884524435
+    second: Monster_Slime2_pochi_13
+  - first:
+      213: 7351549028804576815
+    second: Monster_Slime2_pochi_14
+  - first:
+      213: 1871201215692748594
+    second: Monster_Slime2_pochi_15
+  - first:
+      213: -8058236869856725005
+    second: Monster_Slime2_pochi_16
+  - first:
+      213: 5560820872529309857
+    second: Monster_Slime2_pochi_17
+  - first:
+      213: 4861664420569713103
+    second: Monster_Slime2_pochi_18
+  - first:
+      213: 3021329567515487814
+    second: Monster_Slime2_pochi_19
+  - first:
+      213: 1111847637810877635
+    second: Monster_Slime2_pochi_20
+  - first:
+      213: -4826251253116127131
+    second: Monster_Slime2_pochi_21
+  - first:
+      213: 3624980995583664481
+    second: Monster_Slime2_pochi_22
+  - first:
+      213: -1825191375901970403
+    second: Monster_Slime2_pochi_23
+  - first:
+      213: -4259048876348393377
+    second: Monster_Slime2_pochi_24
+  - first:
+      213: 2478379792133421224
+    second: Monster_Slime2_pochi_25
+  - first:
+      213: 4303940825445053277
+    second: Monster_Slime2_pochi_26
+  - first:
+      213: 587846035859834177
+    second: Monster_Slime2_pochi_27
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Monster_Slime2_pochi_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 60
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a74cb77c337173df0800000000000000
+      internalID: -200666147237149574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_Slime2_pochi_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 72
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d500d4ed174c37cf0800000000000000
+      internalID: -255644760490049443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_Slime2_pochi_2
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 60
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ea56e2f28af18210800000000000000
+      internalID: 1333622405006252768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_Slime2_pochi_3
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 60
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58274396d00ea47b0800000000000000
+      internalID: -5239128868287909243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_Slime2_pochi_4
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 60
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43fb322cfa598bce0800000000000000
+      internalID: -1389195902934859980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_Slime2_pochi_5
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 60
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 256436e2ad0991520800000000000000
+      internalID: 2673327120576628306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_Slime2_pochi_6
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 60
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63d5a97c006951d20800000000000000
+      internalID: 3248667636310629686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_Slime2_pochi_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 40
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dfecbb4f7f795d30800000000000000
+      internalID: 4420704693949099992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_Slime2_pochi_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 16
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f02f8593cc845baa0800000000000000
+      internalID: -6145926074504515057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_Slime2_pochi_9
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 40
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4bed877b1894a360800000000000000
+      internalID: 7180030949672741708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_Slime2_pochi_10
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 35
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 446e6cac488da3cb0800000000000000
+      internalID: -4883352781080566204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_Slime2_pochi_11
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 40
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 837dd80f695fb3380800000000000000
+      internalID: -8990322202485336264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_Slime2_pochi_12
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 20
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9099302312dd2de0800000000000000
+      internalID: -1356196933181796193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_Slime2_pochi_13
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 40
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3918ecaec17ecef40800000000000000
+      internalID: 5759232134884524435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_Slime2_pochi_14
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 20
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f26c3ca34e2f50660800000000000000
+      internalID: 7351549028804576815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_Slime2_pochi_15
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 40
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23735a47797d7f910800000000000000
+      internalID: 1871201215692748594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_Slime2_pochi_16
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 40
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f7fb30e2446b2090800000000000000
+      internalID: -8058236869856725005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_Slime2_pochi_17
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 20
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a0ffaefe110c2d40800000000000000
+      internalID: 5560820872529309857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_Slime2_pochi_18
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 20
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc98635480a187340800000000000000
+      internalID: 4861664420569713103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_Slime2_pochi_19
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 0
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64e2525eb3bede920800000000000000
+      internalID: 3021329567515487814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_Slime2_pochi_20
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c4131829831e6f00800000000000000
+      internalID: 1111847637810877635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_Slime2_pochi_21
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 20
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 568ba3d4e06b50db0800000000000000
+      internalID: -4826251253116127131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_Slime2_pochi_22
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 14
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1616e4f62058e4230800000000000000
+      internalID: 3624980995583664481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_Slime2_pochi_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d10b1482d1e9ba6e0800000000000000
+      internalID: -1825191375901970403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_Slime2_pochi_24
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 12
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f583a34cc91d4e4c0800000000000000
+      internalID: -4259048876348393377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_Slime2_pochi_25
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a87e983a49f46220800000000000000
+      internalID: 2478379792133421224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_Slime2_pochi_26
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5334f2a06baabb30800000000000000
+      internalID: 4303940825445053277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_Slime2_pochi_27
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1450c06ead2782800800000000000000
+      internalID: 587846035859834177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Monster_Slime2_pochi_0: -200666147237149574
+      Monster_Slime2_pochi_1: -255644760490049443
+      Monster_Slime2_pochi_10: -4883352781080566204
+      Monster_Slime2_pochi_11: -8990322202485336264
+      Monster_Slime2_pochi_12: -1356196933181796193
+      Monster_Slime2_pochi_13: 5759232134884524435
+      Monster_Slime2_pochi_14: 7351549028804576815
+      Monster_Slime2_pochi_15: 1871201215692748594
+      Monster_Slime2_pochi_16: -8058236869856725005
+      Monster_Slime2_pochi_17: 5560820872529309857
+      Monster_Slime2_pochi_18: 4861664420569713103
+      Monster_Slime2_pochi_19: 3021329567515487814
+      Monster_Slime2_pochi_2: 1333622405006252768
+      Monster_Slime2_pochi_20: 1111847637810877635
+      Monster_Slime2_pochi_21: -4826251253116127131
+      Monster_Slime2_pochi_22: 3624980995583664481
+      Monster_Slime2_pochi_23: -1825191375901970403
+      Monster_Slime2_pochi_24: -4259048876348393377
+      Monster_Slime2_pochi_25: 2478379792133421224
+      Monster_Slime2_pochi_26: 4303940825445053277
+      Monster_Slime2_pochi_27: 587846035859834177
+      Monster_Slime2_pochi_3: -5239128868287909243
+      Monster_Slime2_pochi_4: -1389195902934859980
+      Monster_Slime2_pochi_5: 2673327120576628306
+      Monster_Slime2_pochi_6: 3248667636310629686
+      Monster_Slime2_pochi_7: 4420704693949099992
+      Monster_Slime2_pochi_8: -6145926074504515057
+      Monster_Slime2_pochi_9: 7180030949672741708
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

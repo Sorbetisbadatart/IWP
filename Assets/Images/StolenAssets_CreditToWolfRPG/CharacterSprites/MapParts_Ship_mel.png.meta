@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: c30b21238f5bc794dab34679193161e6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8497447874480644252
+    second: MapParts_Ship_mel_0
+  - first:
+      213: 4244637297015531865
+    second: MapParts_Ship_mel_1
+  - first:
+      213: -8759772880725316337
+    second: MapParts_Ship_mel_2
+  - first:
+      213: -6356413182797950112
+    second: MapParts_Ship_mel_3
+  - first:
+      213: -5241149264872753149
+    second: MapParts_Ship_mel_4
+  - first:
+      213: -229546830472544480
+    second: MapParts_Ship_mel_5
+  - first:
+      213: -267913318397554075
+    second: MapParts_Ship_mel_6
+  - first:
+      213: -7924415756574278025
+    second: MapParts_Ship_mel_7
+  - first:
+      213: 1263632081787787077
+    second: MapParts_Ship_mel_8
+  - first:
+      213: 7192089100592057219
+    second: MapParts_Ship_mel_9
+  - first:
+      213: -6330570247666289328
+    second: MapParts_Ship_mel_10
+  - first:
+      213: -2507016492564983420
+    second: MapParts_Ship_mel_11
+  - first:
+      213: -5699943322240433729
+    second: MapParts_Ship_mel_12
+  - first:
+      213: -7587315841985564194
+    second: MapParts_Ship_mel_13
+  - first:
+      213: -8777149011257899298
+    second: MapParts_Ship_mel_14
+  - first:
+      213: -3017906488654206305
+    second: MapParts_Ship_mel_15
+  - first:
+      213: 8819281577726371381
+    second: MapParts_Ship_mel_16
+  - first:
+      213: -1264922362516057680
+    second: MapParts_Ship_mel_17
+  - first:
+      213: 7075848859000188736
+    second: MapParts_Ship_mel_18
+  - first:
+      213: -2519029599546990113
+    second: MapParts_Ship_mel_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MapParts_Ship_mel_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 95
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9021d702dffce570800000000000000
+      internalID: 8497447874480644252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapParts_Ship_mel_1
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 96
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9592cf0f12bf7ea30800000000000000
+      internalID: 4244637297015531865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapParts_Ship_mel_2
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 95
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0d644be9f80f6680800000000000000
+      internalID: -8759772880725316337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapParts_Ship_mel_3
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 96
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 063d7b153eb79c7a0800000000000000
+      internalID: -6356413182797950112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapParts_Ship_mel_4
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 97
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 308b57c2382b347b0800000000000000
+      internalID: -5241149264872753149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapParts_Ship_mel_5
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 96
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02ffd56bf5c70dcf0800000000000000
+      internalID: -229546830472544480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapParts_Ship_mel_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 65
+        width: 73
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5625152a14e284cf0800000000000000
+      internalID: -267913318397554075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapParts_Ship_mel_7
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 64
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77eb1e0dad1d60290800000000000000
+      internalID: -7924415756574278025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapParts_Ship_mel_8
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 65
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5479fb1fea2598110800000000000000
+      internalID: 1263632081787787077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapParts_Ship_mel_9
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 64
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38b8fb18eee6fc360800000000000000
+      internalID: 7192089100592057219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapParts_Ship_mel_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 33
+        width: 73
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 055b13a86eb4528a0800000000000000
+      internalID: -6330570247666289328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapParts_Ship_mel_11
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 32
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4815e9268c9453dd0800000000000000
+      internalID: -2507016492564983420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapParts_Ship_mel_12
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 33
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb1cffd7fbbb5e0b0800000000000000
+      internalID: -5699943322240433729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapParts_Ship_mel_13
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 32
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed1b1c7e07074b690800000000000000
+      internalID: -7587315841985564194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapParts_Ship_mel_14
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 0
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed64d434a7d413680800000000000000
+      internalID: -8777149011257899298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapParts_Ship_mel_15
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 0
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9a6b62c90e3e16d0800000000000000
+      internalID: -3017906488654206305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapParts_Ship_mel_16
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 0
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 536e68e4ed1646a70800000000000000
+      internalID: 8819281577726371381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapParts_Ship_mel_17
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 0
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b158c920d7127ee0800000000000000
+      internalID: -1264922362516057680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapParts_Ship_mel_18
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 1
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04f2f0d3c07723260800000000000000
+      internalID: 7075848859000188736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapParts_Ship_mel_19
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 0
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd1ae44fceb9a0dd0800000000000000
+      internalID: -2519029599546990113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      MapParts_Ship_mel_0: 8497447874480644252
+      MapParts_Ship_mel_1: 4244637297015531865
+      MapParts_Ship_mel_10: -6330570247666289328
+      MapParts_Ship_mel_11: -2507016492564983420
+      MapParts_Ship_mel_12: -5699943322240433729
+      MapParts_Ship_mel_13: -7587315841985564194
+      MapParts_Ship_mel_14: -8777149011257899298
+      MapParts_Ship_mel_15: -3017906488654206305
+      MapParts_Ship_mel_16: 8819281577726371381
+      MapParts_Ship_mel_17: -1264922362516057680
+      MapParts_Ship_mel_18: 7075848859000188736
+      MapParts_Ship_mel_19: -2519029599546990113
+      MapParts_Ship_mel_2: -8759772880725316337
+      MapParts_Ship_mel_3: -6356413182797950112
+      MapParts_Ship_mel_4: -5241149264872753149
+      MapParts_Ship_mel_5: -229546830472544480
+      MapParts_Ship_mel_6: -267913318397554075
+      MapParts_Ship_mel_7: -7924415756574278025
+      MapParts_Ship_mel_8: 1263632081787787077
+      MapParts_Ship_mel_9: 7192089100592057219
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

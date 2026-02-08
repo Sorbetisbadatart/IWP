@@ -1,0 +1,672 @@
+fileFormatVersion: 2
+guid: c342face712800f469e9d002095cb555
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4780311883981258124
+    second: Magic_Enhance03_panop_0
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Magic_Enhance03_panop_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 200
+        width: 110
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8df740d454175240800000000000000
+      internalID: 4780311883981258124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Enhance03_panop_1
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 200
+        width: 110
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cee7c815b4a51c4ab40b2f8b057f174
+      internalID: -1473629174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Enhance03_panop_2
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 200
+        width: 110
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94216eb5d0ac4414f88e3f2e40e34418
+      internalID: -1297343505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Enhance03_panop_3
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 200
+        width: 110
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 502c19ecd7d51a347880412a81ed8fcb
+      internalID: 279171607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Enhance03_panop_4
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 200
+        width: 110
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baabc94bfcdd71e478f0fbed89b654f8
+      internalID: 317071267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Enhance03_panop_5
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 200
+        width: 110
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36a7f452fdd65644ab2c012675f3f4ee
+      internalID: -279646323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Enhance03_panop_6
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 200
+        width: 110
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b77dd37992105d04ba6005bbf241b9ee
+      internalID: 2142159902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Enhance03_panop_7
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 200
+        width: 110
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c2523e76bf1b65459554053e7443532
+      internalID: 1402385303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Enhance03_panop_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 100
+        width: 110
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63869aad8e5ce91468044779d7d31809
+      internalID: -1515626363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Enhance03_panop_9
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 100
+        width: 110
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5a4b77550ef4104b9a4b1bc9f497524
+      internalID: 265323384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Enhance03_panop_10
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 100
+        width: 110
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d855a365eed1c2e4aae952a2b9b8f974
+      internalID: 861673446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Enhance03_panop_11
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 100
+        width: 110
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 733ffadc81efff44c965c8b6091fa822
+      internalID: -1547206849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Enhance03_panop_12
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 100
+        width: 110
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfdced42e0667094bb69d6a0c8007c54
+      internalID: -640196127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Enhance03_panop_13
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 100
+        width: 110
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34b310e9d2259684684829c552c740a6
+      internalID: -2028418863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Enhance03_panop_14
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 100
+        width: 110
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f94a23eb471ea94a8300c27154ac7c5
+      internalID: 2136582496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Enhance03_panop_15
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 100
+        width: 110
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16060711c2e7b94449b92c2a49708052
+      internalID: -1579191663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Enhance03_panop_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 110
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c985d7eb29aa69b4cb24e6061d211abc
+      internalID: 156928195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Enhance03_panop_17
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 0
+        width: 110
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72771667bc319d647a1c0c6f0c8e6e88
+      internalID: -141230293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Enhance03_panop_18
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 0
+        width: 110
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e0ee332d6e30d748a09c4edc4439252
+      internalID: -51855602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Enhance03_panop_19
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 0
+        width: 110
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4d3fdfdd37e18b4e9e693db03ae6d4f
+      internalID: 378712866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Enhance03_panop_20
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 0
+        width: 110
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5749faa4df6af0e4b9f437bb8302fc5a
+      internalID: 1383741539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Enhance03_panop_21
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 0
+        width: 110
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adac77687480b0c41aae0d1656e6eeb3
+      internalID: -1882685227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Enhance03_panop_22
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 0
+        width: 110
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95758bd343c117643b39a53e6cbc380c
+      internalID: 819905584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Enhance03_panop_23
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 0
+        width: 110
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6c3d3b09bfe10544aee58a69664f13e
+      internalID: 1104311154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 8e9106e035f4f804b9eb70ab4b6edc5f
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Magic_Enhance03_panop_0: 4780311883981258124
+      Magic_Enhance03_panop_1: -1473629174
+      Magic_Enhance03_panop_10: 861673446
+      Magic_Enhance03_panop_11: -1547206849
+      Magic_Enhance03_panop_12: -640196127
+      Magic_Enhance03_panop_13: -2028418863
+      Magic_Enhance03_panop_14: 2136582496
+      Magic_Enhance03_panop_15: -1579191663
+      Magic_Enhance03_panop_16: 156928195
+      Magic_Enhance03_panop_17: -141230293
+      Magic_Enhance03_panop_18: -51855602
+      Magic_Enhance03_panop_19: 378712866
+      Magic_Enhance03_panop_2: -1297343505
+      Magic_Enhance03_panop_20: 1383741539
+      Magic_Enhance03_panop_21: -1882685227
+      Magic_Enhance03_panop_22: 819905584
+      Magic_Enhance03_panop_23: 1104311154
+      Magic_Enhance03_panop_3: 279171607
+      Magic_Enhance03_panop_4: 317071267
+      Magic_Enhance03_panop_5: -279646323
+      Magic_Enhance03_panop_6: 2142159902
+      Magic_Enhance03_panop_7: 1402385303
+      Magic_Enhance03_panop_8: -1515626363
+      Magic_Enhance03_panop_9: 265323384
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

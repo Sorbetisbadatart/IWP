@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 128ce88b6bcf9e848b0f4d3409d051a1, type: 3}
+  m_Name: Player
+  m_EditorClassIdentifier: 
+  Level: 1
+  maxLevel: 100
+  currentExp: 0
+  expToNextLevel: 100
+  MaxHealthPoints: 100
+  MaxManaPoints: 50
+  BaseAttack: 10
+  BaseDefense: 5
+  BaseAccuracy: 95
+  healthGrowth: 1.1
+  manaGrowth: 1.05
+  attackGrowth: 1.1
+  defenseGrowth: 1.05
+  accuracyGrowth: 1.01
+  expGrowthMultiplier: 1.5
+  baseExpReward: 200
+  skillsLearnedAtLevel: []

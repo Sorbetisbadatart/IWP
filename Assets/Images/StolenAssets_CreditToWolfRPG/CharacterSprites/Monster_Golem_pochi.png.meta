@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: 964aedbb1107dd64986ae197016ab9e5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3864129930903742135
+    second: Monster_Golem_pochi_0
+  - first:
+      213: -8105113155362720898
+    second: Monster_Golem_pochi_1
+  - first:
+      213: 7079855207341650417
+    second: Monster_Golem_pochi_2
+  - first:
+      213: 8609495859479999295
+    second: Monster_Golem_pochi_3
+  - first:
+      213: -7172929607711221495
+    second: Monster_Golem_pochi_4
+  - first:
+      213: 3281991272249979278
+    second: Monster_Golem_pochi_5
+  - first:
+      213: -7815251601050391677
+    second: Monster_Golem_pochi_6
+  - first:
+      213: -941039667644828351
+    second: Monster_Golem_pochi_7
+  - first:
+      213: 7319718843494885880
+    second: Monster_Golem_pochi_8
+  - first:
+      213: 2618161910299866979
+    second: Monster_Golem_pochi_9
+  - first:
+      213: -3143863933638502841
+    second: Monster_Golem_pochi_10
+  - first:
+      213: 3966752224707138675
+    second: Monster_Golem_pochi_11
+  - first:
+      213: 1071235682277956909
+    second: Monster_Golem_pochi_12
+  - first:
+      213: 8811564190115673139
+    second: Monster_Golem_pochi_13
+  - first:
+      213: -4673442071388576042
+    second: Monster_Golem_pochi_14
+  - first:
+      213: 6824262384844533424
+    second: Monster_Golem_pochi_15
+  - first:
+      213: 6078491613296198255
+    second: Monster_Golem_pochi_16
+  - first:
+      213: -369564839356332654
+    second: Monster_Golem_pochi_17
+  - first:
+      213: -6442924426092575651
+    second: Monster_Golem_pochi_18
+  - first:
+      213: -2578926927293344985
+    second: Monster_Golem_pochi_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Monster_Golem_pochi_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 77
+        width: 67
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94917860d4adf5ac0800000000000000
+      internalID: -3864129930903742135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_Golem_pochi_1
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 79
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e737246278ad48f80800000000000000
+      internalID: -8105113155362720898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_Golem_pochi_2
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 78
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f17cc6ecc2b04260800000000000000
+      internalID: 7079855207341650417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_Golem_pochi_3
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 77
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f33708f7ed21b7770800000000000000
+      internalID: 8609495859479999295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_Golem_pochi_4
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 52
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9099d7d8682a47c90800000000000000
+      internalID: -7172929607711221495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_Golem_pochi_5
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 52
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8174626ca9fb8d20800000000000000
+      internalID: 3281991272249979278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_Golem_pochi_6
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 52
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38ba6196316aa8390800000000000000
+      internalID: -7815251601050391677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_Golem_pochi_7
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 51
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1457a7a7861c0f2f0800000000000000
+      internalID: -941039667644828351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_Golem_pochi_8
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 52
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f9ee32b18dd49560800000000000000
+      internalID: 7319718843494885880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_Golem_pochi_9
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 53
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 367b1e3c264955420800000000000000
+      internalID: 2618161910299866979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_Golem_pochi_10
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 26
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7469055c860ce54d0800000000000000
+      internalID: -3143863933638502841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_Golem_pochi_11
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 26
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 374d8a1b12cbc0730800000000000000
+      internalID: 3966752224707138675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_Golem_pochi_12
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 26
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2d96e86d2bcdde00800000000000000
+      internalID: 1071235682277956909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_Golem_pochi_13
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 25
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 334b56bf1f6f84a70800000000000000
+      internalID: 8811564190115673139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_Golem_pochi_14
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 26
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d6a4807239942fb0800000000000000
+      internalID: -4673442071388576042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_Golem_pochi_15
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 27
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bee7b68b76a4be50800000000000000
+      internalID: 6824262384844533424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_Golem_pochi_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 67
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6206b4cae32b5450800000000000000
+      internalID: 6078491613296198255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_Golem_pochi_17
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 1
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29501b49cba0fdaf0800000000000000
+      internalID: -369564839356332654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_Golem_pochi_18
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 0
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d54801cde522696a0800000000000000
+      internalID: -6442924426092575651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_Golem_pochi_19
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 0
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7239df49f9fc53cd0800000000000000
+      internalID: -2578926927293344985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Monster_Golem_pochi_0: -3864129930903742135
+      Monster_Golem_pochi_1: -8105113155362720898
+      Monster_Golem_pochi_10: -3143863933638502841
+      Monster_Golem_pochi_11: 3966752224707138675
+      Monster_Golem_pochi_12: 1071235682277956909
+      Monster_Golem_pochi_13: 8811564190115673139
+      Monster_Golem_pochi_14: -4673442071388576042
+      Monster_Golem_pochi_15: 6824262384844533424
+      Monster_Golem_pochi_16: 6078491613296198255
+      Monster_Golem_pochi_17: -369564839356332654
+      Monster_Golem_pochi_18: -6442924426092575651
+      Monster_Golem_pochi_19: -2578926927293344985
+      Monster_Golem_pochi_2: 7079855207341650417
+      Monster_Golem_pochi_3: 8609495859479999295
+      Monster_Golem_pochi_4: -7172929607711221495
+      Monster_Golem_pochi_5: 3281991272249979278
+      Monster_Golem_pochi_6: -7815251601050391677
+      Monster_Golem_pochi_7: -941039667644828351
+      Monster_Golem_pochi_8: 7319718843494885880
+      Monster_Golem_pochi_9: 2618161910299866979
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

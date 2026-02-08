@@ -1,0 +1,585 @@
+fileFormatVersion: 2
+guid: 2a9339aa037de024b8451cb398fe9590
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5693749636146265572
+    second: Chara_Devil_USM_0
+  - first:
+      213: -3009845963057441761
+    second: Chara_Devil_USM_1
+  - first:
+      213: -4265990000978712494
+    second: Chara_Devil_USM_2
+  - first:
+      213: -8301094933598749535
+    second: Chara_Devil_USM_3
+  - first:
+      213: 9018000287029187727
+    second: Chara_Devil_USM_4
+  - first:
+      213: 7557191519408717911
+    second: Chara_Devil_USM_5
+  - first:
+      213: -3821192234921141133
+    second: Chara_Devil_USM_6
+  - first:
+      213: -438775966320648707
+    second: Chara_Devil_USM_7
+  - first:
+      213: 8054629561029365634
+    second: Chara_Devil_USM_8
+  - first:
+      213: -5976286131164304578
+    second: Chara_Devil_USM_9
+  - first:
+      213: 1412257274575301098
+    second: Chara_Devil_USM_10
+  - first:
+      213: -3578381133143028276
+    second: Chara_Devil_USM_11
+  - first:
+      213: 2405246015994139009
+    second: Chara_Devil_USM_12
+  - first:
+      213: 1739521068690797790
+    second: Chara_Devil_USM_13
+  - first:
+      213: -7672645685038227399
+    second: Chara_Devil_USM_14
+  - first:
+      213: -2917208132254105967
+    second: Chara_Devil_USM_15
+  - first:
+      213: 9136785011500424132
+    second: Chara_Devil_USM_16
+  - first:
+      213: 3353711226236554896
+    second: Chara_Devil_USM_17
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Chara_Devil_USM_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 62
+        width: 61
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c120e796fdcbbf0b0800000000000000
+      internalID: -5693749636146265572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chara_Devil_USM_1
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 42
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f14515f1b01ea36d0800000000000000
+      internalID: -3009845963057441761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chara_Devil_USM_2
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 42
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 258ab4042b82cc4c0800000000000000
+      internalID: -4265990000978712494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chara_Devil_USM_3
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 41
+        width: 35
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ac3d0493269ccc80800000000000000
+      internalID: -8301094933598749535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chara_Devil_USM_4
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 63
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f84debc4b7f562d70800000000000000
+      internalID: 9018000287029187727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chara_Devil_USM_5
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 42
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75083fda5a980e860800000000000000
+      internalID: 7557191519408717911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chara_Devil_USM_6
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 63
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37c5b0b68e568fac0800000000000000
+      internalID: -3821192234921141133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chara_Devil_USM_7
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 42
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfd9a77559729e9f0800000000000000
+      internalID: -438775966320648707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chara_Devil_USM_8
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 62
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28f048619eac7cf60800000000000000
+      internalID: 8054629561029365634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chara_Devil_USM_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 21
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3babdb6d67ff0da0800000000000000
+      internalID: -5976286131164304578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chara_Devil_USM_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 77
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae9a58e3288599310800000000000000
+      internalID: 1412257274575301098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chara_Devil_USM_11
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 21
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccdcc088159075ec0800000000000000
+      internalID: -3578381133143028276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chara_Devil_USM_12
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 21
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18111cc0286216120800000000000000
+      internalID: 2405246015994139009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chara_Devil_USM_13
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 20
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed47f921235042810800000000000000
+      internalID: 1739521068690797790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chara_Devil_USM_14
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 0
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 930ecdf9669458590800000000000000
+      internalID: -7672645685038227399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chara_Devil_USM_15
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 21
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19efc15e8aef387d0800000000000000
+      internalID: -2917208132254105967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chara_Devil_USM_16
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 0
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cb98972f816cce70800000000000000
+      internalID: 9136785011500424132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chara_Devil_USM_17
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 21
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09ec11f6796ca8e20800000000000000
+      internalID: 3353711226236554896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Chara_Devil_USM_0: -5693749636146265572
+      Chara_Devil_USM_1: -3009845963057441761
+      Chara_Devil_USM_10: 1412257274575301098
+      Chara_Devil_USM_11: -3578381133143028276
+      Chara_Devil_USM_12: 2405246015994139009
+      Chara_Devil_USM_13: 1739521068690797790
+      Chara_Devil_USM_14: -7672645685038227399
+      Chara_Devil_USM_15: -2917208132254105967
+      Chara_Devil_USM_16: 9136785011500424132
+      Chara_Devil_USM_17: 3353711226236554896
+      Chara_Devil_USM_2: -4265990000978712494
+      Chara_Devil_USM_3: -8301094933598749535
+      Chara_Devil_USM_4: 9018000287029187727
+      Chara_Devil_USM_5: 7557191519408717911
+      Chara_Devil_USM_6: -3821192234921141133
+      Chara_Devil_USM_7: -438775966320648707
+      Chara_Devil_USM_8: 8054629561029365634
+      Chara_Devil_USM_9: -5976286131164304578
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

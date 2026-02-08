@@ -1,0 +1,351 @@
+fileFormatVersion: 2
+guid: 06e45f72650a5334b90b023e4c3c9a6b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7599457410815040069
+    second: Fog_Cloud_pipo_0
+  - first:
+      213: 1596300374307770397
+    second: Fog_Cloud_pipo_1
+  - first:
+      213: -6750882477945097538
+    second: Fog_Cloud_pipo_2
+  - first:
+      213: -4933542529313642656
+    second: Fog_Cloud_pipo_3
+  - first:
+      213: -6507017350556499162
+    second: Fog_Cloud_pipo_4
+  - first:
+      213: -9194353897916541369
+    second: Fog_Cloud_pipo_5
+  - first:
+      213: 1189368959214875416
+    second: Fog_Cloud_pipo_6
+  - first:
+      213: 4431359683399701915
+    second: Fog_Cloud_pipo_7
+  - first:
+      213: 8227009239088187118
+    second: Fog_Cloud_pipo_8
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Fog_Cloud_pipo_0
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 208
+        width: 68
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb5e8ae9fbd498690800000000000000
+      internalID: -7599457410815040069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fog_Cloud_pipo_1
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 109
+        width: 106
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d10107d9bb2372610800000000000000
+      internalID: 1596300374307770397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fog_Cloud_pipo_2
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 159
+        width: 66
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb27cad672c0052a0800000000000000
+      internalID: -6750882477945097538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fog_Cloud_pipo_3
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 146
+        width: 40
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0676af76539888bb0800000000000000
+      internalID: -4933542529313642656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fog_Cloud_pipo_4
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 41
+        width: 164
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 623c6c0023e62b5a0800000000000000
+      internalID: -6507017350556499162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fog_Cloud_pipo_5
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 97
+        width: 38
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 746d477f7d7176080800000000000000
+      internalID: -9194353897916541369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fog_Cloud_pipo_6
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 50
+        width: 40
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 813f0e054cc718010800000000000000
+      internalID: 1189368959214875416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fog_Cloud_pipo_7
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 9
+        width: 68
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b95d609572a5f7d30800000000000000
+      internalID: 4431359683399701915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fog_Cloud_pipo_8
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 1
+        width: 38
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee645bb70553c2270800000000000000
+      internalID: 8227009239088187118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Fog_Cloud_pipo_0: -7599457410815040069
+      Fog_Cloud_pipo_1: 1596300374307770397
+      Fog_Cloud_pipo_2: -6750882477945097538
+      Fog_Cloud_pipo_3: -4933542529313642656
+      Fog_Cloud_pipo_4: -6507017350556499162
+      Fog_Cloud_pipo_5: -9194353897916541369
+      Fog_Cloud_pipo_6: 1189368959214875416
+      Fog_Cloud_pipo_7: 4431359683399701915
+      Fog_Cloud_pipo_8: 8227009239088187118
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,689 @@
+fileFormatVersion: 2
+guid: 6a303559e9979d6469d399b29bee6051
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7386957714739541782
+    second: Monster_Skelton_pochi_0
+  - first:
+      213: -7400376679725692224
+    second: Monster_Skelton_pochi_1
+  - first:
+      213: 135615329730158791
+    second: Monster_Skelton_pochi_2
+  - first:
+      213: 3890121639112490171
+    second: Monster_Skelton_pochi_3
+  - first:
+      213: 4505021153173516638
+    second: Monster_Skelton_pochi_4
+  - first:
+      213: 8743702527716597954
+    second: Monster_Skelton_pochi_5
+  - first:
+      213: -3115486930146736491
+    second: Monster_Skelton_pochi_6
+  - first:
+      213: -8112513089580973136
+    second: Monster_Skelton_pochi_7
+  - first:
+      213: 5870196039733433984
+    second: Monster_Skelton_pochi_8
+  - first:
+      213: 442111383975047591
+    second: Monster_Skelton_pochi_9
+  - first:
+      213: -2951212541024086365
+    second: Monster_Skelton_pochi_10
+  - first:
+      213: 605728953173907121
+    second: Monster_Skelton_pochi_11
+  - first:
+      213: -4043979547045335591
+    second: Monster_Skelton_pochi_12
+  - first:
+      213: 7816269771634836753
+    second: Monster_Skelton_pochi_13
+  - first:
+      213: 2769442596671691599
+    second: Monster_Skelton_pochi_14
+  - first:
+      213: 12692738070375844
+    second: Monster_Skelton_pochi_15
+  - first:
+      213: 8880927000942408015
+    second: Monster_Skelton_pochi_16
+  - first:
+      213: 1035528003085001016
+    second: Monster_Skelton_pochi_17
+  - first:
+      213: -6337719692655241333
+    second: Monster_Skelton_pochi_18
+  - first:
+      213: -5779177207499049201
+    second: Monster_Skelton_pochi_19
+  - first:
+      213: -8920705640135802577
+    second: Monster_Skelton_pochi_20
+  - first:
+      213: 6962672968146572067
+    second: Monster_Skelton_pochi_21
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Monster_Skelton_pochi_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 59
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae84e12a8114c7990800000000000000
+      internalID: -7386957714739541782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_Skelton_pochi_1
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 60
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ca8dd06e949c4990800000000000000
+      internalID: -7400376679725692224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_Skelton_pochi_2
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 40
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c0e9a28c6dc1e100800000000000000
+      internalID: 135615329730158791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_Skelton_pochi_3
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 59
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbc3c50250d7cf530800000000000000
+      internalID: 3890121639112490171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_Skelton_pochi_4
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 60
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e513784cedc058e30800000000000000
+      internalID: 4505021153173516638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_Skelton_pochi_5
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 40
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c0ab327f1fd75970800000000000000
+      internalID: 8743702527716597954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_Skelton_pochi_6
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 60
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5964b32c42193c4d0800000000000000
+      internalID: -3115486930146736491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_Skelton_pochi_7
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 59
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b3c1d3b3509a6f80800000000000000
+      internalID: -8112513089580973136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_Skelton_pochi_8
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 40
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 086573e4230277150800000000000000
+      internalID: 5870196039733433984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_Skelton_pochi_9
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 20
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a13df816f1b22600800000000000000
+      internalID: 442111383975047591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_Skelton_pochi_10
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 40
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a6d49384df2b07d0800000000000000
+      internalID: -2951212541024086365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_Skelton_pochi_11
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 39
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b6991c064bf76800800000000000000
+      internalID: 605728953173907121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_Skelton_pochi_12
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 20
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ddea632706e0e7c0800000000000000
+      internalID: -4043979547045335591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_Skelton_pochi_13
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 40
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1150be6e1f7f87c60800000000000000
+      internalID: 7816269771634836753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_Skelton_pochi_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 48
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4b93785e590f6620800000000000000
+      internalID: 2769442596671691599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_Skelton_pochi_15
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 20
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ad69ef5af71d2000800000000000000
+      internalID: 12692738070375844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_Skelton_pochi_16
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 20
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f41f85fdd046f3b70800000000000000
+      internalID: 8880927000942408015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_Skelton_pochi_17
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 19
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 831e9da7b3fee5e00800000000000000
+      internalID: 1035528003085001016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_Skelton_pochi_18
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b875949a485eb08a0800000000000000
+      internalID: -6337719692655241333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_Skelton_pochi_19
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 20
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f073cfcf2fc3ccfa0800000000000000
+      internalID: -5779177207499049201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_Skelton_pochi_20
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 0
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f21c1e5fb79433480800000000000000
+      internalID: -8920705640135802577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_Skelton_pochi_21
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 0
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3235799bc2260a060800000000000000
+      internalID: 6962672968146572067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Monster_Skelton_pochi_0: -7386957714739541782
+      Monster_Skelton_pochi_1: -7400376679725692224
+      Monster_Skelton_pochi_10: -2951212541024086365
+      Monster_Skelton_pochi_11: 605728953173907121
+      Monster_Skelton_pochi_12: -4043979547045335591
+      Monster_Skelton_pochi_13: 7816269771634836753
+      Monster_Skelton_pochi_14: 2769442596671691599
+      Monster_Skelton_pochi_15: 12692738070375844
+      Monster_Skelton_pochi_16: 8880927000942408015
+      Monster_Skelton_pochi_17: 1035528003085001016
+      Monster_Skelton_pochi_18: -6337719692655241333
+      Monster_Skelton_pochi_19: -5779177207499049201
+      Monster_Skelton_pochi_2: 135615329730158791
+      Monster_Skelton_pochi_20: -8920705640135802577
+      Monster_Skelton_pochi_21: 6962672968146572067
+      Monster_Skelton_pochi_3: 3890121639112490171
+      Monster_Skelton_pochi_4: 4505021153173516638
+      Monster_Skelton_pochi_5: 8743702527716597954
+      Monster_Skelton_pochi_6: -3115486930146736491
+      Monster_Skelton_pochi_7: -8112513089580973136
+      Monster_Skelton_pochi_8: 5870196039733433984
+      Monster_Skelton_pochi_9: 442111383975047591
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

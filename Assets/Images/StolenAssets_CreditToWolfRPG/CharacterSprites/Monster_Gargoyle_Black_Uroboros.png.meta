@@ -1,0 +1,741 @@
+fileFormatVersion: 2
+guid: ba3ab4a58d4af2d47ae6037c0cb956f0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3671411400914863125
+    second: Monster_Gargoyle_Black_Uroboros_0
+  - first:
+      213: 909152422432914951
+    second: Monster_Gargoyle_Black_Uroboros_1
+  - first:
+      213: -8317278793401548460
+    second: Monster_Gargoyle_Black_Uroboros_2
+  - first:
+      213: 7811907419989971598
+    second: Monster_Gargoyle_Black_Uroboros_3
+  - first:
+      213: -8229965608386822068
+    second: Monster_Gargoyle_Black_Uroboros_4
+  - first:
+      213: -1049358666979914545
+    second: Monster_Gargoyle_Black_Uroboros_5
+  - first:
+      213: 4512260072448112006
+    second: Monster_Gargoyle_Black_Uroboros_6
+  - first:
+      213: 3737178602509119536
+    second: Monster_Gargoyle_Black_Uroboros_7
+  - first:
+      213: 6576156931242778121
+    second: Monster_Gargoyle_Black_Uroboros_8
+  - first:
+      213: 5218185770837381401
+    second: Monster_Gargoyle_Black_Uroboros_9
+  - first:
+      213: 6370947561052207984
+    second: Monster_Gargoyle_Black_Uroboros_10
+  - first:
+      213: 224392022027251594
+    second: Monster_Gargoyle_Black_Uroboros_11
+  - first:
+      213: 8000150059717238728
+    second: Monster_Gargoyle_Black_Uroboros_12
+  - first:
+      213: -8670911175790479232
+    second: Monster_Gargoyle_Black_Uroboros_13
+  - first:
+      213: -1660534530458354440
+    second: Monster_Gargoyle_Black_Uroboros_14
+  - first:
+      213: -3303970557944574391
+    second: Monster_Gargoyle_Black_Uroboros_15
+  - first:
+      213: -6735055835439641774
+    second: Monster_Gargoyle_Black_Uroboros_16
+  - first:
+      213: -1515309688221002608
+    second: Monster_Gargoyle_Black_Uroboros_17
+  - first:
+      213: -6493143020152072180
+    second: Monster_Gargoyle_Black_Uroboros_18
+  - first:
+      213: 7401126768670591459
+    second: Monster_Gargoyle_Black_Uroboros_19
+  - first:
+      213: -3399724630554927815
+    second: Monster_Gargoyle_Black_Uroboros_20
+  - first:
+      213: 4771937784659703589
+    second: Monster_Gargoyle_Black_Uroboros_21
+  - first:
+      213: 7503917363968973053
+    second: Monster_Gargoyle_Black_Uroboros_22
+  - first:
+      213: -6631227745825679286
+    second: Monster_Gargoyle_Black_Uroboros_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Monster_Gargoyle_Black_Uroboros_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 83
+        width: 30
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51489d7973973f230800000000000000
+      internalID: 3671411400914863125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_Gargoyle_Black_Uroboros_1
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 84
+        width: 30
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70ebcc1bf45fd9c00800000000000000
+      internalID: 909152422432914951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_Gargoyle_Black_Uroboros_2
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 83
+        width: 30
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45149651107139c80800000000000000
+      internalID: -8317278793401548460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_Gargoyle_Black_Uroboros_3
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 84
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e829db2c868796c60800000000000000
+      internalID: 7811907419989971598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_Gargoyle_Black_Uroboros_4
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 84
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c400c6622e949cd80800000000000000
+      internalID: -8229965608386822068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_Gargoyle_Black_Uroboros_5
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 83
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcc4fa42addef61f0800000000000000
+      internalID: -1049358666979914545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_Gargoyle_Black_Uroboros_6
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 56
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 685b27001a4ce9e30800000000000000
+      internalID: 4512260072448112006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_Gargoyle_Black_Uroboros_7
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 56
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0303fb873202dd330800000000000000
+      internalID: 3737178602509119536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_Gargoyle_Black_Uroboros_8
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 56
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90ed2f113e3334b50800000000000000
+      internalID: 6576156931242778121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_Gargoyle_Black_Uroboros_9
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 55
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91192cabf48ba6840800000000000000
+      internalID: 5218185770837381401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_Gargoyle_Black_Uroboros_10
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 56
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07b78235d072a6850800000000000000
+      internalID: 6370947561052207984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_Gargoyle_Black_Uroboros_11
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 56
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8fad5bea533d1300800000000000000
+      internalID: 224392022027251594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_Gargoyle_Black_Uroboros_12
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 28
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cf144bb71e360f60800000000000000
+      internalID: 8000150059717238728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_Gargoyle_Black_Uroboros_13
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 28
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0883b00e93cbaa780800000000000000
+      internalID: -8670911175790479232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_Gargoyle_Black_Uroboros_14
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 28
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fc72c674a894f8e0800000000000000
+      internalID: -1660534530458354440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_Gargoyle_Black_Uroboros_15
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 27
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94e4d516840f522d0800000000000000
+      internalID: -3303970557944574391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_Gargoyle_Black_Uroboros_16
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 28
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25bc23ac6664882a0800000000000000
+      internalID: -6735055835439641774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_Gargoyle_Black_Uroboros_17
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 28
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09411e4fdd988fae0800000000000000
+      internalID: -1515309688221002608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_Gargoyle_Black_Uroboros_18
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 0
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c08570843d8b3e5a0800000000000000
+      internalID: -6493143020152072180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_Gargoyle_Black_Uroboros_19
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 0
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e9ce30559516b660800000000000000
+      internalID: 7401126768670591459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_Gargoyle_Black_Uroboros_20
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 0
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93d90a50670c1d0d0800000000000000
+      internalID: -3399724630554927815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_Gargoyle_Black_Uroboros_21
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 0
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 527f7e0e124593240800000000000000
+      internalID: 4771937784659703589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_Gargoyle_Black_Uroboros_22
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 0
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df89147c515432860800000000000000
+      internalID: 7503917363968973053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_Gargoyle_Black_Uroboros_23
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 0
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a489859bf7529f3a0800000000000000
+      internalID: -6631227745825679286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Monster_Gargoyle_Black_Uroboros_0: 3671411400914863125
+      Monster_Gargoyle_Black_Uroboros_1: 909152422432914951
+      Monster_Gargoyle_Black_Uroboros_10: 6370947561052207984
+      Monster_Gargoyle_Black_Uroboros_11: 224392022027251594
+      Monster_Gargoyle_Black_Uroboros_12: 8000150059717238728
+      Monster_Gargoyle_Black_Uroboros_13: -8670911175790479232
+      Monster_Gargoyle_Black_Uroboros_14: -1660534530458354440
+      Monster_Gargoyle_Black_Uroboros_15: -3303970557944574391
+      Monster_Gargoyle_Black_Uroboros_16: -6735055835439641774
+      Monster_Gargoyle_Black_Uroboros_17: -1515309688221002608
+      Monster_Gargoyle_Black_Uroboros_18: -6493143020152072180
+      Monster_Gargoyle_Black_Uroboros_19: 7401126768670591459
+      Monster_Gargoyle_Black_Uroboros_2: -8317278793401548460
+      Monster_Gargoyle_Black_Uroboros_20: -3399724630554927815
+      Monster_Gargoyle_Black_Uroboros_21: 4771937784659703589
+      Monster_Gargoyle_Black_Uroboros_22: 7503917363968973053
+      Monster_Gargoyle_Black_Uroboros_23: -6631227745825679286
+      Monster_Gargoyle_Black_Uroboros_3: 7811907419989971598
+      Monster_Gargoyle_Black_Uroboros_4: -8229965608386822068
+      Monster_Gargoyle_Black_Uroboros_5: -1049358666979914545
+      Monster_Gargoyle_Black_Uroboros_6: 4512260072448112006
+      Monster_Gargoyle_Black_Uroboros_7: 3737178602509119536
+      Monster_Gargoyle_Black_Uroboros_8: 6576156931242778121
+      Monster_Gargoyle_Black_Uroboros_9: 5218185770837381401
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

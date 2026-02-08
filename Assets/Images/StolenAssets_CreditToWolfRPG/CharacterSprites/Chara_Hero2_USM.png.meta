@@ -1,0 +1,663 @@
+fileFormatVersion: 2
+guid: ff9ec7e237beb1341ad1c13e2f759391
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8284362522416914354
+    second: Chara_Hero2_USM_0
+  - first:
+      213: -8968326599098641032
+    second: Chara_Hero2_USM_1
+  - first:
+      213: -2924091662543907630
+    second: Chara_Hero2_USM_2
+  - first:
+      213: 8174426918616270019
+    second: Chara_Hero2_USM_3
+  - first:
+      213: 1893493905001578018
+    second: Chara_Hero2_USM_4
+  - first:
+      213: 5159431208551121808
+    second: Chara_Hero2_USM_5
+  - first:
+      213: 3685752770580545273
+    second: Chara_Hero2_USM_6
+  - first:
+      213: 3900528834709221024
+    second: Chara_Hero2_USM_7
+  - first:
+      213: -4926548651016906536
+    second: Chara_Hero2_USM_8
+  - first:
+      213: -2979486875145173027
+    second: Chara_Hero2_USM_9
+  - first:
+      213: -7900851553093090083
+    second: Chara_Hero2_USM_10
+  - first:
+      213: 4877041630193954550
+    second: Chara_Hero2_USM_11
+  - first:
+      213: 4233213756471525420
+    second: Chara_Hero2_USM_12
+  - first:
+      213: -4487872544316251890
+    second: Chara_Hero2_USM_13
+  - first:
+      213: 8802799195332177756
+    second: Chara_Hero2_USM_14
+  - first:
+      213: 5450329173402156192
+    second: Chara_Hero2_USM_15
+  - first:
+      213: -1234169531953723025
+    second: Chara_Hero2_USM_16
+  - first:
+      213: -8159537306051094963
+    second: Chara_Hero2_USM_17
+  - first:
+      213: -8304519943782219695
+    second: Chara_Hero2_USM_18
+  - first:
+      213: -655554946438380856
+    second: Chara_Hero2_USM_19
+  - first:
+      213: -7622593047090802497
+    second: Chara_Hero2_USM_20
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Chara_Hero2_USM_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 56
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bf183b52d7f7f270800000000000000
+      internalID: 8284362522416914354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chara_Hero2_USM_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 38
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 875d90f697a1a8380800000000000000
+      internalID: -8968326599098641032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chara_Hero2_USM_2
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 57
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d4936b102a8b67d0800000000000000
+      internalID: -2924091662543907630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chara_Hero2_USM_3
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 38
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c48386f8f5617170800000000000000
+      internalID: 8174426918616270019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chara_Hero2_USM_4
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 56
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22e7cf7acaa074a10800000000000000
+      internalID: 1893493905001578018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chara_Hero2_USM_5
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 37
+        width: 28
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09301cc295bf99740800000000000000
+      internalID: 5159431208551121808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chara_Hero2_USM_6
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 57
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fe7d5ced9c662330800000000000000
+      internalID: 3685752770580545273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chara_Hero2_USM_7
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 57
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0aee20d2f46712630800000000000000
+      internalID: 3900528834709221024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chara_Hero2_USM_8
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 38
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d815779a1261abb0800000000000000
+      internalID: -4926548651016906536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chara_Hero2_USM_9
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 56
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd7880a197cb6a6d0800000000000000
+      internalID: -2979486875145173027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chara_Hero2_USM_10
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 38
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd40bca7f598a5290800000000000000
+      internalID: -7900851553093090083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chara_Hero2_USM_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 19
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fea082e58bbea340800000000000000
+      internalID: 4877041630193954550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chara_Hero2_USM_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 42
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2048c4ab756fba30800000000000000
+      internalID: 4233213756471525420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chara_Hero2_USM_13
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 19
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e012dced2bfd7b1c0800000000000000
+      internalID: -4487872544316251890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chara_Hero2_USM_14
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 19
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5f6eda9a33d92a70800000000000000
+      internalID: 8802799195332177756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chara_Hero2_USM_15
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 18
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ac7591918573ab40800000000000000
+      internalID: 5450329173402156192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chara_Hero2_USM_16
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 0
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f69c94f79595fdee0800000000000000
+      internalID: -1234169531953723025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chara_Hero2_USM_17
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 19
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d46d64d1d0083ce80800000000000000
+      internalID: -8159537306051094963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chara_Hero2_USM_18
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 0
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 150c6b04c1b60cc80800000000000000
+      internalID: -8304519943782219695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chara_Hero2_USM_19
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 0
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c24acedf3007e6f0800000000000000
+      internalID: -655554946438380856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chara_Hero2_USM_20
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 19
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb05ac8820c173690800000000000000
+      internalID: -7622593047090802497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Chara_Hero2_USM_0: 8284362522416914354
+      Chara_Hero2_USM_1: -8968326599098641032
+      Chara_Hero2_USM_10: -7900851553093090083
+      Chara_Hero2_USM_11: 4877041630193954550
+      Chara_Hero2_USM_12: 4233213756471525420
+      Chara_Hero2_USM_13: -4487872544316251890
+      Chara_Hero2_USM_14: 8802799195332177756
+      Chara_Hero2_USM_15: 5450329173402156192
+      Chara_Hero2_USM_16: -1234169531953723025
+      Chara_Hero2_USM_17: -8159537306051094963
+      Chara_Hero2_USM_18: -8304519943782219695
+      Chara_Hero2_USM_19: -655554946438380856
+      Chara_Hero2_USM_2: -2924091662543907630
+      Chara_Hero2_USM_20: -7622593047090802497
+      Chara_Hero2_USM_3: 8174426918616270019
+      Chara_Hero2_USM_4: 1893493905001578018
+      Chara_Hero2_USM_5: 5159431208551121808
+      Chara_Hero2_USM_6: 3685752770580545273
+      Chara_Hero2_USM_7: 3900528834709221024
+      Chara_Hero2_USM_8: -4926548651016906536
+      Chara_Hero2_USM_9: -2979486875145173027
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

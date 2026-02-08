@@ -1,0 +1,741 @@
+fileFormatVersion: 2
+guid: 548b6df40e31dba41b9175ed6f774693
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5615198152310129126
+    second: Monster_Wolf_pochi_0
+  - first:
+      213: 8056392905765464920
+    second: Monster_Wolf_pochi_1
+  - first:
+      213: 1947661068440902163
+    second: Monster_Wolf_pochi_2
+  - first:
+      213: -4502231641203252310
+    second: Monster_Wolf_pochi_3
+  - first:
+      213: -5158231236030866571
+    second: Monster_Wolf_pochi_4
+  - first:
+      213: 5936630376727631302
+    second: Monster_Wolf_pochi_5
+  - first:
+      213: -1095954214110834203
+    second: Monster_Wolf_pochi_6
+  - first:
+      213: 5260873938633550391
+    second: Monster_Wolf_pochi_7
+  - first:
+      213: 3235647138474268069
+    second: Monster_Wolf_pochi_8
+  - first:
+      213: -6992517980384675743
+    second: Monster_Wolf_pochi_9
+  - first:
+      213: 8673500957583274342
+    second: Monster_Wolf_pochi_10
+  - first:
+      213: -6594353897632919401
+    second: Monster_Wolf_pochi_11
+  - first:
+      213: 1060039853150281564
+    second: Monster_Wolf_pochi_12
+  - first:
+      213: -8965317983057768224
+    second: Monster_Wolf_pochi_13
+  - first:
+      213: -6527757295461091007
+    second: Monster_Wolf_pochi_14
+  - first:
+      213: -903509481165405938
+    second: Monster_Wolf_pochi_15
+  - first:
+      213: 9161910730197198305
+    second: Monster_Wolf_pochi_16
+  - first:
+      213: -6143183528914441896
+    second: Monster_Wolf_pochi_17
+  - first:
+      213: 7871339072247763427
+    second: Monster_Wolf_pochi_18
+  - first:
+      213: -4269409181727615520
+    second: Monster_Wolf_pochi_19
+  - first:
+      213: 7934263351621353549
+    second: Monster_Wolf_pochi_20
+  - first:
+      213: 4420274733014477305
+    second: Monster_Wolf_pochi_21
+  - first:
+      213: 2047025293523480381
+    second: Monster_Wolf_pochi_22
+  - first:
+      213: 805865511134175722
+    second: Monster_Wolf_pochi_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Monster_Wolf_pochi_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 59
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1eff14f70fc212b0800000000000000
+      internalID: -5615198152310129126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_Wolf_pochi_1
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 60
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85ba027c9ae0ecf60800000000000000
+      internalID: 8056392905765464920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_Wolf_pochi_2
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 59
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31a174f2c6b770b10800000000000000
+      internalID: 1947661068440902163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_Wolf_pochi_3
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 60
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa36e891d2cd481c0800000000000000
+      internalID: -4502231641203252310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_Wolf_pochi_4
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 60
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57b5e0335084a68b0800000000000000
+      internalID: -5158231236030866571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_Wolf_pochi_5
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 59
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c5d4afbfd5236250800000000000000
+      internalID: 5936630376727631302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_Wolf_pochi_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 41
+        width: 27
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e1d4d9e2736ac0f0800000000000000
+      internalID: -1095954214110834203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_Wolf_pochi_7
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 41
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73aec5059f0620940800000000000000
+      internalID: 5260873938633550391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_Wolf_pochi_8
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 41
+        width: 27
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a59443ede357ec20800000000000000
+      internalID: 3235647138474268069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_Wolf_pochi_9
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 39
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 168b3add1f595fe90800000000000000
+      internalID: -6992517980384675743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_Wolf_pochi_10
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 40
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 661f2cfaa277e5870800000000000000
+      internalID: 8673500957583274342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_Wolf_pochi_11
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 40
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 790906881162c74a0800000000000000
+      internalID: -6594353897632919401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_Wolf_pochi_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 21
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5f97ce41a406be00800000000000000
+      internalID: 1060039853150281564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_Wolf_pochi_13
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 21
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e09b617bcac49380800000000000000
+      internalID: -8965317983057768224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_Wolf_pochi_14
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 21
+        width: 27
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 149b318435fb865a0800000000000000
+      internalID: -6527757295461091007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_Wolf_pochi_15
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 20
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0140f3f9e61673f0800000000000000
+      internalID: -903509481165405938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_Wolf_pochi_16
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 20
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e56e396445a52f70800000000000000
+      internalID: 9161910730197198305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_Wolf_pochi_17
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 19
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8592601e0270fbaa0800000000000000
+      internalID: -6143183528914441896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_Wolf_pochi_18
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 0
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e11bfb9e2d9c3d60800000000000000
+      internalID: 7871339072247763427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_Wolf_pochi_19
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 0
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e5955238f200c4c0800000000000000
+      internalID: -4269409181727615520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_Wolf_pochi_20
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 0
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d408ac31b7a2c1e60800000000000000
+      internalID: 7934263351621353549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_Wolf_pochi_21
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 0
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f966f63378f75d30800000000000000
+      internalID: 4420274733014477305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_Wolf_pochi_22
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 0
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3fe4baa8ae786c10800000000000000
+      internalID: 2047025293523480381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_Wolf_pochi_23
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 0
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae124e7a9620f2b00800000000000000
+      internalID: 805865511134175722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Monster_Wolf_pochi_0: -5615198152310129126
+      Monster_Wolf_pochi_1: 8056392905765464920
+      Monster_Wolf_pochi_10: 8673500957583274342
+      Monster_Wolf_pochi_11: -6594353897632919401
+      Monster_Wolf_pochi_12: 1060039853150281564
+      Monster_Wolf_pochi_13: -8965317983057768224
+      Monster_Wolf_pochi_14: -6527757295461091007
+      Monster_Wolf_pochi_15: -903509481165405938
+      Monster_Wolf_pochi_16: 9161910730197198305
+      Monster_Wolf_pochi_17: -6143183528914441896
+      Monster_Wolf_pochi_18: 7871339072247763427
+      Monster_Wolf_pochi_19: -4269409181727615520
+      Monster_Wolf_pochi_2: 1947661068440902163
+      Monster_Wolf_pochi_20: 7934263351621353549
+      Monster_Wolf_pochi_21: 4420274733014477305
+      Monster_Wolf_pochi_22: 2047025293523480381
+      Monster_Wolf_pochi_23: 805865511134175722
+      Monster_Wolf_pochi_3: -4502231641203252310
+      Monster_Wolf_pochi_4: -5158231236030866571
+      Monster_Wolf_pochi_5: 5936630376727631302
+      Monster_Wolf_pochi_6: -1095954214110834203
+      Monster_Wolf_pochi_7: 5260873938633550391
+      Monster_Wolf_pochi_8: 3235647138474268069
+      Monster_Wolf_pochi_9: -6992517980384675743
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

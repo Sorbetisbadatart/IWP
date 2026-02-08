@@ -1,0 +1,663 @@
+fileFormatVersion: 2
+guid: 77f980acd5259364da0d91ca0f4d4055
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4193006716626022728
+    second: Chara_Doctor_0
+  - first:
+      213: -1720330322830361599
+    second: Chara_Doctor_1
+  - first:
+      213: -763560492045420376
+    second: Chara_Doctor_2
+  - first:
+      213: -6445641624065508653
+    second: Chara_Doctor_3
+  - first:
+      213: 515888518940086279
+    second: Chara_Doctor_4
+  - first:
+      213: -3442047605960433758
+    second: Chara_Doctor_5
+  - first:
+      213: 8063692323205845031
+    second: Chara_Doctor_6
+  - first:
+      213: 2850137341753495760
+    second: Chara_Doctor_7
+  - first:
+      213: 1661197723862100266
+    second: Chara_Doctor_8
+  - first:
+      213: -5096792780139075906
+    second: Chara_Doctor_9
+  - first:
+      213: 5749174957682004275
+    second: Chara_Doctor_10
+  - first:
+      213: -8621822207143506729
+    second: Chara_Doctor_11
+  - first:
+      213: -5906034413744403071
+    second: Chara_Doctor_12
+  - first:
+      213: 2650342796322273031
+    second: Chara_Doctor_13
+  - first:
+      213: -2663363543248536171
+    second: Chara_Doctor_14
+  - first:
+      213: -6915520761354368765
+    second: Chara_Doctor_15
+  - first:
+      213: -4143837462019855103
+    second: Chara_Doctor_16
+  - first:
+      213: 6421266338473442868
+    second: Chara_Doctor_17
+  - first:
+      213: 5459707154127247199
+    second: Chara_Doctor_18
+  - first:
+      213: 5798046317283531180
+    second: Chara_Doctor_19
+  - first:
+      213: 7628385469198191700
+    second: Chara_Doctor_20
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Chara_Doctor_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 59
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8becda25b927fc5c0800000000000000
+      internalID: -4193006716626022728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chara_Doctor_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 40
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10cfc53afa82028e0800000000000000
+      internalID: -1720330322830361599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chara_Doctor_2
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 60
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a83c1b27c94765f0800000000000000
+      internalID: -763560492045420376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chara_Doctor_3
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 40
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3da7a18e71b7c86a0800000000000000
+      internalID: -6445641624065508653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chara_Doctor_4
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 59
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 700502befddc82700800000000000000
+      internalID: 515888518940086279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chara_Doctor_5
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 39
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2af9eba60f36b30d0800000000000000
+      internalID: -3442047605960433758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chara_Doctor_6
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 60
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7209ab6d17df7ef60800000000000000
+      internalID: 8063692323205845031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chara_Doctor_7
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 60
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d01b48cfc8bd8720800000000000000
+      internalID: 2850137341753495760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chara_Doctor_8
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 40
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a29ec784782cd0710800000000000000
+      internalID: 1661197723862100266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chara_Doctor_9
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 59
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb6e80e68fd8449b0800000000000000
+      internalID: -5096792780139075906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chara_Doctor_10
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 40
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3311530e92c29cf40800000000000000
+      internalID: 5749174957682004275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chara_Doctor_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 20
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dc03aa0262295880800000000000000
+      internalID: -8621822207143506729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chara_Doctor_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 42
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18d48810efc890ea0800000000000000
+      internalID: -5906034413744403071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chara_Doctor_13
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 20
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 707fdcb2bb8e7c420800000000000000
+      internalID: 2650342796322273031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chara_Doctor_14
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 20
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59df1f0f7f4d90bd0800000000000000
+      internalID: -2663363543248536171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chara_Doctor_15
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 19
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30942aee1822700a0800000000000000
+      internalID: -6915520761354368765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chara_Doctor_16
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 0
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10da95588c12e76c0800000000000000
+      internalID: -4143837462019855103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chara_Doctor_17
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 20
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43ef1e8a6bbec1950800000000000000
+      internalID: 6421266338473442868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chara_Doctor_18
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 0
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f57d96bdab6c4cb40800000000000000
+      internalID: 5459707154127247199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chara_Doctor_19
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 0
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca952fcf76cc67050800000000000000
+      internalID: 5798046317283531180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chara_Doctor_20
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 20
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45c4f45da287dd960800000000000000
+      internalID: 7628385469198191700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Chara_Doctor_0: -4193006716626022728
+      Chara_Doctor_1: -1720330322830361599
+      Chara_Doctor_10: 5749174957682004275
+      Chara_Doctor_11: -8621822207143506729
+      Chara_Doctor_12: -5906034413744403071
+      Chara_Doctor_13: 2650342796322273031
+      Chara_Doctor_14: -2663363543248536171
+      Chara_Doctor_15: -6915520761354368765
+      Chara_Doctor_16: -4143837462019855103
+      Chara_Doctor_17: 6421266338473442868
+      Chara_Doctor_18: 5459707154127247199
+      Chara_Doctor_19: 5798046317283531180
+      Chara_Doctor_2: -763560492045420376
+      Chara_Doctor_20: 7628385469198191700
+      Chara_Doctor_3: -6445641624065508653
+      Chara_Doctor_4: 515888518940086279
+      Chara_Doctor_5: -3442047605960433758
+      Chara_Doctor_6: 8063692323205845031
+      Chara_Doctor_7: 2850137341753495760
+      Chara_Doctor_8: 1661197723862100266
+      Chara_Doctor_9: -5096792780139075906
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

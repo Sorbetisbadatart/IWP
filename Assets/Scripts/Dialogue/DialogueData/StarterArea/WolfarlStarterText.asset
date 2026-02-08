@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 032a643936e91804d84da3c3ab25a4be, type: 3}
+  m_Name: WolfarlStarterText
+  m_EditorClassIdentifier: 
+  dialogueText:
+  - Ugh... My Head hurts... Where am I?
+  charactername: Wolfarl
+  portrait: {fileID: 6801298337133793408, guid: b3ced7c9212079442b79f2d7801cabbc, type: 3}
+  audioClip: {fileID: 0}

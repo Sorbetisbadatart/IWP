@@ -1,0 +1,663 @@
+fileFormatVersion: 2
+guid: 9663f29a5bf5c9940a8f52477af592b7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6155297326319674810
+    second: Chara_Wizard1_USM_0
+  - first:
+      213: 7856544115107130704
+    second: Chara_Wizard1_USM_1
+  - first:
+      213: 6660081695519150415
+    second: Chara_Wizard1_USM_2
+  - first:
+      213: -3348647363867684997
+    second: Chara_Wizard1_USM_3
+  - first:
+      213: -8026380791983389475
+    second: Chara_Wizard1_USM_4
+  - first:
+      213: -1746775951964879996
+    second: Chara_Wizard1_USM_5
+  - first:
+      213: -5775342708137245708
+    second: Chara_Wizard1_USM_6
+  - first:
+      213: -1436770623899140932
+    second: Chara_Wizard1_USM_7
+  - first:
+      213: -1742572081091978032
+    second: Chara_Wizard1_USM_8
+  - first:
+      213: -8357115337421121452
+    second: Chara_Wizard1_USM_9
+  - first:
+      213: 2296198747124205158
+    second: Chara_Wizard1_USM_10
+  - first:
+      213: -7143402327756763132
+    second: Chara_Wizard1_USM_11
+  - first:
+      213: -717228526874792763
+    second: Chara_Wizard1_USM_12
+  - first:
+      213: -3265550639746011134
+    second: Chara_Wizard1_USM_13
+  - first:
+      213: -1382586113609685787
+    second: Chara_Wizard1_USM_14
+  - first:
+      213: 7717982661271548867
+    second: Chara_Wizard1_USM_15
+  - first:
+      213: 4447717620425920489
+    second: Chara_Wizard1_USM_16
+  - first:
+      213: 4715426106342615029
+    second: Chara_Wizard1_USM_17
+  - first:
+      213: 9097617265764692264
+    second: Chara_Wizard1_USM_18
+  - first:
+      213: -4645825184072835351
+    second: Chara_Wizard1_USM_19
+  - first:
+      213: -5717923415748115262
+    second: Chara_Wizard1_USM_20
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Chara_Wizard1_USM_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 56
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab5223e5e420c6550800000000000000
+      internalID: 6155297326319674810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chara_Wizard1_USM_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 38
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05d65273f3d080d60800000000000000
+      internalID: 7856544115107130704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chara_Wizard1_USM_2
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 57
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f411084f30d5d6c50800000000000000
+      internalID: 6660081695519150415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chara_Wizard1_USM_3
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 38
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7f4e96e6f63781d0800000000000000
+      internalID: -3348647363867684997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chara_Wizard1_USM_4
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 56
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd4cfcdf1319c9090800000000000000
+      internalID: -8026380791983389475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chara_Wizard1_USM_5
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 37
+        width: 29
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48340f8c68432c7e0800000000000000
+      internalID: -1746775951964879996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chara_Wizard1_USM_6
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 57
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f34651f76cd9dfa0800000000000000
+      internalID: -5775342708137245708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chara_Wizard1_USM_7
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 57
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbc76cadab09f0ce0800000000000000
+      internalID: -1436770623899140932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chara_Wizard1_USM_8
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 38
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dcdffebce321d7e0800000000000000
+      internalID: -1742572081091978032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chara_Wizard1_USM_9
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 56
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4589b06e0ef850c80800000000000000
+      internalID: -8357115337421121452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chara_Wizard1_USM_10
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 38
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6660900489cbddf10800000000000000
+      internalID: 2296198747124205158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chara_Wizard1_USM_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 19
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4001c562e698ddc90800000000000000
+      internalID: -7143402327756763132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chara_Wizard1_USM_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 42
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cce9d07474eb06f0800000000000000
+      internalID: -717228526874792763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chara_Wizard1_USM_13
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 19
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 200b3e9aefe6ea2d0800000000000000
+      internalID: -3265550639746011134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chara_Wizard1_USM_14
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 19
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e428e2414110dce0800000000000000
+      internalID: -1382586113609685787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chara_Wizard1_USM_15
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 18
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c3f6bbb658cb1b60800000000000000
+      internalID: 7717982661271548867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chara_Wizard1_USM_16
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 0
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ef8bba5c9779bd30800000000000000
+      internalID: 4447717620425920489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chara_Wizard1_USM_17
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 19
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f7a7217f0f807140800000000000000
+      internalID: 4715426106342615029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chara_Wizard1_USM_18
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 0
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8217d54b3ba314e70800000000000000
+      internalID: 9097617265764692264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chara_Wizard1_USM_19
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 0
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ee56c61c96b68fb0800000000000000
+      internalID: -4645825184072835351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chara_Wizard1_USM_20
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 19
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c4027fb2fad5a0b0800000000000000
+      internalID: -5717923415748115262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Chara_Wizard1_USM_0: 6155297326319674810
+      Chara_Wizard1_USM_1: 7856544115107130704
+      Chara_Wizard1_USM_10: 2296198747124205158
+      Chara_Wizard1_USM_11: -7143402327756763132
+      Chara_Wizard1_USM_12: -717228526874792763
+      Chara_Wizard1_USM_13: -3265550639746011134
+      Chara_Wizard1_USM_14: -1382586113609685787
+      Chara_Wizard1_USM_15: 7717982661271548867
+      Chara_Wizard1_USM_16: 4447717620425920489
+      Chara_Wizard1_USM_17: 4715426106342615029
+      Chara_Wizard1_USM_18: 9097617265764692264
+      Chara_Wizard1_USM_19: -4645825184072835351
+      Chara_Wizard1_USM_2: 6660081695519150415
+      Chara_Wizard1_USM_20: -5717923415748115262
+      Chara_Wizard1_USM_3: -3348647363867684997
+      Chara_Wizard1_USM_4: -8026380791983389475
+      Chara_Wizard1_USM_5: -1746775951964879996
+      Chara_Wizard1_USM_6: -5775342708137245708
+      Chara_Wizard1_USM_7: -1436770623899140932
+      Chara_Wizard1_USM_8: -1742572081091978032
+      Chara_Wizard1_USM_9: -8357115337421121452
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

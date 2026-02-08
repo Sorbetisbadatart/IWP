@@ -1,0 +1,741 @@
+fileFormatVersion: 2
+guid: 751059a5978db6c48a9f8c65ccf0edd4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1339196618831521005
+    second: Animal_Horse_pochi_0
+  - first:
+      213: 4130229705894672435
+    second: Animal_Horse_pochi_1
+  - first:
+      213: 2139139337990658075
+    second: Animal_Horse_pochi_2
+  - first:
+      213: -7309309692205371087
+    second: Animal_Horse_pochi_3
+  - first:
+      213: -7760782622496202760
+    second: Animal_Horse_pochi_4
+  - first:
+      213: -3055630415431489267
+    second: Animal_Horse_pochi_5
+  - first:
+      213: -1928045573713732546
+    second: Animal_Horse_pochi_6
+  - first:
+      213: -952563046271676298
+    second: Animal_Horse_pochi_7
+  - first:
+      213: -3799680334456849485
+    second: Animal_Horse_pochi_8
+  - first:
+      213: 7346100356410764323
+    second: Animal_Horse_pochi_9
+  - first:
+      213: -888256607367196573
+    second: Animal_Horse_pochi_10
+  - first:
+      213: -2047153305958092213
+    second: Animal_Horse_pochi_11
+  - first:
+      213: -8564740335681622135
+    second: Animal_Horse_pochi_12
+  - first:
+      213: -3695525971215105636
+    second: Animal_Horse_pochi_13
+  - first:
+      213: 2681730472524818539
+    second: Animal_Horse_pochi_14
+  - first:
+      213: 6198441297373540310
+    second: Animal_Horse_pochi_15
+  - first:
+      213: -8330642649940109122
+    second: Animal_Horse_pochi_16
+  - first:
+      213: 4909896696302206176
+    second: Animal_Horse_pochi_17
+  - first:
+      213: 7838173443258691266
+    second: Animal_Horse_pochi_18
+  - first:
+      213: -4027367801286458068
+    second: Animal_Horse_pochi_19
+  - first:
+      213: 4243088290865486936
+    second: Animal_Horse_pochi_20
+  - first:
+      213: -3036691948532985865
+    second: Animal_Horse_pochi_21
+  - first:
+      213: -4509278625256043605
+    second: Animal_Horse_pochi_22
+  - first:
+      213: -8018612017639234233
+    second: Animal_Horse_pochi_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Animal_Horse_pochi_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 72
+        width: 12
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31b942245c73a6de0800000000000000
+      internalID: -1339196618831521005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Horse_pochi_1
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 49
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3383e9cd806815930800000000000000
+      internalID: 4130229705894672435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Horse_pochi_2
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 73
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b185ffde4efbfad10800000000000000
+      internalID: 2139139337990658075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Horse_pochi_3
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 72
+        width: 12
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13177c2bf8d109a90800000000000000
+      internalID: -7309309692205371087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Horse_pochi_4
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 73
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ffd61fb2592c4490800000000000000
+      internalID: -7760782622496202760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Horse_pochi_5
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 49
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d09a35b93583895d0800000000000000
+      internalID: -3055630415431489267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Horse_pochi_6
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 73
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3c570414c43e35e0800000000000000
+      internalID: -1928045573713732546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Horse_pochi_7
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 72
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67010d0d4f0d7c2f0800000000000000
+      internalID: -952563046271676298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Horse_pochi_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 49
+        width: 30
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bb79ac0ed2d44bc0800000000000000
+      internalID: -3799680334456849485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Horse_pochi_9
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 25
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32ceb345a5792f560800000000000000
+      internalID: 7346100356410764323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Horse_pochi_10
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 49
+        width: 31
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3601c7062574ca3f0800000000000000
+      internalID: -888256607367196573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Horse_pochi_11
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 48
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b42f99d1aec0793e0800000000000000
+      internalID: -2047153305958092213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Horse_pochi_12
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 24
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98fac3aea0ee32980800000000000000
+      internalID: -8564740335681622135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Horse_pochi_13
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 49
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c914e7b75bad6bcc0800000000000000
+      internalID: -3695525971215105636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Horse_pochi_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 25
+        width: 30
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b68ae2608ab673520800000000000000
+      internalID: 2681730472524818539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Horse_pochi_15
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 0
+        width: 12
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dfaf0be489450650800000000000000
+      internalID: 6198441297373540310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Horse_pochi_16
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 25
+        width: 30
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb8d993c5ac936c80800000000000000
+      internalID: -8330642649940109122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Horse_pochi_17
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 24
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ecf4f21805732440800000000000000
+      internalID: 4909896696302206176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Horse_pochi_18
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 0
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cea55dd739c6cc60800000000000000
+      internalID: 7838173443258691266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Horse_pochi_19
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 23
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c258978925aeb18c0800000000000000
+      internalID: -4027367801286458068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Horse_pochi_20
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 0
+        width: 12
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85c18a7d15a72ea30800000000000000
+      internalID: 4243088290865486936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Horse_pochi_21
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 0
+        width: 12
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ff076b03c08bd5d0800000000000000
+      internalID: -3036691948532985865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Horse_pochi_22
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bab0a544bf2db61c0800000000000000
+      internalID: -4509278625256043605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Horse_pochi_23
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 0
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7456fe8bada28b090800000000000000
+      internalID: -8018612017639234233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Animal_Horse_pochi_0: -1339196618831521005
+      Animal_Horse_pochi_1: 4130229705894672435
+      Animal_Horse_pochi_10: -888256607367196573
+      Animal_Horse_pochi_11: -2047153305958092213
+      Animal_Horse_pochi_12: -8564740335681622135
+      Animal_Horse_pochi_13: -3695525971215105636
+      Animal_Horse_pochi_14: 2681730472524818539
+      Animal_Horse_pochi_15: 6198441297373540310
+      Animal_Horse_pochi_16: -8330642649940109122
+      Animal_Horse_pochi_17: 4909896696302206176
+      Animal_Horse_pochi_18: 7838173443258691266
+      Animal_Horse_pochi_19: -4027367801286458068
+      Animal_Horse_pochi_2: 2139139337990658075
+      Animal_Horse_pochi_20: 4243088290865486936
+      Animal_Horse_pochi_21: -3036691948532985865
+      Animal_Horse_pochi_22: -4509278625256043605
+      Animal_Horse_pochi_23: -8018612017639234233
+      Animal_Horse_pochi_3: -7309309692205371087
+      Animal_Horse_pochi_4: -7760782622496202760
+      Animal_Horse_pochi_5: -3055630415431489267
+      Animal_Horse_pochi_6: -1928045573713732546
+      Animal_Horse_pochi_7: -952563046271676298
+      Animal_Horse_pochi_8: -3799680334456849485
+      Animal_Horse_pochi_9: 7346100356410764323
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

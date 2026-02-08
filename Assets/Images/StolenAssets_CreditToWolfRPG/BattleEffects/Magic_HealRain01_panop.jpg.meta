@@ -1,0 +1,856 @@
+fileFormatVersion: 2
+guid: 295786b4228d21d44aeee6878663490c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6279733855112409047
+    second: Magic_HealRain01_panop_0
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Magic_HealRain01_panop_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 447
+        width: 209
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7df28f57ba8162750800000000000000
+      internalID: 6279733855112409047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_HealRain01_panop_1
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 447
+        width: 209
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 131c885582f62fd478c1cb72be1f3588
+      internalID: 1507619125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_HealRain01_panop_2
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 447
+        width: 209
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77a224a0049c9194fba0e14ce7e21807
+      internalID: 2081522382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_HealRain01_panop_3
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 447
+        width: 209
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1fc6bc5f9523604c93adc73ced05057
+      internalID: -406174301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_HealRain01_panop_4
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 447
+        width: 209
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68f325f82d557984ab6e326e508ca1a3
+      internalID: 1558918107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_HealRain01_panop_5
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 447
+        width: 209
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16e509ef8366bb54a87925c5e445730b
+      internalID: -1010871471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_HealRain01_panop_6
+      rect:
+        serializedVersion: 2
+        x: 1254
+        y: 447
+        width: 209
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b953218452975cf41970c037d3b0ae80
+      internalID: -973238790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_HealRain01_panop_7
+      rect:
+        serializedVersion: 2
+        x: 1463
+        y: 447
+        width: 209
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48ea3bf989d5c7f4ba3462817d42c170
+      internalID: -1977259268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_HealRain01_panop_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 298
+        width: 209
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70534d9c4248fa347ad819c6b2412793
+      internalID: -24032273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_HealRain01_panop_9
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 298
+        width: 209
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd86892989097a34287511d74a692ed9
+      internalID: 1207444423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_HealRain01_panop_10
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 298
+        width: 209
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d1e386486cd69f4ba694d02349ba12b
+      internalID: 1335240020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_HealRain01_panop_11
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 298
+        width: 209
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b6bb06a6d47a234e959269be34d80d5
+      internalID: -1895141821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_HealRain01_panop_12
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 298
+        width: 209
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d9590ed4b4f9bc4ab730591213763e8
+      internalID: 1891697161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_HealRain01_panop_13
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 298
+        width: 209
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61258c6552ffd06428d1994e15f7565f
+      internalID: 1403999240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_HealRain01_panop_14
+      rect:
+        serializedVersion: 2
+        x: 1254
+        y: 298
+        width: 209
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 322a232a4c84d974abec73008741e168
+      internalID: -1608521727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_HealRain01_panop_15
+      rect:
+        serializedVersion: 2
+        x: 1463
+        y: 298
+        width: 209
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff8c6cd5b16abf04c9e3623875c4b372
+      internalID: -29644653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_HealRain01_panop_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 149
+        width: 209
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 180dea803d98ca3439c40b684247ef75
+      internalID: -1139156107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_HealRain01_panop_17
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 149
+        width: 209
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84b86bd7a4e85d44cb420b2dcb65b323
+      internalID: -1339161678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_HealRain01_panop_18
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 149
+        width: 209
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48da0e1d08c3d8c4eb4b83063615054f
+      internalID: 187208753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_HealRain01_panop_19
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 149
+        width: 209
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8411b397eaa15da4d80d799475a2ac70
+      internalID: -963882192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_HealRain01_panop_20
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 149
+        width: 209
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75a41acfc2414994f8d28766d86f90a4
+      internalID: -2113601911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_HealRain01_panop_21
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 149
+        width: 209
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cf444f46b04da44588f42bffa223359
+      internalID: -78008694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_HealRain01_panop_22
+      rect:
+        serializedVersion: 2
+        x: 1254
+        y: 149
+        width: 209
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09bd5a2a5229096448f443791d9fd49a
+      internalID: -2146985952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_HealRain01_panop_23
+      rect:
+        serializedVersion: 2
+        x: 1463
+        y: 149
+        width: 209
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eab953d46923f4c468488db1c78979b1
+      internalID: 1499718770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_HealRain01_panop_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 209
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f25262333d914bc4996f5577b50d73e9
+      internalID: 1665209614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_HealRain01_panop_25
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 0
+        width: 209
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b21a9afebe1c17e48ae6da24aacde403
+      internalID: -96555386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_HealRain01_panop_26
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 0
+        width: 209
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db58dafd691ceb44ca3dc6cd0416dd75
+      internalID: 2027412067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_HealRain01_panop_27
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 0
+        width: 209
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cfd78191dfb9d44295c63b45deb48b0
+      internalID: -1450114619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_HealRain01_panop_28
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 0
+        width: 209
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3c1ef30ff92b064280d06bb6828a5d4
+      internalID: -1068526528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_HealRain01_panop_29
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 0
+        width: 209
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6a635003031c514981f07de804a3bef
+      internalID: -756916560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_HealRain01_panop_30
+      rect:
+        serializedVersion: 2
+        x: 1254
+        y: 0
+        width: 209
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0804a2c2a4c39264389205fb3bc41dd5
+      internalID: 868944382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_HealRain01_panop_31
+      rect:
+        serializedVersion: 2
+        x: 1463
+        y: 0
+        width: 209
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5443df6c3cfde864998d0f7f9e45efe1
+      internalID: -1842860274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: e1fba5adf6c88b34a9c766acec42c012
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Magic_HealRain01_panop_0: 6279733855112409047
+      Magic_HealRain01_panop_1: 1507619125
+      Magic_HealRain01_panop_10: 1335240020
+      Magic_HealRain01_panop_11: -1895141821
+      Magic_HealRain01_panop_12: 1891697161
+      Magic_HealRain01_panop_13: 1403999240
+      Magic_HealRain01_panop_14: -1608521727
+      Magic_HealRain01_panop_15: -29644653
+      Magic_HealRain01_panop_16: -1139156107
+      Magic_HealRain01_panop_17: -1339161678
+      Magic_HealRain01_panop_18: 187208753
+      Magic_HealRain01_panop_19: -963882192
+      Magic_HealRain01_panop_2: 2081522382
+      Magic_HealRain01_panop_20: -2113601911
+      Magic_HealRain01_panop_21: -78008694
+      Magic_HealRain01_panop_22: -2146985952
+      Magic_HealRain01_panop_23: 1499718770
+      Magic_HealRain01_panop_24: 1665209614
+      Magic_HealRain01_panop_25: -96555386
+      Magic_HealRain01_panop_26: 2027412067
+      Magic_HealRain01_panop_27: -1450114619
+      Magic_HealRain01_panop_28: -1068526528
+      Magic_HealRain01_panop_29: -756916560
+      Magic_HealRain01_panop_3: -406174301
+      Magic_HealRain01_panop_30: 868944382
+      Magic_HealRain01_panop_31: -1842860274
+      Magic_HealRain01_panop_4: 1558918107
+      Magic_HealRain01_panop_5: -1010871471
+      Magic_HealRain01_panop_6: -973238790
+      Magic_HealRain01_panop_7: -1977259268
+      Magic_HealRain01_panop_8: -24032273
+      Magic_HealRain01_panop_9: 1207444423
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

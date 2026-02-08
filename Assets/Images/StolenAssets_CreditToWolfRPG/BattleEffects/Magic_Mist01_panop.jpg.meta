@@ -1,0 +1,672 @@
+fileFormatVersion: 2
+guid: 73e2b3f07e884a54b92a4f4e5cdfa30f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -9029271976205421186
+    second: Magic_Mist01_panop_0
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Magic_Mist01_panop_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 250
+        width: 175
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e75f2ed0af491b280800000000000000
+      internalID: -9029271976205421186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Mist01_panop_1
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 250
+        width: 175
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae6b0b87ee85a0643afb40199019e0c1
+      internalID: 54995898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Mist01_panop_2
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 250
+        width: 175
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36a99ac5c021ec246b69078901f2fac6
+      internalID: 521016693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Mist01_panop_3
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 250
+        width: 175
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 622a4356c9c776e4b855c663bac9db74
+      internalID: 1838240102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Mist01_panop_4
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 250
+        width: 175
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0ae355b9fac9fc4b83fc5b054cbf87e
+      internalID: -1362402124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Mist01_panop_5
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 250
+        width: 175
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fc827534798d334792f71e768688cf2
+      internalID: 2003871492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Mist01_panop_6
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 250
+        width: 175
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa3916786549c654abb9009c86965dfc
+      internalID: -1472194002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Mist01_panop_7
+      rect:
+        serializedVersion: 2
+        x: 1225
+        y: 250
+        width: 175
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acb16c4c4f3bb0e45bb6b2a4421016a0
+      internalID: -150368085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Mist01_panop_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 125
+        width: 175
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 232266956490a794bb583c604e10b6fe
+      internalID: 882569439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Mist01_panop_9
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 125
+        width: 175
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0763e8899a4dab74ebb9ba735f63d63a
+      internalID: -1574326710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Mist01_panop_10
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 125
+        width: 175
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d171bb7c5194ae74f88fd215080e577d
+      internalID: 1889182167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Mist01_panop_11
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 125
+        width: 175
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a828e41f14b30a240997a893d1e33e1f
+      internalID: 1751418262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Mist01_panop_12
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 125
+        width: 175
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7b0a01e2b9289c4393230819cf3a2a0
+      internalID: 138882750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Mist01_panop_13
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 125
+        width: 175
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b5b9d95f9ef2104e8ffec4357dec36f
+      internalID: -1684090140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Mist01_panop_14
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 125
+        width: 175
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fedd19f634d665e4c8897e17cb24a656
+      internalID: 105769024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Mist01_panop_15
+      rect:
+        serializedVersion: 2
+        x: 1225
+        y: 125
+        width: 175
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a41d540070e2f9b43964fd86425e05a2
+      internalID: -1670236466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Mist01_panop_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 175
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fb4aaaaf27d37d4684237de0af461cc
+      internalID: 776992945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Mist01_panop_17
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 0
+        width: 175
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f08a7d6013715f43b76ed06678e5c35
+      internalID: 545684503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Mist01_panop_18
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 0
+        width: 175
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dac880aff24348d4198cb661706bd651
+      internalID: 2024191028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Mist01_panop_19
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 0
+        width: 175
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a1773d8aa8549947be628b5f8064633
+      internalID: -1431600366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Mist01_panop_20
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 0
+        width: 175
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34f329bbe5fa7394ab69ecbdf734c651
+      internalID: 793041708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Mist01_panop_21
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 0
+        width: 175
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f22b605d04ba2124e9097e126680ed8b
+      internalID: -1576464541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Mist01_panop_22
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 0
+        width: 175
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83252e1c5d49def4f94283b841d8b47f
+      internalID: -176772310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Mist01_panop_23
+      rect:
+        serializedVersion: 2
+        x: 1225
+        y: 0
+        width: 175
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf9fa0b095c55ce4e8e8af6c23e7cea4
+      internalID: 1094392850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5315fdad4a019744f9515ab1969465e3
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Magic_Mist01_panop_0: -9029271976205421186
+      Magic_Mist01_panop_1: 54995898
+      Magic_Mist01_panop_10: 1889182167
+      Magic_Mist01_panop_11: 1751418262
+      Magic_Mist01_panop_12: 138882750
+      Magic_Mist01_panop_13: -1684090140
+      Magic_Mist01_panop_14: 105769024
+      Magic_Mist01_panop_15: -1670236466
+      Magic_Mist01_panop_16: 776992945
+      Magic_Mist01_panop_17: 545684503
+      Magic_Mist01_panop_18: 2024191028
+      Magic_Mist01_panop_19: -1431600366
+      Magic_Mist01_panop_2: 521016693
+      Magic_Mist01_panop_20: 793041708
+      Magic_Mist01_panop_21: -1576464541
+      Magic_Mist01_panop_22: -176772310
+      Magic_Mist01_panop_23: 1094392850
+      Magic_Mist01_panop_3: 1838240102
+      Magic_Mist01_panop_4: -1362402124
+      Magic_Mist01_panop_5: 2003871492
+      Magic_Mist01_panop_6: -1472194002
+      Magic_Mist01_panop_7: -150368085
+      Magic_Mist01_panop_8: 882569439
+      Magic_Mist01_panop_9: -1574326710
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

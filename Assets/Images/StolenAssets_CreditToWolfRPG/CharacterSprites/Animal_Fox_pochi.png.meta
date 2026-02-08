@@ -1,0 +1,741 @@
+fileFormatVersion: 2
+guid: 7eb1250531a295943aff1b335de50c40
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5474550168324379294
+    second: Animal_Fox_pochi_0
+  - first:
+      213: 2100975063981336417
+    second: Animal_Fox_pochi_1
+  - first:
+      213: -1176122619366570114
+    second: Animal_Fox_pochi_2
+  - first:
+      213: 6654223821086905850
+    second: Animal_Fox_pochi_3
+  - first:
+      213: -7452412463881864112
+    second: Animal_Fox_pochi_4
+  - first:
+      213: -6595561631311461677
+    second: Animal_Fox_pochi_5
+  - first:
+      213: 6774292072047797174
+    second: Animal_Fox_pochi_6
+  - first:
+      213: 7277351175088445983
+    second: Animal_Fox_pochi_7
+  - first:
+      213: -921718551158030818
+    second: Animal_Fox_pochi_8
+  - first:
+      213: -1882922231146178509
+    second: Animal_Fox_pochi_9
+  - first:
+      213: -2853684717409224979
+    second: Animal_Fox_pochi_10
+  - first:
+      213: -7869532012697236963
+    second: Animal_Fox_pochi_11
+  - first:
+      213: -6104140676685252061
+    second: Animal_Fox_pochi_12
+  - first:
+      213: 6971505961828077829
+    second: Animal_Fox_pochi_13
+  - first:
+      213: -1421876053562070800
+    second: Animal_Fox_pochi_14
+  - first:
+      213: -6005954939598243017
+    second: Animal_Fox_pochi_15
+  - first:
+      213: 3357994573996344753
+    second: Animal_Fox_pochi_16
+  - first:
+      213: -8129424185569784464
+    second: Animal_Fox_pochi_17
+  - first:
+      213: -5800053825047129746
+    second: Animal_Fox_pochi_18
+  - first:
+      213: -322057127563423588
+    second: Animal_Fox_pochi_19
+  - first:
+      213: 589873557796819401
+    second: Animal_Fox_pochi_20
+  - first:
+      213: 7356367669206635683
+    second: Animal_Fox_pochi_21
+  - first:
+      213: -7841434483389104713
+    second: Animal_Fox_pochi_22
+  - first:
+      213: -5285419642918249049
+    second: Animal_Fox_pochi_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Animal_Fox_pochi_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 53
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26d68f790ad7604b0800000000000000
+      internalID: -5474550168324379294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Fox_pochi_1
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 37
+        width: 27
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 167af8270b9282d10800000000000000
+      internalID: 2100975063981336417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Fox_pochi_2
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 54
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e778a5485b29dafe0800000000000000
+      internalID: -1176122619366570114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Fox_pochi_3
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 53
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af5d3d74f4d885c50800000000000000
+      internalID: 6654223821086905850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Fox_pochi_4
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 54
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05cb0a24956b39890800000000000000
+      internalID: -7452412463881864112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Fox_pochi_5
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 54
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d20c7f14abd774a0800000000000000
+      internalID: -6595561631311461677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Fox_pochi_6
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 53
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b3672f6fbe130e50800000000000000
+      internalID: 6774292072047797174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Fox_pochi_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 37
+        width: 27
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1a1be036585ef460800000000000000
+      internalID: 7277351175088445983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Fox_pochi_8
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 37
+        width: 27
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1e76577cd56533f0800000000000000
+      internalID: -921718551158030818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Fox_pochi_9
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 35
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33898d8f4348ed5e0800000000000000
+      internalID: -1882922231146178509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Fox_pochi_10
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 36
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de6bcd57edca568d0800000000000000
+      internalID: -2853684717409224979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Fox_pochi_11
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 18
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1acd9a345ec9c290800000000000000
+      internalID: -7869532012697236963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Fox_pochi_12
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 36
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32ab92b456cb94ba0800000000000000
+      internalID: -6104140676685252061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Fox_pochi_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 19
+        width: 26
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 501d7445cb3cfb060800000000000000
+      internalID: 6971505961828077829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Fox_pochi_14
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 19
+        width: 27
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f86cc0434b744ce0800000000000000
+      internalID: -1421876053562070800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Fox_pochi_15
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 0
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73b7e38adcf86aca0800000000000000
+      internalID: -6005954939598243017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Fox_pochi_16
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 19
+        width: 27
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b5cdbc064ef99e20800000000000000
+      internalID: 3357994573996344753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Fox_pochi_17
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 18
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07dc4a656cb7e2f80800000000000000
+      internalID: -8129424185569784464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Fox_pochi_18
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 0
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e619befa6c1128fa0800000000000000
+      internalID: -5800053825047129746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Fox_pochi_19
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 17
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c901332bfb2d78bf0800000000000000
+      internalID: -322057127563423588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Fox_pochi_20
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 0
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c110e220e6af2800800000000000000
+      internalID: 589873557796819401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Fox_pochi_21
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 0
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a4da306b61171660800000000000000
+      internalID: 7356367669206635683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Fox_pochi_22
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bdf71012e0ad2390800000000000000
+      internalID: -7841434483389104713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Fox_pochi_23
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 0
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ad5cfe86da66a6b0800000000000000
+      internalID: -5285419642918249049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Animal_Fox_pochi_0: -5474550168324379294
+      Animal_Fox_pochi_1: 2100975063981336417
+      Animal_Fox_pochi_10: -2853684717409224979
+      Animal_Fox_pochi_11: -7869532012697236963
+      Animal_Fox_pochi_12: -6104140676685252061
+      Animal_Fox_pochi_13: 6971505961828077829
+      Animal_Fox_pochi_14: -1421876053562070800
+      Animal_Fox_pochi_15: -6005954939598243017
+      Animal_Fox_pochi_16: 3357994573996344753
+      Animal_Fox_pochi_17: -8129424185569784464
+      Animal_Fox_pochi_18: -5800053825047129746
+      Animal_Fox_pochi_19: -322057127563423588
+      Animal_Fox_pochi_2: -1176122619366570114
+      Animal_Fox_pochi_20: 589873557796819401
+      Animal_Fox_pochi_21: 7356367669206635683
+      Animal_Fox_pochi_22: -7841434483389104713
+      Animal_Fox_pochi_23: -5285419642918249049
+      Animal_Fox_pochi_3: 6654223821086905850
+      Animal_Fox_pochi_4: -7452412463881864112
+      Animal_Fox_pochi_5: -6595561631311461677
+      Animal_Fox_pochi_6: 6774292072047797174
+      Animal_Fox_pochi_7: 7277351175088445983
+      Animal_Fox_pochi_8: -921718551158030818
+      Animal_Fox_pochi_9: -1882922231146178509
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

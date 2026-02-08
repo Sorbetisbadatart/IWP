@@ -1,0 +1,741 @@
+fileFormatVersion: 2
+guid: 20773880450c912478ab780546ac6774
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3812976285401160321
+    second: Monster_MouseMan_garugaru_0
+  - first:
+      213: -3838462918327581359
+    second: Monster_MouseMan_garugaru_1
+  - first:
+      213: -3605920764667794847
+    second: Monster_MouseMan_garugaru_2
+  - first:
+      213: -7625921345780919205
+    second: Monster_MouseMan_garugaru_3
+  - first:
+      213: 7720275080595124851
+    second: Monster_MouseMan_garugaru_4
+  - first:
+      213: -5940563812751743807
+    second: Monster_MouseMan_garugaru_5
+  - first:
+      213: 5445177788113476147
+    second: Monster_MouseMan_garugaru_6
+  - first:
+      213: 103154916621984494
+    second: Monster_MouseMan_garugaru_7
+  - first:
+      213: 2780293714394343824
+    second: Monster_MouseMan_garugaru_8
+  - first:
+      213: 2320209323252449390
+    second: Monster_MouseMan_garugaru_9
+  - first:
+      213: 1643992644086941745
+    second: Monster_MouseMan_garugaru_10
+  - first:
+      213: 1056511996921397792
+    second: Monster_MouseMan_garugaru_11
+  - first:
+      213: 1367672544303039218
+    second: Monster_MouseMan_garugaru_12
+  - first:
+      213: -4770949995324106759
+    second: Monster_MouseMan_garugaru_13
+  - first:
+      213: -8104067936118885409
+    second: Monster_MouseMan_garugaru_14
+  - first:
+      213: 6476338746047340996
+    second: Monster_MouseMan_garugaru_15
+  - first:
+      213: -9115241290538060263
+    second: Monster_MouseMan_garugaru_16
+  - first:
+      213: 8770696136160232599
+    second: Monster_MouseMan_garugaru_17
+  - first:
+      213: -8042792244139346487
+    second: Monster_MouseMan_garugaru_18
+  - first:
+      213: 4438150420644031499
+    second: Monster_MouseMan_garugaru_19
+  - first:
+      213: -7441796835560836234
+    second: Monster_MouseMan_garugaru_20
+  - first:
+      213: -5799073357925265296
+    second: Monster_MouseMan_garugaru_21
+  - first:
+      213: -6919014776694598687
+    second: Monster_MouseMan_garugaru_22
+  - first:
+      213: 1046842035000618964
+    second: Monster_MouseMan_garugaru_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Monster_MouseMan_garugaru_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 83
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18a1354cab96ae430800000000000000
+      internalID: 3812976285401160321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_MouseMan_garugaru_1
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 84
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1554395105a0bbac0800000000000000
+      internalID: -3838462918327581359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_MouseMan_garugaru_2
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 83
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16a65c56b2235fdc0800000000000000
+      internalID: -3605920764667794847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_MouseMan_garugaru_3
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 84
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b54d8ab90f84b2690800000000000000
+      internalID: -7625921345780919205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_MouseMan_garugaru_4
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 84
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3723c23384de32b60800000000000000
+      internalID: 7720275080595124851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_MouseMan_garugaru_5
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 83
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c4646fcfa0ee8da0800000000000000
+      internalID: -5940563812751743807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_MouseMan_garugaru_6
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 56
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33ad9573958219b40800000000000000
+      internalID: 5445177788113476147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_MouseMan_garugaru_7
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 56
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee2a612a9da7e6100800000000000000
+      internalID: 103154916621984494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_MouseMan_garugaru_8
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 56
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 099e9b11766959620800000000000000
+      internalID: 2780293714394343824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_MouseMan_garugaru_9
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 55
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e600305261a033020800000000000000
+      internalID: 2320209323252449390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_MouseMan_garugaru_10
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 56
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 138482c7992a0d610800000000000000
+      internalID: 1643992644086941745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_MouseMan_garugaru_11
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 56
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0224075401c79ae00800000000000000
+      internalID: 1056511996921397792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_MouseMan_garugaru_12
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 28
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f2cc3ccee2faf210800000000000000
+      internalID: 1367672544303039218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_MouseMan_garugaru_13
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 28
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f71e8fb14e2acdb0800000000000000
+      internalID: -4770949995324106759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_MouseMan_garugaru_14
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 28
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd330083621988f80800000000000000
+      internalID: -8104067936118885409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_MouseMan_garugaru_15
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 27
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c12043c6c390e950800000000000000
+      internalID: 6476338746047340996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_MouseMan_garugaru_16
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 28
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91671834758208180800000000000000
+      internalID: -9115241290538060263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_MouseMan_garugaru_17
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 28
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 794c8bcaaa5c7b970800000000000000
+      internalID: 8770696136160232599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_MouseMan_garugaru_18
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 0
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c5bec50113426090800000000000000
+      internalID: -8042792244139346487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_MouseMan_garugaru_19
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 0
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0cec321b4a779d30800000000000000
+      internalID: 4438150420644031499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_MouseMan_garugaru_20
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 0
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67335c5d43d69b890800000000000000
+      internalID: -7441796835560836234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_MouseMan_garugaru_21
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 0
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 070de6a718d858fa0800000000000000
+      internalID: -5799073357925265296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_MouseMan_garugaru_22
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 0
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e3907718b8baff90800000000000000
+      internalID: -6919014776694598687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_MouseMan_garugaru_23
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 0
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dfa820d841278e00800000000000000
+      internalID: 1046842035000618964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Monster_MouseMan_garugaru_0: 3812976285401160321
+      Monster_MouseMan_garugaru_1: -3838462918327581359
+      Monster_MouseMan_garugaru_10: 1643992644086941745
+      Monster_MouseMan_garugaru_11: 1056511996921397792
+      Monster_MouseMan_garugaru_12: 1367672544303039218
+      Monster_MouseMan_garugaru_13: -4770949995324106759
+      Monster_MouseMan_garugaru_14: -8104067936118885409
+      Monster_MouseMan_garugaru_15: 6476338746047340996
+      Monster_MouseMan_garugaru_16: -9115241290538060263
+      Monster_MouseMan_garugaru_17: 8770696136160232599
+      Monster_MouseMan_garugaru_18: -8042792244139346487
+      Monster_MouseMan_garugaru_19: 4438150420644031499
+      Monster_MouseMan_garugaru_2: -3605920764667794847
+      Monster_MouseMan_garugaru_20: -7441796835560836234
+      Monster_MouseMan_garugaru_21: -5799073357925265296
+      Monster_MouseMan_garugaru_22: -6919014776694598687
+      Monster_MouseMan_garugaru_23: 1046842035000618964
+      Monster_MouseMan_garugaru_3: -7625921345780919205
+      Monster_MouseMan_garugaru_4: 7720275080595124851
+      Monster_MouseMan_garugaru_5: -5940563812751743807
+      Monster_MouseMan_garugaru_6: 5445177788113476147
+      Monster_MouseMan_garugaru_7: 103154916621984494
+      Monster_MouseMan_garugaru_8: 2780293714394343824
+      Monster_MouseMan_garugaru_9: 2320209323252449390
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,585 @@
+fileFormatVersion: 2
+guid: db213de70250c2845bf7d780064d48e8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3691717422759329196
+    second: Monster_Ghost_pochi_0
+  - first:
+      213: -5576274289117286288
+    second: Monster_Ghost_pochi_1
+  - first:
+      213: 5033448018066252151
+    second: Monster_Ghost_pochi_2
+  - first:
+      213: 565909907762256878
+    second: Monster_Ghost_pochi_3
+  - first:
+      213: -872324423003317068
+    second: Monster_Ghost_pochi_4
+  - first:
+      213: 7269068127664451553
+    second: Monster_Ghost_pochi_5
+  - first:
+      213: -3238812591424548185
+    second: Monster_Ghost_pochi_6
+  - first:
+      213: 935475044429536408
+    second: Monster_Ghost_pochi_7
+  - first:
+      213: 1135829442930349399
+    second: Monster_Ghost_pochi_8
+  - first:
+      213: 4776315944897839095
+    second: Monster_Ghost_pochi_9
+  - first:
+      213: -5120502477482013411
+    second: Monster_Ghost_pochi_10
+  - first:
+      213: 2961135001395221323
+    second: Monster_Ghost_pochi_11
+  - first:
+      213: 1872776862784319528
+    second: Monster_Ghost_pochi_12
+  - first:
+      213: -4719085033413248089
+    second: Monster_Ghost_pochi_13
+  - first:
+      213: -1150116235513318580
+    second: Monster_Ghost_pochi_14
+  - first:
+      213: -2937097603191990735
+    second: Monster_Ghost_pochi_15
+  - first:
+      213: 2512017799627719402
+    second: Monster_Ghost_pochi_16
+  - first:
+      213: 1052201947798123724
+    second: Monster_Ghost_pochi_17
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Monster_Ghost_pochi_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 61
+        width: 55
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cadb0babf6d9b3330800000000000000
+      internalID: 3691717422759329196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_Ghost_pochi_1
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 62
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 070350314181d92b0800000000000000
+      internalID: -5576274289117286288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_Ghost_pochi_2
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 61
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 771ab38dd466ad540800000000000000
+      internalID: 5033448018066252151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_Ghost_pochi_3
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 61
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eeb1b0310148ad700800000000000000
+      internalID: 565909907762256878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_Ghost_pochi_4
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 42
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bc5dfd1f81e4e3f0800000000000000
+      internalID: -872324423003317068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_Ghost_pochi_5
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 41
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1efad8de2fae0e460800000000000000
+      internalID: 7269068127664451553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_Ghost_pochi_6
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 41
+        width: 32
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a2d31aab1d6d03d0800000000000000
+      internalID: -3238812591424548185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_Ghost_pochi_7
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 41
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89c1777b8997bfc00800000000000000
+      internalID: 935475044429536408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_Ghost_pochi_8
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 41
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7551b474cd643cf00800000000000000
+      internalID: 1135829442930349399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_Ghost_pochi_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 22
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ff7baebb02e84240800000000000000
+      internalID: 4776315944897839095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_Ghost_pochi_10
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 21
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1d4d26502250f8b0800000000000000
+      internalID: -5120502477482013411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_Ghost_pochi_11
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 21
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4353225890181920800000000000000
+      internalID: 2961135001395221323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_Ghost_pochi_12
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 22
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82074d162a07df910800000000000000
+      internalID: 1872776862784319528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_Ghost_pochi_13
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 21
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ab7a863a21728eb0800000000000000
+      internalID: -4719085033413248089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_Ghost_pochi_14
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 21
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c43b1db9067f900f0800000000000000
+      internalID: -1150116235513318580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_Ghost_pochi_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1
+        width: 70
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13617139a455d37d0800000000000000
+      internalID: -2937097603191990735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_Ghost_pochi_16
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 1
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae2c44821ea7cd220800000000000000
+      internalID: 2512017799627719402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_Ghost_pochi_17
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 1
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc43b72c81c2a9e00800000000000000
+      internalID: 1052201947798123724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Monster_Ghost_pochi_0: 3691717422759329196
+      Monster_Ghost_pochi_1: -5576274289117286288
+      Monster_Ghost_pochi_10: -5120502477482013411
+      Monster_Ghost_pochi_11: 2961135001395221323
+      Monster_Ghost_pochi_12: 1872776862784319528
+      Monster_Ghost_pochi_13: -4719085033413248089
+      Monster_Ghost_pochi_14: -1150116235513318580
+      Monster_Ghost_pochi_15: -2937097603191990735
+      Monster_Ghost_pochi_16: 2512017799627719402
+      Monster_Ghost_pochi_17: 1052201947798123724
+      Monster_Ghost_pochi_2: 5033448018066252151
+      Monster_Ghost_pochi_3: 565909907762256878
+      Monster_Ghost_pochi_4: -872324423003317068
+      Monster_Ghost_pochi_5: 7269068127664451553
+      Monster_Ghost_pochi_6: -3238812591424548185
+      Monster_Ghost_pochi_7: 935475044429536408
+      Monster_Ghost_pochi_8: 1135829442930349399
+      Monster_Ghost_pochi_9: 4776315944897839095
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

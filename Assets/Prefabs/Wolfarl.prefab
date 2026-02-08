@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &8268696978414436191
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3084877329679443776}
+  - component: {fileID: 3057561282840516899}
+  m_Layer: 0
+  m_Name: Wolfarl
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3084877329679443776
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8268696978414436191}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 419.8222, y: 147.58694, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &3057561282840516899
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8268696978414436191}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 020193c9b417d1f4b85c46e1dc381abb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  unitName: Wolfarl
+  unitSprite: {fileID: 8082747865761240202, guid: c3465dfa0cdbde5468444d649d8afbf3, type: 3}
+  inheritedStats: {fileID: 11400000, guid: 7d2b3313056cb3844a3f6fbeeb423526, type: 2}
+  Level: 10
+  maxLevel: 10
+  MaxHealthPoints: 10
+  ManaPoints: 10
+  MaxManaPoints: 10
+  BaseAttack: 5
+  BaseDefense: 5
+  BaseAccuracy: 5

@@ -1,0 +1,741 @@
+fileFormatVersion: 2
+guid: cbb8f9ef2ee7f2347946d933594b4455
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2291707811238330090
+    second: Monster_TigerMan_garugaru_0
+  - first:
+      213: -7256631018126062618
+    second: Monster_TigerMan_garugaru_1
+  - first:
+      213: 6758068402784198865
+    second: Monster_TigerMan_garugaru_2
+  - first:
+      213: -5427357170243201365
+    second: Monster_TigerMan_garugaru_3
+  - first:
+      213: 6289805723721518014
+    second: Monster_TigerMan_garugaru_4
+  - first:
+      213: 2681096379781510353
+    second: Monster_TigerMan_garugaru_5
+  - first:
+      213: 2970450055715353558
+    second: Monster_TigerMan_garugaru_6
+  - first:
+      213: -3441750520953887252
+    second: Monster_TigerMan_garugaru_7
+  - first:
+      213: -4426823732149631156
+    second: Monster_TigerMan_garugaru_8
+  - first:
+      213: 2341843580621422925
+    second: Monster_TigerMan_garugaru_9
+  - first:
+      213: 8600435763263926237
+    second: Monster_TigerMan_garugaru_10
+  - first:
+      213: -2566741458364003702
+    second: Monster_TigerMan_garugaru_11
+  - first:
+      213: 406021903339315765
+    second: Monster_TigerMan_garugaru_12
+  - first:
+      213: 5297436480016959760
+    second: Monster_TigerMan_garugaru_13
+  - first:
+      213: -6088330984214258004
+    second: Monster_TigerMan_garugaru_14
+  - first:
+      213: 309007715871213159
+    second: Monster_TigerMan_garugaru_15
+  - first:
+      213: -674293937198630537
+    second: Monster_TigerMan_garugaru_16
+  - first:
+      213: -2102979401636255615
+    second: Monster_TigerMan_garugaru_17
+  - first:
+      213: -2911324691335394816
+    second: Monster_TigerMan_garugaru_18
+  - first:
+      213: 2562990506575302024
+    second: Monster_TigerMan_garugaru_19
+  - first:
+      213: 1202824574219472130
+    second: Monster_TigerMan_garugaru_20
+  - first:
+      213: 908348520156120185
+    second: Monster_TigerMan_garugaru_21
+  - first:
+      213: 2136196960931194074
+    second: Monster_TigerMan_garugaru_22
+  - first:
+      213: -8778572894409101208
+    second: Monster_TigerMan_garugaru_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Monster_TigerMan_garugaru_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 83
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 611c62e33e73230e0800000000000000
+      internalID: -2291707811238330090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_TigerMan_garugaru_1
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 84
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ebc38a49844b4b90800000000000000
+      internalID: -7256631018126062618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_TigerMan_garugaru_2
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 83
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d06eb3186b79cd50800000000000000
+      internalID: 6758068402784198865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_TigerMan_garugaru_3
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 84
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba61c76b8672ea4b0800000000000000
+      internalID: -5427357170243201365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_TigerMan_garugaru_4
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 83
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebbc3ac1bf0e94750800000000000000
+      internalID: 6289805723721518014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_TigerMan_garugaru_5
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 83
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d4767dc3fa253520800000000000000
+      internalID: 2681096379781510353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_TigerMan_garugaru_6
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 55
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d3f3f96698293920800000000000000
+      internalID: 2970450055715353558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_TigerMan_garugaru_7
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 56
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce52709e2227c30d0800000000000000
+      internalID: -3441750520953887252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_TigerMan_garugaru_8
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 55
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c47c3f91543c092c0800000000000000
+      internalID: -4426823732149631156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_TigerMan_garugaru_9
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 55
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4108763456ef7020800000000000000
+      internalID: 2341843580621422925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_TigerMan_garugaru_10
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 55
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddf69e672c2ea5770800000000000000
+      internalID: 8600435763263926237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_TigerMan_garugaru_11
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 56
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8a02f72e3a116cd0800000000000000
+      internalID: -2566741458364003702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_TigerMan_garugaru_12
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 27
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 532619715ca72a500800000000000000
+      internalID: 406021903339315765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_TigerMan_garugaru_13
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 28
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0194b9b5966448940800000000000000
+      internalID: 5297436480016959760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_TigerMan_garugaru_14
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 27
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cae97ea2a37e18ba0800000000000000
+      internalID: -6088330984214258004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_TigerMan_garugaru_15
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 27
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 766cb5161e0d94400800000000000000
+      internalID: 309007715871213159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_TigerMan_garugaru_16
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 28
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77973179c3d64a6f0800000000000000
+      internalID: -674293937198630537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_TigerMan_garugaru_17
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 28
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 188e1835067b0d2e0800000000000000
+      internalID: -2102979401636255615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_TigerMan_garugaru_18
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 0
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00a412b3e95e897d0800000000000000
+      internalID: -2911324691335394816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_TigerMan_garugaru_19
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 0
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88d8e135942919320800000000000000
+      internalID: 2562990506575302024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_TigerMan_garugaru_20
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 0
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20d4671d39a41b010800000000000000
+      internalID: 1202824574219472130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_TigerMan_garugaru_21
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 0
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 974482c9a2a1b9c00800000000000000
+      internalID: 908348520156120185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_TigerMan_garugaru_22
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 0
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad4a29261db45ad10800000000000000
+      internalID: 2136196960931194074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_TigerMan_garugaru_23
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 0
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8607fd1a67e3c2680800000000000000
+      internalID: -8778572894409101208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Monster_TigerMan_garugaru_0: -2291707811238330090
+      Monster_TigerMan_garugaru_1: -7256631018126062618
+      Monster_TigerMan_garugaru_10: 8600435763263926237
+      Monster_TigerMan_garugaru_11: -2566741458364003702
+      Monster_TigerMan_garugaru_12: 406021903339315765
+      Monster_TigerMan_garugaru_13: 5297436480016959760
+      Monster_TigerMan_garugaru_14: -6088330984214258004
+      Monster_TigerMan_garugaru_15: 309007715871213159
+      Monster_TigerMan_garugaru_16: -674293937198630537
+      Monster_TigerMan_garugaru_17: -2102979401636255615
+      Monster_TigerMan_garugaru_18: -2911324691335394816
+      Monster_TigerMan_garugaru_19: 2562990506575302024
+      Monster_TigerMan_garugaru_2: 6758068402784198865
+      Monster_TigerMan_garugaru_20: 1202824574219472130
+      Monster_TigerMan_garugaru_21: 908348520156120185
+      Monster_TigerMan_garugaru_22: 2136196960931194074
+      Monster_TigerMan_garugaru_23: -8778572894409101208
+      Monster_TigerMan_garugaru_3: -5427357170243201365
+      Monster_TigerMan_garugaru_4: 6289805723721518014
+      Monster_TigerMan_garugaru_5: 2681096379781510353
+      Monster_TigerMan_garugaru_6: 2970450055715353558
+      Monster_TigerMan_garugaru_7: -3441750520953887252
+      Monster_TigerMan_garugaru_8: -4426823732149631156
+      Monster_TigerMan_garugaru_9: 2341843580621422925
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

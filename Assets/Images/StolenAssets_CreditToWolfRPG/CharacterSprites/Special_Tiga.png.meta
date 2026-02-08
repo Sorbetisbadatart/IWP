@@ -1,0 +1,741 @@
+fileFormatVersion: 2
+guid: 3b9302fd53c01b143bf3b9be71aad762
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2189423952335709502
+    second: Special_Tiga_0
+  - first:
+      213: 1572272520854251623
+    second: Special_Tiga_1
+  - first:
+      213: 2561085961686071834
+    second: Special_Tiga_2
+  - first:
+      213: 1169321699829999775
+    second: Special_Tiga_3
+  - first:
+      213: -7143831253303583300
+    second: Special_Tiga_4
+  - first:
+      213: 2391148923347130135
+    second: Special_Tiga_5
+  - first:
+      213: -8352940991572194983
+    second: Special_Tiga_6
+  - first:
+      213: -6917327551514256450
+    second: Special_Tiga_7
+  - first:
+      213: -8932255663239603663
+    second: Special_Tiga_8
+  - first:
+      213: 6323773294389132247
+    second: Special_Tiga_9
+  - first:
+      213: 7558644580269084169
+    second: Special_Tiga_10
+  - first:
+      213: -6542020954596495111
+    second: Special_Tiga_11
+  - first:
+      213: 8440818664831071709
+    second: Special_Tiga_12
+  - first:
+      213: 2978995247550068566
+    second: Special_Tiga_13
+  - first:
+      213: 8220708841449941523
+    second: Special_Tiga_14
+  - first:
+      213: 7595092377203005222
+    second: Special_Tiga_15
+  - first:
+      213: 3534074538344046906
+    second: Special_Tiga_16
+  - first:
+      213: 915953982595157858
+    second: Special_Tiga_17
+  - first:
+      213: -6129179763240872374
+    second: Special_Tiga_18
+  - first:
+      213: -7511365452674436624
+    second: Special_Tiga_19
+  - first:
+      213: -6104171905739229735
+    second: Special_Tiga_20
+  - first:
+      213: -8745070277029103251
+    second: Special_Tiga_21
+  - first:
+      213: 8831767928062011653
+    second: Special_Tiga_22
+  - first:
+      213: 2253887285884475063
+    second: Special_Tiga_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Special_Tiga_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 83
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e35a3bd0c75626e10800000000000000
+      internalID: 2189423952335709502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special_Tiga_1
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 84
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76820a70785d1d510800000000000000
+      internalID: 1572272520854251623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special_Tiga_2
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 83
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1ab989ec1eca8320800000000000000
+      internalID: 2561085961686071834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special_Tiga_3
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 84
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f98e58204e34a3010800000000000000
+      internalID: 1169321699829999775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special_Tiga_4
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 84
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbd918323530cdc90800000000000000
+      internalID: -7143831253303583300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special_Tiga_5
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 83
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 717d925e6411f2120800000000000000
+      internalID: 2391148923347130135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special_Tiga_6
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 56
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9594a878c64641c80800000000000000
+      internalID: -8352940991572194983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special_Tiga_7
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 56
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebb58f0dd37b000a0800000000000000
+      internalID: -6917327551514256450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special_Tiga_8
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 56
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13ad1a5acc04a0480800000000000000
+      internalID: -8932255663239603663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special_Tiga_9
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 55
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7db7a247e4e82c750800000000000000
+      internalID: 6323773294389132247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special_Tiga_10
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 56
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90ece56c233b5e860800000000000000
+      internalID: 7558644580269084169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special_Tiga_11
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 56
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f03d185a921635a0800000000000000
+      internalID: -6542020954596495111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special_Tiga_12
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 28
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd53eb2badfc32570800000000000000
+      internalID: 8440818664831071709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special_Tiga_13
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 28
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6577ccde464875920800000000000000
+      internalID: 2978995247550068566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special_Tiga_14
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 28
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31a6988d223d51270800000000000000
+      internalID: 8220708841449941523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special_Tiga_15
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 27
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 627567bc640376960800000000000000
+      internalID: 7595092377203005222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special_Tiga_16
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 28
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a31efbb711e8b0130800000000000000
+      internalID: 3534074538344046906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special_Tiga_17
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 28
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26f40335b4f16bc00800000000000000
+      internalID: 915953982595157858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special_Tiga_18
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 0
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a46d387aa77c0faa0800000000000000
+      internalID: -6129179763240872374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special_Tiga_19
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 0
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f1f23feae442c790800000000000000
+      internalID: -7511365452674436624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special_Tiga_20
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 0
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d57e763eff994ba0800000000000000
+      internalID: -6104171905739229735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special_Tiga_21
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 0
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d697ad99ae443a680800000000000000
+      internalID: -8745070277029103251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special_Tiga_22
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 0
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 509e2da432eb09a70800000000000000
+      internalID: 8831767928062011653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special_Tiga_23
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 0
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b6d9ee7b8a674f10800000000000000
+      internalID: 2253887285884475063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Special_Tiga_0: 2189423952335709502
+      Special_Tiga_1: 1572272520854251623
+      Special_Tiga_10: 7558644580269084169
+      Special_Tiga_11: -6542020954596495111
+      Special_Tiga_12: 8440818664831071709
+      Special_Tiga_13: 2978995247550068566
+      Special_Tiga_14: 8220708841449941523
+      Special_Tiga_15: 7595092377203005222
+      Special_Tiga_16: 3534074538344046906
+      Special_Tiga_17: 915953982595157858
+      Special_Tiga_18: -6129179763240872374
+      Special_Tiga_19: -7511365452674436624
+      Special_Tiga_2: 2561085961686071834
+      Special_Tiga_20: -6104171905739229735
+      Special_Tiga_21: -8745070277029103251
+      Special_Tiga_22: 8831767928062011653
+      Special_Tiga_23: 2253887285884475063
+      Special_Tiga_3: 1169321699829999775
+      Special_Tiga_4: -7143831253303583300
+      Special_Tiga_5: 2391148923347130135
+      Special_Tiga_6: -8352940991572194983
+      Special_Tiga_7: -6917327551514256450
+      Special_Tiga_8: -8932255663239603663
+      Special_Tiga_9: 6323773294389132247
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

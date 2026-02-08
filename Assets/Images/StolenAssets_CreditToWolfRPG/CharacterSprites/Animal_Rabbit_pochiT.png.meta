@@ -1,0 +1,949 @@
+fileFormatVersion: 2
+guid: 7bec421543d99984b82752b6432d85bd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7660927075797158684
+    second: Animal_Rabbit_pochiT_0
+  - first:
+      213: 8592366390356336218
+    second: Animal_Rabbit_pochiT_1
+  - first:
+      213: -3775282409860754592
+    second: Animal_Rabbit_pochiT_2
+  - first:
+      213: 9101248485362724904
+    second: Animal_Rabbit_pochiT_3
+  - first:
+      213: 27276210248413175
+    second: Animal_Rabbit_pochiT_4
+  - first:
+      213: 5558588655566959007
+    second: Animal_Rabbit_pochiT_5
+  - first:
+      213: 2414406424602524183
+    second: Animal_Rabbit_pochiT_6
+  - first:
+      213: 5012405039154193213
+    second: Animal_Rabbit_pochiT_7
+  - first:
+      213: 1360014750683587186
+    second: Animal_Rabbit_pochiT_8
+  - first:
+      213: -2715772228068153867
+    second: Animal_Rabbit_pochiT_9
+  - first:
+      213: 2693472955771646308
+    second: Animal_Rabbit_pochiT_10
+  - first:
+      213: -6334057204008715618
+    second: Animal_Rabbit_pochiT_11
+  - first:
+      213: 9974027572199169
+    second: Animal_Rabbit_pochiT_12
+  - first:
+      213: -4680151467683676521
+    second: Animal_Rabbit_pochiT_13
+  - first:
+      213: -4272979380067179198
+    second: Animal_Rabbit_pochiT_14
+  - first:
+      213: -664155023990059523
+    second: Animal_Rabbit_pochiT_15
+  - first:
+      213: -7892861683290466160
+    second: Animal_Rabbit_pochiT_16
+  - first:
+      213: -7335623347311334730
+    second: Animal_Rabbit_pochiT_17
+  - first:
+      213: 4706519442934010690
+    second: Animal_Rabbit_pochiT_18
+  - first:
+      213: -5956389944928715162
+    second: Animal_Rabbit_pochiT_19
+  - first:
+      213: 315253920257231303
+    second: Animal_Rabbit_pochiT_20
+  - first:
+      213: 7650233255112270833
+    second: Animal_Rabbit_pochiT_21
+  - first:
+      213: 6451419110405546966
+    second: Animal_Rabbit_pochiT_22
+  - first:
+      213: -8379962904503389585
+    second: Animal_Rabbit_pochiT_23
+  - first:
+      213: 8599474407525532598
+    second: Animal_Rabbit_pochiT_24
+  - first:
+      213: -9002597309932121031
+    second: Animal_Rabbit_pochiT_25
+  - first:
+      213: -2310251208403769360
+    second: Animal_Rabbit_pochiT_26
+  - first:
+      213: -3273664819775169448
+    second: Animal_Rabbit_pochiT_27
+  - first:
+      213: 2655018255116699198
+    second: Animal_Rabbit_pochiT_28
+  - first:
+      213: -6221101132682017928
+    second: Animal_Rabbit_pochiT_29
+  - first:
+      213: -8978953445521687909
+    second: Animal_Rabbit_pochiT_30
+  - first:
+      213: -2565443113730075383
+    second: Animal_Rabbit_pochiT_31
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Animal_Rabbit_pochiT_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 55
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1bcf0b0694115a60800000000000000
+      internalID: 7660927075797158684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Rabbit_pochiT_1
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 56
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5ed13d25b73e3770800000000000000
+      internalID: 8592366390356336218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Rabbit_pochiT_2
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 54
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 063187986a08b9bc0800000000000000
+      internalID: -3775282409860754592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Rabbit_pochiT_3
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 56
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8207b96e6412e4e70800000000000000
+      internalID: 9101248485362724904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Rabbit_pochiT_4
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 55
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ffeca69197e06000800000000000000
+      internalID: 27276210248413175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Rabbit_pochiT_5
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 57
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f91b59b7ee2142d40800000000000000
+      internalID: 5558588655566959007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Rabbit_pochiT_6
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 54
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71abad1e9d1b18120800000000000000
+      internalID: 2414406424602524183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Rabbit_pochiT_7
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 57
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d33e92583d3af8540800000000000000
+      internalID: 5012405039154193213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Rabbit_pochiT_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 37
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27269c7c53ebfd210800000000000000
+      internalID: 1360014750683587186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Rabbit_pochiT_9
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 38
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f5602f1c83af4ad0800000000000000
+      internalID: -2715772228068153867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Rabbit_pochiT_10
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 39
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 461f3e4f163216520800000000000000
+      internalID: 2693472955771646308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Rabbit_pochiT_11
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 38
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9a7e004888e818a0800000000000000
+      internalID: -6334057204008715618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Rabbit_pochiT_12
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 37
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10fbb62435f632000800000000000000
+      internalID: 9974027572199169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Rabbit_pochiT_13
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 39
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79ef0b16903cc0fb0800000000000000
+      internalID: -4680151467683676521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Rabbit_pochiT_14
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 36
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 245e68e94e353b4c0800000000000000
+      internalID: -4272979380067179198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Rabbit_pochiT_15
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 39
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfd0847468278c6f0800000000000000
+      internalID: -664155023990059523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Rabbit_pochiT_16
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 19
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0981e220e1ce67290800000000000000
+      internalID: -7892861683290466160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Rabbit_pochiT_17
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 20
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ba22717e61a23a90800000000000000
+      internalID: -7335623347311334730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Rabbit_pochiT_18
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 21
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2431d844f7ae05140800000000000000
+      internalID: 4706519442934010690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Rabbit_pochiT_19
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 20
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66eb0d447e6a65da0800000000000000
+      internalID: -5956389944928715162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Rabbit_pochiT_20
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 19
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c94bfa25c1006400800000000000000
+      internalID: 315253920257231303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Rabbit_pochiT_21
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 20
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f3e8d3ec961b2a60800000000000000
+      internalID: 7650233255112270833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Rabbit_pochiT_22
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 19
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d3a3e4ff7b088950800000000000000
+      internalID: 6451419110405546966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Rabbit_pochiT_23
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 20
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f62ff16232464bb80800000000000000
+      internalID: -8379962904503389585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Rabbit_pochiT_24
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b34f936968775770800000000000000
+      internalID: 8599474407525532598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Rabbit_pochiT_25
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 1
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 934db95c179501380800000000000000
+      internalID: -9002597309932121031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Rabbit_pochiT_26
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 1
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f72d2524c650ffd0800000000000000
+      internalID: -2310251208403769360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Rabbit_pochiT_27
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 1
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85c9b97e03b9192d0800000000000000
+      internalID: -3273664819775169448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Rabbit_pochiT_28
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 1
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e368860490588d420800000000000000
+      internalID: 2655018255116699198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Rabbit_pochiT_29
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 2
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87345ba0b753aa9a0800000000000000
+      internalID: -6221101132682017928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Rabbit_pochiT_30
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 1
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9af8e0f969546380800000000000000
+      internalID: -8978953445521687909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Rabbit_pochiT_31
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 2
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90595a29417b56cd0800000000000000
+      internalID: -2565443113730075383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Animal_Rabbit_pochiT_0: 7660927075797158684
+      Animal_Rabbit_pochiT_1: 8592366390356336218
+      Animal_Rabbit_pochiT_10: 2693472955771646308
+      Animal_Rabbit_pochiT_11: -6334057204008715618
+      Animal_Rabbit_pochiT_12: 9974027572199169
+      Animal_Rabbit_pochiT_13: -4680151467683676521
+      Animal_Rabbit_pochiT_14: -4272979380067179198
+      Animal_Rabbit_pochiT_15: -664155023990059523
+      Animal_Rabbit_pochiT_16: -7892861683290466160
+      Animal_Rabbit_pochiT_17: -7335623347311334730
+      Animal_Rabbit_pochiT_18: 4706519442934010690
+      Animal_Rabbit_pochiT_19: -5956389944928715162
+      Animal_Rabbit_pochiT_2: -3775282409860754592
+      Animal_Rabbit_pochiT_20: 315253920257231303
+      Animal_Rabbit_pochiT_21: 7650233255112270833
+      Animal_Rabbit_pochiT_22: 6451419110405546966
+      Animal_Rabbit_pochiT_23: -8379962904503389585
+      Animal_Rabbit_pochiT_24: 8599474407525532598
+      Animal_Rabbit_pochiT_25: -9002597309932121031
+      Animal_Rabbit_pochiT_26: -2310251208403769360
+      Animal_Rabbit_pochiT_27: -3273664819775169448
+      Animal_Rabbit_pochiT_28: 2655018255116699198
+      Animal_Rabbit_pochiT_29: -6221101132682017928
+      Animal_Rabbit_pochiT_3: 9101248485362724904
+      Animal_Rabbit_pochiT_30: -8978953445521687909
+      Animal_Rabbit_pochiT_31: -2565443113730075383
+      Animal_Rabbit_pochiT_4: 27276210248413175
+      Animal_Rabbit_pochiT_5: 5558588655566959007
+      Animal_Rabbit_pochiT_6: 2414406424602524183
+      Animal_Rabbit_pochiT_7: 5012405039154193213
+      Animal_Rabbit_pochiT_8: 1360014750683587186
+      Animal_Rabbit_pochiT_9: -2715772228068153867
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

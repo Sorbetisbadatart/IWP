@@ -1,0 +1,741 @@
+fileFormatVersion: 2
+guid: c355f826eed4b10459a001b52fd089eb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7821025636777077326
+    second: Monster_LizardMan_pochi_0
+  - first:
+      213: -2157361906112986730
+    second: Monster_LizardMan_pochi_1
+  - first:
+      213: 5001054167575127738
+    second: Monster_LizardMan_pochi_2
+  - first:
+      213: -922255345038617203
+    second: Monster_LizardMan_pochi_3
+  - first:
+      213: -8501871825410649500
+    second: Monster_LizardMan_pochi_4
+  - first:
+      213: 1886474057834649999
+    second: Monster_LizardMan_pochi_5
+  - first:
+      213: 5122654422497687506
+    second: Monster_LizardMan_pochi_6
+  - first:
+      213: -8094620936623917925
+    second: Monster_LizardMan_pochi_7
+  - first:
+      213: 100566803142963758
+    second: Monster_LizardMan_pochi_8
+  - first:
+      213: 7388346193191417734
+    second: Monster_LizardMan_pochi_9
+  - first:
+      213: 4368446194638950251
+    second: Monster_LizardMan_pochi_10
+  - first:
+      213: -7381925897142046612
+    second: Monster_LizardMan_pochi_11
+  - first:
+      213: 4144557945754290620
+    second: Monster_LizardMan_pochi_12
+  - first:
+      213: 6154252170303839380
+    second: Monster_LizardMan_pochi_13
+  - first:
+      213: 5475845828328855666
+    second: Monster_LizardMan_pochi_14
+  - first:
+      213: 7988893569789118149
+    second: Monster_LizardMan_pochi_15
+  - first:
+      213: -8834593729058300006
+    second: Monster_LizardMan_pochi_16
+  - first:
+      213: -7044605801818765255
+    second: Monster_LizardMan_pochi_17
+  - first:
+      213: -5935303252686994936
+    second: Monster_LizardMan_pochi_18
+  - first:
+      213: 3172801179303476874
+    second: Monster_LizardMan_pochi_19
+  - first:
+      213: 915534360487948152
+    second: Monster_LizardMan_pochi_20
+  - first:
+      213: 7957785342079409821
+    second: Monster_LizardMan_pochi_21
+  - first:
+      213: -4302437131295037391
+    second: Monster_LizardMan_pochi_22
+  - first:
+      213: 2226553794598431031
+    second: Monster_LizardMan_pochi_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Monster_LizardMan_pochi_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 53
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b5dda4fe92267390800000000000000
+      internalID: -7821025636777077326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_LizardMan_pochi_1
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 36
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6910d2ec6c28f02e0800000000000000
+      internalID: -2157361906112986730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_LizardMan_pochi_2
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 54
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab66dc8c440576540800000000000000
+      internalID: 5001054167575127738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_LizardMan_pochi_3
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 36
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8594c666ad7333f0800000000000000
+      internalID: -922255345038617203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_LizardMan_pochi_4
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 53
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4621f70ae98430a80800000000000000
+      internalID: -8501871825410649500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_LizardMan_pochi_5
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 36
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f89593f192a1e2a10800000000000000
+      internalID: 1886474057834649999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_LizardMan_pochi_6
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 54
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d7fe086e03571740800000000000000
+      internalID: 5122654422497687506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_LizardMan_pochi_7
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 35
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b94771135212aaf80800000000000000
+      internalID: -8094620936623917925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_LizardMan_pochi_8
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 54
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e22788189f8456100800000000000000
+      internalID: 100566803142963758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_LizardMan_pochi_9
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 36
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 687b8c2b7bda88660800000000000000
+      internalID: 7388346193191417734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_LizardMan_pochi_10
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 36
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6f8cd34ba6df9c30800000000000000
+      internalID: 4368446194638950251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_LizardMan_pochi_11
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 53
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c607796f1812e8990800000000000000
+      internalID: -7381925897142046612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_LizardMan_pochi_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 18
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb905bb2e7d648930800000000000000
+      internalID: 4144557945754290620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_LizardMan_pochi_13
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 0
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49c13250ebb486550800000000000000
+      internalID: 6154252170303839380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_LizardMan_pochi_14
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 18
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2789852c4cc1efb40800000000000000
+      internalID: 5475845828328855666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_LizardMan_pochi_15
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 0
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c6ceafef504ede60800000000000000
+      internalID: 7988893569789118149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_LizardMan_pochi_16
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 18
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9f1694afc7356580800000000000000
+      internalID: -8834593729058300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_LizardMan_pochi_17
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 0
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 938cfefd8588c3e90800000000000000
+      internalID: -7044605801818765255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_LizardMan_pochi_18
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 17
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8020f55632191ada0800000000000000
+      internalID: -5935303252686994936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_LizardMan_pochi_19
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 0
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8ef253ccdd080c20800000000000000
+      internalID: 3172801179303476874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_LizardMan_pochi_20
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 18
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87f6c8076a1a4bc00800000000000000
+      internalID: 915534360487948152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_LizardMan_pochi_21
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9e14714b9bbf6e60800000000000000
+      internalID: 7957785342079409821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_LizardMan_pochi_22
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 18
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13865b0793caa44c0800000000000000
+      internalID: -4302437131295037391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_LizardMan_pochi_23
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 0
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 739665021ee46ee10800000000000000
+      internalID: 2226553794598431031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Monster_LizardMan_pochi_0: -7821025636777077326
+      Monster_LizardMan_pochi_1: -2157361906112986730
+      Monster_LizardMan_pochi_10: 4368446194638950251
+      Monster_LizardMan_pochi_11: -7381925897142046612
+      Monster_LizardMan_pochi_12: 4144557945754290620
+      Monster_LizardMan_pochi_13: 6154252170303839380
+      Monster_LizardMan_pochi_14: 5475845828328855666
+      Monster_LizardMan_pochi_15: 7988893569789118149
+      Monster_LizardMan_pochi_16: -8834593729058300006
+      Monster_LizardMan_pochi_17: -7044605801818765255
+      Monster_LizardMan_pochi_18: -5935303252686994936
+      Monster_LizardMan_pochi_19: 3172801179303476874
+      Monster_LizardMan_pochi_2: 5001054167575127738
+      Monster_LizardMan_pochi_20: 915534360487948152
+      Monster_LizardMan_pochi_21: 7957785342079409821
+      Monster_LizardMan_pochi_22: -4302437131295037391
+      Monster_LizardMan_pochi_23: 2226553794598431031
+      Monster_LizardMan_pochi_3: -922255345038617203
+      Monster_LizardMan_pochi_4: -8501871825410649500
+      Monster_LizardMan_pochi_5: 1886474057834649999
+      Monster_LizardMan_pochi_6: 5122654422497687506
+      Monster_LizardMan_pochi_7: -8094620936623917925
+      Monster_LizardMan_pochi_8: 100566803142963758
+      Monster_LizardMan_pochi_9: 7388346193191417734
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

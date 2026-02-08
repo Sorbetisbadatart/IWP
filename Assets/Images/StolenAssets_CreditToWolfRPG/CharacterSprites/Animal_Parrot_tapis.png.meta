@@ -1,0 +1,715 @@
+fileFormatVersion: 2
+guid: 78868e6e4351985428b12d9d18722532
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5301922177260396612
+    second: Animal_Parrot_tapis_0
+  - first:
+      213: 1434118713294540954
+    second: Animal_Parrot_tapis_1
+  - first:
+      213: -232063263199999708
+    second: Animal_Parrot_tapis_2
+  - first:
+      213: 7181610982838340828
+    second: Animal_Parrot_tapis_3
+  - first:
+      213: 6428377929940428745
+    second: Animal_Parrot_tapis_4
+  - first:
+      213: -6178135008034707783
+    second: Animal_Parrot_tapis_5
+  - first:
+      213: -4377623836305247299
+    second: Animal_Parrot_tapis_6
+  - first:
+      213: 8471041689788954969
+    second: Animal_Parrot_tapis_7
+  - first:
+      213: 2728011691577571089
+    second: Animal_Parrot_tapis_8
+  - first:
+      213: 231136263060169234
+    second: Animal_Parrot_tapis_9
+  - first:
+      213: 2007710483614614917
+    second: Animal_Parrot_tapis_10
+  - first:
+      213: -4561522296671882510
+    second: Animal_Parrot_tapis_11
+  - first:
+      213: -667750774003225729
+    second: Animal_Parrot_tapis_12
+  - first:
+      213: -3023624400887546300
+    second: Animal_Parrot_tapis_13
+  - first:
+      213: -1950400028091135068
+    second: Animal_Parrot_tapis_14
+  - first:
+      213: 8056634501200206260
+    second: Animal_Parrot_tapis_15
+  - first:
+      213: -5508731394734070400
+    second: Animal_Parrot_tapis_16
+  - first:
+      213: -246003843892231006
+    second: Animal_Parrot_tapis_17
+  - first:
+      213: 2935498359491685226
+    second: Animal_Parrot_tapis_18
+  - first:
+      213: 1131437273766128723
+    second: Animal_Parrot_tapis_19
+  - first:
+      213: -1419724035884177111
+    second: Animal_Parrot_tapis_20
+  - first:
+      213: -2204482236942406668
+    second: Animal_Parrot_tapis_21
+  - first:
+      213: -3931887226731753422
+    second: Animal_Parrot_tapis_22
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Animal_Parrot_tapis_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 73
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbfd0added9cb66b0800000000000000
+      internalID: -5301922177260396612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Parrot_tapis_1
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 49
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9059a71f5307e310800000000000000
+      internalID: 1434118713294540954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Parrot_tapis_2
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 73
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 429cb8f01bb87ccf0800000000000000
+      internalID: -232063263199999708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Parrot_tapis_3
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 49
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdc8f1b93253aa360800000000000000
+      internalID: 7181610982838340828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Parrot_tapis_4
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 73
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c76f041baf263950800000000000000
+      internalID: 6428377929940428745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Parrot_tapis_5
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 49
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b6afaf71fad24aa0800000000000000
+      internalID: -6178135008034707783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Parrot_tapis_6
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 73
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db33eb4805e8f33c0800000000000000
+      internalID: -4377623836305247299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Parrot_tapis_7
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 49
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 959356d098f2f8570800000000000000
+      internalID: 8471041689788954969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Parrot_tapis_8
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 73
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 117f79b0e28dbd520800000000000000
+      internalID: 2728011691577571089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Parrot_tapis_9
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 49
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 212a966e439253300800000000000000
+      internalID: 231136263060169234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Parrot_tapis_10
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 73
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5854dab2c02dcdb10800000000000000
+      internalID: 2007710483614614917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Parrot_tapis_11
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 49
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f239df93a732b0c0800000000000000
+      internalID: -4561522296671882510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Parrot_tapis_12
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 25
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7bab0d753cabb6f0800000000000000
+      internalID: -667750774003225729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Parrot_tapis_13
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44ef4e290ade906d0800000000000000
+      internalID: -3023624400887546300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Parrot_tapis_14
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 25
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ab47b31289cee4e0800000000000000
+      internalID: -1950400028091135068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Parrot_tapis_15
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b9d139946aeecf60800000000000000
+      internalID: 8056634501200206260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Parrot_tapis_16
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 25
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08565d5abfd0d83b0800000000000000
+      internalID: -5508731394734070400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Parrot_tapis_17
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 1
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a44c6faec4069cf0800000000000000
+      internalID: -246003843892231006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Parrot_tapis_18
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 25
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6b6e3c743cfcb820800000000000000
+      internalID: 2935498359491685226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Parrot_tapis_19
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 1
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35c6774b43ca3bf00800000000000000
+      internalID: 1131437273766128723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Parrot_tapis_20
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 25
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9292a0ae2802c4ce0800000000000000
+      internalID: -1419724035884177111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Parrot_tapis_21
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 25
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fba369d51b1861e0800000000000000
+      internalID: -2204482236942406668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Parrot_tapis_22
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23012c936612f69c0800000000000000
+      internalID: -3931887226731753422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Animal_Parrot_tapis_0: -5301922177260396612
+      Animal_Parrot_tapis_1: 1434118713294540954
+      Animal_Parrot_tapis_10: 2007710483614614917
+      Animal_Parrot_tapis_11: -4561522296671882510
+      Animal_Parrot_tapis_12: -667750774003225729
+      Animal_Parrot_tapis_13: -3023624400887546300
+      Animal_Parrot_tapis_14: -1950400028091135068
+      Animal_Parrot_tapis_15: 8056634501200206260
+      Animal_Parrot_tapis_16: -5508731394734070400
+      Animal_Parrot_tapis_17: -246003843892231006
+      Animal_Parrot_tapis_18: 2935498359491685226
+      Animal_Parrot_tapis_19: 1131437273766128723
+      Animal_Parrot_tapis_2: -232063263199999708
+      Animal_Parrot_tapis_20: -1419724035884177111
+      Animal_Parrot_tapis_21: -2204482236942406668
+      Animal_Parrot_tapis_22: -3931887226731753422
+      Animal_Parrot_tapis_3: 7181610982838340828
+      Animal_Parrot_tapis_4: 6428377929940428745
+      Animal_Parrot_tapis_5: -6178135008034707783
+      Animal_Parrot_tapis_6: -4377623836305247299
+      Animal_Parrot_tapis_7: 8471041689788954969
+      Animal_Parrot_tapis_8: 2728011691577571089
+      Animal_Parrot_tapis_9: 231136263060169234
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

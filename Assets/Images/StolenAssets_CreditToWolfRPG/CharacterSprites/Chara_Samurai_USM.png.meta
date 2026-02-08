@@ -1,0 +1,741 @@
+fileFormatVersion: 2
+guid: 7944b99d26df98f469094f00cafa34f5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8333492825449416861
+    second: Chara_Samurai_USM_0
+  - first:
+      213: -4100172825562428672
+    second: Chara_Samurai_USM_1
+  - first:
+      213: -5167953219017396900
+    second: Chara_Samurai_USM_2
+  - first:
+      213: 357372743764017349
+    second: Chara_Samurai_USM_3
+  - first:
+      213: -6304827286080426990
+    second: Chara_Samurai_USM_4
+  - first:
+      213: 6112133546041047358
+    second: Chara_Samurai_USM_5
+  - first:
+      213: 28908770287548218
+    second: Chara_Samurai_USM_6
+  - first:
+      213: 1785817962926328197
+    second: Chara_Samurai_USM_7
+  - first:
+      213: 5672554365781730568
+    second: Chara_Samurai_USM_8
+  - first:
+      213: -7886503244810479908
+    second: Chara_Samurai_USM_9
+  - first:
+      213: -8608852354179919109
+    second: Chara_Samurai_USM_10
+  - first:
+      213: -96002334422453145
+    second: Chara_Samurai_USM_11
+  - first:
+      213: -6977250863291761779
+    second: Chara_Samurai_USM_12
+  - first:
+      213: 1304660102829594623
+    second: Chara_Samurai_USM_13
+  - first:
+      213: -7377818624203935348
+    second: Chara_Samurai_USM_14
+  - first:
+      213: -7252075217038826677
+    second: Chara_Samurai_USM_15
+  - first:
+      213: -1519786211291145897
+    second: Chara_Samurai_USM_16
+  - first:
+      213: -8067265998998126713
+    second: Chara_Samurai_USM_17
+  - first:
+      213: 4359732328335594221
+    second: Chara_Samurai_USM_18
+  - first:
+      213: -7833755691735674219
+    second: Chara_Samurai_USM_19
+  - first:
+      213: -4492290296001358724
+    second: Chara_Samurai_USM_20
+  - first:
+      213: -3811787422708851571
+    second: Chara_Samurai_USM_21
+  - first:
+      213: -318585921567173794
+    second: Chara_Samurai_USM_22
+  - first:
+      213: -6372877372663007637
+    second: Chara_Samurai_USM_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Chara_Samurai_USM_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 56
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d98cd2f629386a370800000000000000
+      internalID: 8333492825449416861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chara_Samurai_USM_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 38
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00b44aee9824917c0800000000000000
+      internalID: -4100172825562428672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chara_Samurai_USM_2
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 57
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5da1a4adedb748b0800000000000000
+      internalID: -5167953219017396900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chara_Samurai_USM_3
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 38
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c00674fd94a5f400800000000000000
+      internalID: 357372743764017349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chara_Samurai_USM_4
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 56
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21c6cfadcf0c088a0800000000000000
+      internalID: -6304827286080426990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chara_Samurai_USM_5
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 38
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e39768f9319a2d450800000000000000
+      internalID: 6112133546041047358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chara_Samurai_USM_6
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 37
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a37f1e79f54b66000800000000000000
+      internalID: 28908770287548218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chara_Samurai_USM_7
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 57
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5894cb1c9ff78c810800000000000000
+      internalID: 1785817962926328197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chara_Samurai_USM_8
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 57
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 805e2852426f8be40800000000000000
+      internalID: 5672554365781730568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chara_Samurai_USM_9
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 38
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd61b1555138d8290800000000000000
+      internalID: -7886503244810479908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chara_Samurai_USM_10
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 56
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf212514566378880800000000000000
+      internalID: -8608852354179919109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chara_Samurai_USM_11
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 38
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 764342fa26eeaaef0800000000000000
+      internalID: -96002334422453145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chara_Samurai_USM_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 19
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8bf4b09e43db2f90800000000000000
+      internalID: -6977250863291761779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chara_Samurai_USM_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff758cd73751b1210800000000000000
+      internalID: 1304660102829594623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chara_Samurai_USM_14
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 0
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c813017fc09bc9990800000000000000
+      internalID: -7377818624203935348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chara_Samurai_USM_15
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 19
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b43acf363047b5b90800000000000000
+      internalID: -7252075217038826677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chara_Samurai_USM_16
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 19
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75954753e72a8eae0800000000000000
+      internalID: -1519786211291145897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chara_Samurai_USM_17
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 0
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78f312de0505b0090800000000000000
+      internalID: -8067265998998126713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chara_Samurai_USM_18
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 18
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de2da3a2471e08c30800000000000000
+      internalID: 4359732328335594221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chara_Samurai_USM_19
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 0
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59296e014b8e84390800000000000000
+      internalID: -7833755691735674219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chara_Samurai_USM_20
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 19
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7497e6e6cd28a1c0800000000000000
+      internalID: -4492290296001358724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chara_Samurai_USM_21
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 0
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8c1326e88fc91bc0800000000000000
+      internalID: -3811787422708851571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chara_Samurai_USM_22
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 0
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e535c82dac7249bf0800000000000000
+      internalID: -318585921567173794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chara_Samurai_USM_23
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 19
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b66fb456bcdfe87a0800000000000000
+      internalID: -6372877372663007637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Chara_Samurai_USM_0: 8333492825449416861
+      Chara_Samurai_USM_1: -4100172825562428672
+      Chara_Samurai_USM_10: -8608852354179919109
+      Chara_Samurai_USM_11: -96002334422453145
+      Chara_Samurai_USM_12: -6977250863291761779
+      Chara_Samurai_USM_13: 1304660102829594623
+      Chara_Samurai_USM_14: -7377818624203935348
+      Chara_Samurai_USM_15: -7252075217038826677
+      Chara_Samurai_USM_16: -1519786211291145897
+      Chara_Samurai_USM_17: -8067265998998126713
+      Chara_Samurai_USM_18: 4359732328335594221
+      Chara_Samurai_USM_19: -7833755691735674219
+      Chara_Samurai_USM_2: -5167953219017396900
+      Chara_Samurai_USM_20: -4492290296001358724
+      Chara_Samurai_USM_21: -3811787422708851571
+      Chara_Samurai_USM_22: -318585921567173794
+      Chara_Samurai_USM_23: -6372877372663007637
+      Chara_Samurai_USM_3: 357372743764017349
+      Chara_Samurai_USM_4: -6304827286080426990
+      Chara_Samurai_USM_5: 6112133546041047358
+      Chara_Samurai_USM_6: 28908770287548218
+      Chara_Samurai_USM_7: 1785817962926328197
+      Chara_Samurai_USM_8: 5672554365781730568
+      Chara_Samurai_USM_9: -7886503244810479908
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,715 @@
+fileFormatVersion: 2
+guid: cbf92325590c47c4088422ec444b2e8a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3843975525640623317
+    second: Chara_Thief1_USM_0
+  - first:
+      213: -227477243000399619
+    second: Chara_Thief1_USM_1
+  - first:
+      213: -4402197616165459826
+    second: Chara_Thief1_USM_2
+  - first:
+      213: -7078903400527108984
+    second: Chara_Thief1_USM_3
+  - first:
+      213: -192931037344654590
+    second: Chara_Thief1_USM_4
+  - first:
+      213: 2081372424663952694
+    second: Chara_Thief1_USM_5
+  - first:
+      213: -2761151040216956443
+    second: Chara_Thief1_USM_6
+  - first:
+      213: 6163063469516459790
+    second: Chara_Thief1_USM_7
+  - first:
+      213: 8365316354850063931
+    second: Chara_Thief1_USM_8
+  - first:
+      213: 5668305907153018140
+    second: Chara_Thief1_USM_9
+  - first:
+      213: 3371211746616552205
+    second: Chara_Thief1_USM_10
+  - first:
+      213: -1730509961525374013
+    second: Chara_Thief1_USM_11
+  - first:
+      213: -5758818043165948687
+    second: Chara_Thief1_USM_12
+  - first:
+      213: -8436727537826614065
+    second: Chara_Thief1_USM_13
+  - first:
+      213: 2520584417472364144
+    second: Chara_Thief1_USM_14
+  - first:
+      213: 3411308940478272803
+    second: Chara_Thief1_USM_15
+  - first:
+      213: -1028023586052788992
+    second: Chara_Thief1_USM_16
+  - first:
+      213: -1068509663374369455
+    second: Chara_Thief1_USM_17
+  - first:
+      213: -8928873294424323964
+    second: Chara_Thief1_USM_18
+  - first:
+      213: -1377198598965983831
+    second: Chara_Thief1_USM_19
+  - first:
+      213: -1953280889636094946
+    second: Chara_Thief1_USM_20
+  - first:
+      213: 5415276875277184042
+    second: Chara_Thief1_USM_21
+  - first:
+      213: 8873719081012518638
+    second: Chara_Thief1_USM_22
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Chara_Thief1_USM_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 56
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d4da13df5b885530800000000000000
+      internalID: 3843975525640623317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chara_Thief1_USM_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 38
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df8d97817a6d7dcf0800000000000000
+      internalID: -227477243000399619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chara_Thief1_USM_2
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 57
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e88e269879048e2c0800000000000000
+      internalID: -4402197616165459826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chara_Thief1_USM_3
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 38
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 884e644ecdea2cd90800000000000000
+      internalID: -7078903400527108984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chara_Thief1_USM_4
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 56
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20b9ce46e32925df0800000000000000
+      internalID: -192931037344654590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chara_Thief1_USM_5
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 37
+        width: 29
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63d6361513582ec10800000000000000
+      internalID: 2081372424663952694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chara_Thief1_USM_6
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 57
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e10ba412cb6ea9d0800000000000000
+      internalID: -2761151040216956443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chara_Thief1_USM_7
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 38
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0f07bc7299978550800000000000000
+      internalID: 6163063469516459790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chara_Thief1_USM_8
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 57
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b368a9447e2971470800000000000000
+      internalID: 8365316354850063931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chara_Thief1_USM_9
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 56
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1d9a1ac03ed9ae40800000000000000
+      internalID: 5668305907153018140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chara_Thief1_USM_10
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 38
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0b24bbd833f8ce20800000000000000
+      internalID: 3371211746616552205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chara_Thief1_USM_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 19
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c3510fcb5efbf7e0800000000000000
+      internalID: -1730509961525374013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chara_Thief1_USM_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f4cbf250819410b0800000000000000
+      internalID: -5758818043165948687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chara_Thief1_USM_13
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 19
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc4b6190109baea80800000000000000
+      internalID: -8436727537826614065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chara_Thief1_USM_14
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 0
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07e33dd4c2aeaf220800000000000000
+      internalID: 2520584417472364144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chara_Thief1_USM_15
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 19
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32552505867675f20800000000000000
+      internalID: 3411308940478272803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chara_Thief1_USM_16
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 0
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00da994cef9bbb1f0800000000000000
+      internalID: -1028023586052788992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chara_Thief1_USM_17
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 18
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15d9f735f14eb21f0800000000000000
+      internalID: -1068509663374369455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chara_Thief1_USM_18
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 0
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 488cd51cb05461480800000000000000
+      internalID: -8928873294424323964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chara_Thief1_USM_19
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 0
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a58773cb2533ece0800000000000000
+      internalID: -1377198598965983831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chara_Thief1_USM_20
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 19
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1c7eaa316d84e4e0800000000000000
+      internalID: -1953280889636094946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chara_Thief1_USM_21
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 0
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2ca84f60ade62b40800000000000000
+      internalID: 5415276875277184042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chara_Thief1_USM_22
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 19
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eee5b5c3d78c52b70800000000000000
+      internalID: 8873719081012518638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Chara_Thief1_USM_0: 3843975525640623317
+      Chara_Thief1_USM_1: -227477243000399619
+      Chara_Thief1_USM_10: 3371211746616552205
+      Chara_Thief1_USM_11: -1730509961525374013
+      Chara_Thief1_USM_12: -5758818043165948687
+      Chara_Thief1_USM_13: -8436727537826614065
+      Chara_Thief1_USM_14: 2520584417472364144
+      Chara_Thief1_USM_15: 3411308940478272803
+      Chara_Thief1_USM_16: -1028023586052788992
+      Chara_Thief1_USM_17: -1068509663374369455
+      Chara_Thief1_USM_18: -8928873294424323964
+      Chara_Thief1_USM_19: -1377198598965983831
+      Chara_Thief1_USM_2: -4402197616165459826
+      Chara_Thief1_USM_20: -1953280889636094946
+      Chara_Thief1_USM_21: 5415276875277184042
+      Chara_Thief1_USM_22: 8873719081012518638
+      Chara_Thief1_USM_3: -7078903400527108984
+      Chara_Thief1_USM_4: -192931037344654590
+      Chara_Thief1_USM_5: 2081372424663952694
+      Chara_Thief1_USM_6: -2761151040216956443
+      Chara_Thief1_USM_7: 6163063469516459790
+      Chara_Thief1_USM_8: 8365316354850063931
+      Chara_Thief1_USM_9: 5668305907153018140
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

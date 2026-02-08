@@ -1,0 +1,741 @@
+fileFormatVersion: 2
+guid: 17499c79cd7b67f4b8f537060a2f22fa
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5431240000903811103
+    second: Special_Edy_0
+  - first:
+      213: -644684977652142312
+    second: Special_Edy_1
+  - first:
+      213: 7550353378555050379
+    second: Special_Edy_2
+  - first:
+      213: 5813884717887778644
+    second: Special_Edy_3
+  - first:
+      213: 2346946432454124790
+    second: Special_Edy_4
+  - first:
+      213: -3228969487897416797
+    second: Special_Edy_5
+  - first:
+      213: 373627678340771159
+    second: Special_Edy_6
+  - first:
+      213: 7257494278318515404
+    second: Special_Edy_7
+  - first:
+      213: -4339587552382432991
+    second: Special_Edy_8
+  - first:
+      213: 5550379363701068238
+    second: Special_Edy_9
+  - first:
+      213: -1370459516980536770
+    second: Special_Edy_10
+  - first:
+      213: 1850954300306734613
+    second: Special_Edy_11
+  - first:
+      213: -6944985524295546502
+    second: Special_Edy_12
+  - first:
+      213: 5040041327036693498
+    second: Special_Edy_13
+  - first:
+      213: -2327022493450931021
+    second: Special_Edy_14
+  - first:
+      213: 5443894817384476080
+    second: Special_Edy_15
+  - first:
+      213: -4133765031099870507
+    second: Special_Edy_16
+  - first:
+      213: 8264413677900904292
+    second: Special_Edy_17
+  - first:
+      213: 9219529981663975534
+    second: Special_Edy_18
+  - first:
+      213: -4137033006406422223
+    second: Special_Edy_19
+  - first:
+      213: -4762417357487079463
+    second: Special_Edy_20
+  - first:
+      213: 4925968553530033588
+    second: Special_Edy_21
+  - first:
+      213: -5864543577139388699
+    second: Special_Edy_22
+  - first:
+      213: -2634529896163210031
+    second: Special_Edy_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Special_Edy_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 59
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1093cf3104af5b40800000000000000
+      internalID: 5431240000903811103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special_Edy_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 40
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81f6303bd6e9d07f0800000000000000
+      internalID: -644684977652142312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special_Edy_2
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 60
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b89b171f46e38c860800000000000000
+      internalID: 7550353378555050379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special_Edy_3
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 40
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45fe5cef8511fa050800000000000000
+      internalID: 5813884717887778644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special_Edy_4
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 59
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f46c4d7857029020800000000000000
+      internalID: 2346946432454124790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special_Edy_5
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 40
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3abac4bcb556033d0800000000000000
+      internalID: -3228969487897416797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special_Edy_6
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 60
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75d61c5d4646f2500800000000000000
+      internalID: 373627678340771159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special_Edy_7
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 39
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc4ea92289cc7b460800000000000000
+      internalID: 7257494278318515404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special_Edy_8
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 60
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 129c98cfc10b6c3c0800000000000000
+      internalID: -4339587552382432991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special_Edy_9
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 40
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec19f06cf98e60d40800000000000000
+      internalID: 5550379363701068238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special_Edy_10
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 59
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3a525f84562bfce0800000000000000
+      internalID: -1370459516980536770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special_Edy_11
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 40
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51eb34d1129efa910800000000000000
+      internalID: 1850954300306734613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special_Edy_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 20
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a79422636747e9f90800000000000000
+      internalID: -6944985524295546502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special_Edy_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afb7f4732e2d1f540800000000000000
+      internalID: 5040041327036693498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special_Edy_14
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 0
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b4738d0f51c4bfd0800000000000000
+      internalID: -2327022493450931021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special_Edy_15
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 20
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bdaac05e799c8b40800000000000000
+      internalID: 5443894817384476080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special_Edy_16
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 20
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d25c581b9ae1a6c0800000000000000
+      internalID: -4133765031099870507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special_Edy_17
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 0
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 467b92c047811b270800000000000000
+      internalID: 8264413677900904292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special_Edy_18
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 19
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e681521dba952ff70800000000000000
+      internalID: 9219529981663975534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special_Edy_19
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 0
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 131341d466e4696c0800000000000000
+      internalID: -4137033006406422223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special_Edy_20
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 20
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dff3de45ae78edb0800000000000000
+      internalID: -4762417357487079463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special_Edy_21
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 0
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b507efec4e8c5440800000000000000
+      internalID: 4925968553530033588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special_Edy_22
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 20
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5eedec230b4fc9ea0800000000000000
+      internalID: -5864543577139388699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special_Edy_23
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 0
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dc8b0d8405407bd0800000000000000
+      internalID: -2634529896163210031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Special_Edy_0: 5431240000903811103
+      Special_Edy_1: -644684977652142312
+      Special_Edy_10: -1370459516980536770
+      Special_Edy_11: 1850954300306734613
+      Special_Edy_12: -6944985524295546502
+      Special_Edy_13: 5040041327036693498
+      Special_Edy_14: -2327022493450931021
+      Special_Edy_15: 5443894817384476080
+      Special_Edy_16: -4133765031099870507
+      Special_Edy_17: 8264413677900904292
+      Special_Edy_18: 9219529981663975534
+      Special_Edy_19: -4137033006406422223
+      Special_Edy_2: 7550353378555050379
+      Special_Edy_20: -4762417357487079463
+      Special_Edy_21: 4925968553530033588
+      Special_Edy_22: -5864543577139388699
+      Special_Edy_23: -2634529896163210031
+      Special_Edy_3: 5813884717887778644
+      Special_Edy_4: 2346946432454124790
+      Special_Edy_5: -3228969487897416797
+      Special_Edy_6: 373627678340771159
+      Special_Edy_7: 7257494278318515404
+      Special_Edy_8: -4339587552382432991
+      Special_Edy_9: 5550379363701068238
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

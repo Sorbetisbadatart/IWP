@@ -1,0 +1,741 @@
+fileFormatVersion: 2
+guid: 72f77466245c1b74f882883bec551e12
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4022183344279473370
+    second: Animal_Chameleon_Uroboros_0
+  - first:
+      213: 7036647904515799064
+    second: Animal_Chameleon_Uroboros_1
+  - first:
+      213: -2999172559044138553
+    second: Animal_Chameleon_Uroboros_2
+  - first:
+      213: 2283486769131187581
+    second: Animal_Chameleon_Uroboros_3
+  - first:
+      213: -1870772234149301439
+    second: Animal_Chameleon_Uroboros_4
+  - first:
+      213: -6389094222871365241
+    second: Animal_Chameleon_Uroboros_5
+  - first:
+      213: 1709475005775771191
+    second: Animal_Chameleon_Uroboros_6
+  - first:
+      213: -8321563126783133535
+    second: Animal_Chameleon_Uroboros_7
+  - first:
+      213: -5478231050791864408
+    second: Animal_Chameleon_Uroboros_8
+  - first:
+      213: 264440358506281249
+    second: Animal_Chameleon_Uroboros_9
+  - first:
+      213: 8475743715504756219
+    second: Animal_Chameleon_Uroboros_10
+  - first:
+      213: 3017188898286639438
+    second: Animal_Chameleon_Uroboros_11
+  - first:
+      213: 1208812182181860331
+    second: Animal_Chameleon_Uroboros_12
+  - first:
+      213: 586889347376973519
+    second: Animal_Chameleon_Uroboros_13
+  - first:
+      213: -5703228844126605214
+    second: Animal_Chameleon_Uroboros_14
+  - first:
+      213: 9067457375898443085
+    second: Animal_Chameleon_Uroboros_15
+  - first:
+      213: 6492245214907086242
+    second: Animal_Chameleon_Uroboros_16
+  - first:
+      213: -8247548991423875718
+    second: Animal_Chameleon_Uroboros_17
+  - first:
+      213: -6745037494998437273
+    second: Animal_Chameleon_Uroboros_18
+  - first:
+      213: -6291728866153894642
+    second: Animal_Chameleon_Uroboros_19
+  - first:
+      213: 6400893916352001346
+    second: Animal_Chameleon_Uroboros_20
+  - first:
+      213: 313296894192452146
+    second: Animal_Chameleon_Uroboros_21
+  - first:
+      213: 3072395428320714838
+    second: Animal_Chameleon_Uroboros_22
+  - first:
+      213: 5202582131558730433
+    second: Animal_Chameleon_Uroboros_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Animal_Chameleon_Uroboros_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 83
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adc4541f07aa1d730800000000000000
+      internalID: 4022183344279473370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Chameleon_Uroboros_1
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 84
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8183926ccf137a160800000000000000
+      internalID: 7036647904515799064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Chameleon_Uroboros_2
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 83
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c92316a27cc066d0800000000000000
+      internalID: -2999172559044138553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Chameleon_Uroboros_3
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 84
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7d6e5b3e1390bf10800000000000000
+      internalID: 2283486769131187581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Chameleon_Uroboros_4
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 83
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 143fdd7909ea906e0800000000000000
+      internalID: -1870772234149301439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Chameleon_Uroboros_5
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 83
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7897049b7a06557a0800000000000000
+      internalID: -6389094222871365241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Chameleon_Uroboros_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 55
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7367ca7e57649b710800000000000000
+      internalID: 1709475005775771191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Chameleon_Uroboros_7
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 55
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a83a1cfc6ed38c80800000000000000
+      internalID: -8321563126783133535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Chameleon_Uroboros_8
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 55
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a7390c52e969f3b0800000000000000
+      internalID: -5478231050791864408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Chameleon_Uroboros_9
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 55
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1293b01ea1b7ba300800000000000000
+      internalID: 264440358506281249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Chameleon_Uroboros_10
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 55
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf519e9b004ef9570800000000000000
+      internalID: 8475743715504756219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Chameleon_Uroboros_11
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 56
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4990a631553fd920800000000000000
+      internalID: 3017188898286639438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Chameleon_Uroboros_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 27
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be35d1f664096c010800000000000000
+      internalID: 1208812182181860331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Chameleon_Uroboros_13
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 27
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc68dd080cc052800800000000000000
+      internalID: 586889347376973519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Chameleon_Uroboros_14
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 27
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2607211559f0ad0b0800000000000000
+      internalID: -5703228844126605214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Chameleon_Uroboros_15
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 28
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4d1c62217416dd70800000000000000
+      internalID: 9067457375898443085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Chameleon_Uroboros_16
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 27
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a5344520a6191a50800000000000000
+      internalID: 6492245214907086242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Chameleon_Uroboros_17
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 27
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a757c82c3e1da8d80800000000000000
+      internalID: -8247548991423875718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Chameleon_Uroboros_18
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 0
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7627de19220d462a0800000000000000
+      internalID: -6745037494998437273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Chameleon_Uroboros_19
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 0
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0d63d56ee94fa8a0800000000000000
+      internalID: -6291728866153894642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Chameleon_Uroboros_20
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 0
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 245be118a1b84d850800000000000000
+      internalID: 6400893916352001346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Chameleon_Uroboros_21
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 0
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23203978ddd095400800000000000000
+      internalID: 313296894192452146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Chameleon_Uroboros_22
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65027922d5753aa20800000000000000
+      internalID: 3072395428320714838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Chameleon_Uroboros_23
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 0
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ca4a5a52e8433840800000000000000
+      internalID: 5202582131558730433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Animal_Chameleon_Uroboros_0: 4022183344279473370
+      Animal_Chameleon_Uroboros_1: 7036647904515799064
+      Animal_Chameleon_Uroboros_10: 8475743715504756219
+      Animal_Chameleon_Uroboros_11: 3017188898286639438
+      Animal_Chameleon_Uroboros_12: 1208812182181860331
+      Animal_Chameleon_Uroboros_13: 586889347376973519
+      Animal_Chameleon_Uroboros_14: -5703228844126605214
+      Animal_Chameleon_Uroboros_15: 9067457375898443085
+      Animal_Chameleon_Uroboros_16: 6492245214907086242
+      Animal_Chameleon_Uroboros_17: -8247548991423875718
+      Animal_Chameleon_Uroboros_18: -6745037494998437273
+      Animal_Chameleon_Uroboros_19: -6291728866153894642
+      Animal_Chameleon_Uroboros_2: -2999172559044138553
+      Animal_Chameleon_Uroboros_20: 6400893916352001346
+      Animal_Chameleon_Uroboros_21: 313296894192452146
+      Animal_Chameleon_Uroboros_22: 3072395428320714838
+      Animal_Chameleon_Uroboros_23: 5202582131558730433
+      Animal_Chameleon_Uroboros_3: 2283486769131187581
+      Animal_Chameleon_Uroboros_4: -1870772234149301439
+      Animal_Chameleon_Uroboros_5: -6389094222871365241
+      Animal_Chameleon_Uroboros_6: 1709475005775771191
+      Animal_Chameleon_Uroboros_7: -8321563126783133535
+      Animal_Chameleon_Uroboros_8: -5478231050791864408
+      Animal_Chameleon_Uroboros_9: 264440358506281249
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

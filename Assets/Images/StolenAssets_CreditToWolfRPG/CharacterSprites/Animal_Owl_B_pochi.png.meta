@@ -1,0 +1,741 @@
+fileFormatVersion: 2
+guid: cd41cc25b9bf9ac4cba8dea8d187f175
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4800469001194692113
+    second: Animal_Owl_B_pochi_0
+  - first:
+      213: -7564906186677840946
+    second: Animal_Owl_B_pochi_1
+  - first:
+      213: -5274262056309407478
+    second: Animal_Owl_B_pochi_2
+  - first:
+      213: -5581910091957737936
+    second: Animal_Owl_B_pochi_3
+  - first:
+      213: -2323254114827487302
+    second: Animal_Owl_B_pochi_4
+  - first:
+      213: -5990782563174095653
+    second: Animal_Owl_B_pochi_5
+  - first:
+      213: 6911383999144446519
+    second: Animal_Owl_B_pochi_6
+  - first:
+      213: -3201410165663395247
+    second: Animal_Owl_B_pochi_7
+  - first:
+      213: -3421801790001810850
+    second: Animal_Owl_B_pochi_8
+  - first:
+      213: 4549395492061498942
+    second: Animal_Owl_B_pochi_9
+  - first:
+      213: -9198186858072525893
+    second: Animal_Owl_B_pochi_10
+  - first:
+      213: 7773669071190414009
+    second: Animal_Owl_B_pochi_11
+  - first:
+      213: -6469801063033562213
+    second: Animal_Owl_B_pochi_12
+  - first:
+      213: -206669897599869067
+    second: Animal_Owl_B_pochi_13
+  - first:
+      213: -3552049390303405023
+    second: Animal_Owl_B_pochi_14
+  - first:
+      213: 2464905883806265628
+    second: Animal_Owl_B_pochi_15
+  - first:
+      213: -4315124952891647429
+    second: Animal_Owl_B_pochi_16
+  - first:
+      213: 3832260091229292319
+    second: Animal_Owl_B_pochi_17
+  - first:
+      213: -6999219824532145426
+    second: Animal_Owl_B_pochi_18
+  - first:
+      213: 6499082609442700578
+    second: Animal_Owl_B_pochi_19
+  - first:
+      213: 2018242570396441103
+    second: Animal_Owl_B_pochi_20
+  - first:
+      213: -8338202359457774060
+    second: Animal_Owl_B_pochi_21
+  - first:
+      213: 9133179092805672303
+    second: Animal_Owl_B_pochi_22
+  - first:
+      213: 2954157238468929961
+    second: Animal_Owl_B_pochi_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Animal_Owl_B_pochi_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 72
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11edb736f11be9240800000000000000
+      internalID: 4800469001194692113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Owl_B_pochi_1
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 74
+        width: 26
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec399ef57ed040790800000000000000
+      internalID: -7564906186677840946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Owl_B_pochi_2
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 73
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a014b51aa9e0ec6b0800000000000000
+      internalID: -5274262056309407478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Owl_B_pochi_3
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 72
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 036e0b878521982b0800000000000000
+      internalID: -5581910091957737936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Owl_B_pochi_4
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 74
+        width: 22
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab73eb211b422cfd0800000000000000
+      internalID: -2323254114827487302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Owl_B_pochi_5
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 73
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd46763dff67cdca0800000000000000
+      internalID: -5990782563174095653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Owl_B_pochi_6
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 49
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73ac25f012b2aef50800000000000000
+      internalID: 6911383999144446519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Owl_B_pochi_7
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 50
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1521f478a6e4293d0800000000000000
+      internalID: -3201410165663395247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Owl_B_pochi_8
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 51
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e527527c6615380d0800000000000000
+      internalID: -3421801790001810850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Owl_B_pochi_9
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 50
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3ec617a813b22f30800000000000000
+      internalID: 4549395492061498942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Owl_B_pochi_10
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 52
+        width: 22
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb3bbe269c9795080800000000000000
+      internalID: -9198186858072525893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Owl_B_pochi_11
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 51
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b2deb565de91eb60800000000000000
+      internalID: 7773669071190414009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Owl_B_pochi_12
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 27
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9b907e2636a636a0800000000000000
+      internalID: -6469801063033562213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Owl_B_pochi_13
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 28
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57f1bc7b2d2c12df0800000000000000
+      internalID: -206669897599869067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Owl_B_pochi_14
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 29
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12c925a26e594bec0800000000000000
+      internalID: -3552049390303405023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Owl_B_pochi_15
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 28
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c11fa0977da153220800000000000000
+      internalID: 2464905883806265628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Owl_B_pochi_16
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 28
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3a1875c7b89d14c0800000000000000
+      internalID: -4315124952891647429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Owl_B_pochi_17
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 29
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f17c0a0bf3cee2530800000000000000
+      internalID: 3832260091229292319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Owl_B_pochi_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8
+        width: 24
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eeab3ed27a6cdde90800000000000000
+      internalID: -6999219824532145426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Owl_B_pochi_19
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 8
+        width: 26
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22d30cd1331613a50800000000000000
+      internalID: 6499082609442700578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Owl_B_pochi_20
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 7
+        width: 24
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0a1d07bcec320c10800000000000000
+      internalID: 2018242570396441103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Owl_B_pochi_21
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 6
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 416023bb121c84c80800000000000000
+      internalID: -8338202359457774060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Owl_B_pochi_22
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 6
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6dd4b8cef19fbe70800000000000000
+      internalID: 9133179092805672303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Owl_B_pochi_23
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 7
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a9e6994b564ff820800000000000000
+      internalID: 2954157238468929961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Animal_Owl_B_pochi_0: 4800469001194692113
+      Animal_Owl_B_pochi_1: -7564906186677840946
+      Animal_Owl_B_pochi_10: -9198186858072525893
+      Animal_Owl_B_pochi_11: 7773669071190414009
+      Animal_Owl_B_pochi_12: -6469801063033562213
+      Animal_Owl_B_pochi_13: -206669897599869067
+      Animal_Owl_B_pochi_14: -3552049390303405023
+      Animal_Owl_B_pochi_15: 2464905883806265628
+      Animal_Owl_B_pochi_16: -4315124952891647429
+      Animal_Owl_B_pochi_17: 3832260091229292319
+      Animal_Owl_B_pochi_18: -6999219824532145426
+      Animal_Owl_B_pochi_19: 6499082609442700578
+      Animal_Owl_B_pochi_2: -5274262056309407478
+      Animal_Owl_B_pochi_20: 2018242570396441103
+      Animal_Owl_B_pochi_21: -8338202359457774060
+      Animal_Owl_B_pochi_22: 9133179092805672303
+      Animal_Owl_B_pochi_23: 2954157238468929961
+      Animal_Owl_B_pochi_3: -5581910091957737936
+      Animal_Owl_B_pochi_4: -2323254114827487302
+      Animal_Owl_B_pochi_5: -5990782563174095653
+      Animal_Owl_B_pochi_6: 6911383999144446519
+      Animal_Owl_B_pochi_7: -3201410165663395247
+      Animal_Owl_B_pochi_8: -3421801790001810850
+      Animal_Owl_B_pochi_9: 4549395492061498942
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

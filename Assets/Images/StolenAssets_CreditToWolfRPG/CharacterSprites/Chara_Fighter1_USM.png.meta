@@ -1,0 +1,741 @@
+fileFormatVersion: 2
+guid: e53854b00593af041b898aaf42ce0433
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5798942466220341039
+    second: Chara_Fighter1_USM_0
+  - first:
+      213: 168464411631973642
+    second: Chara_Fighter1_USM_1
+  - first:
+      213: -4053702971772368269
+    second: Chara_Fighter1_USM_2
+  - first:
+      213: 4351939859542331453
+    second: Chara_Fighter1_USM_3
+  - first:
+      213: -4389132833550671837
+    second: Chara_Fighter1_USM_4
+  - first:
+      213: -5679477061122306136
+    second: Chara_Fighter1_USM_5
+  - first:
+      213: 8120252605115139146
+    second: Chara_Fighter1_USM_6
+  - first:
+      213: 3483512644917696503
+    second: Chara_Fighter1_USM_7
+  - first:
+      213: 4341028071854770869
+    second: Chara_Fighter1_USM_8
+  - first:
+      213: 4711208031794897494
+    second: Chara_Fighter1_USM_9
+  - first:
+      213: -854243417781266930
+    second: Chara_Fighter1_USM_10
+  - first:
+      213: -9077598678032650776
+    second: Chara_Fighter1_USM_11
+  - first:
+      213: -6876162757814122380
+    second: Chara_Fighter1_USM_12
+  - first:
+      213: -1777536885521353192
+    second: Chara_Fighter1_USM_13
+  - first:
+      213: -7466531057276737235
+    second: Chara_Fighter1_USM_14
+  - first:
+      213: -3687327651222893528
+    second: Chara_Fighter1_USM_15
+  - first:
+      213: 205530093030432814
+    second: Chara_Fighter1_USM_16
+  - first:
+      213: 7354937374095990399
+    second: Chara_Fighter1_USM_17
+  - first:
+      213: 6143332405469040590
+    second: Chara_Fighter1_USM_18
+  - first:
+      213: -2565942710316384802
+    second: Chara_Fighter1_USM_19
+  - first:
+      213: -6978260200652554879
+    second: Chara_Fighter1_USM_20
+  - first:
+      213: 8752359352073285262
+    second: Chara_Fighter1_USM_21
+  - first:
+      213: -3490202616429459408
+    second: Chara_Fighter1_USM_22
+  - first:
+      213: 6548636284081425064
+    second: Chara_Fighter1_USM_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Chara_Fighter1_USM_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 56
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d842041d84068fa0800000000000000
+      internalID: -5798942466220341039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chara_Fighter1_USM_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 38
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a057e946d71865200800000000000000
+      internalID: 168464411631973642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chara_Fighter1_USM_2
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 57
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37a0096ef9a5eb7c0800000000000000
+      internalID: -4053702971772368269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chara_Fighter1_USM_3
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 38
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3052e3ae32356c30800000000000000
+      internalID: 4351939859542331453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chara_Fighter1_USM_4
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 56
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 320653841faa613c0800000000000000
+      internalID: -4389132833550671837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chara_Fighter1_USM_5
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 38
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8af43dd34b17e21b0800000000000000
+      internalID: -5679477061122306136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chara_Fighter1_USM_6
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 37
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a44045ea8bee0b070800000000000000
+      internalID: 8120252605115139146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chara_Fighter1_USM_7
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 57
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f796ea4b4ce75030800000000000000
+      internalID: 3483512644917696503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chara_Fighter1_USM_8
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 57
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ba07e6180e6e3c30800000000000000
+      internalID: 4341028071854770869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chara_Fighter1_USM_9
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 38
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6522a1e6eb2916140800000000000000
+      internalID: 4711208031794897494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chara_Fighter1_USM_10
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 56
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e069e63332e1524f0800000000000000
+      internalID: -854243417781266930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chara_Fighter1_USM_11
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 38
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8edee46f814e50280800000000000000
+      internalID: -9077598678032650776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chara_Fighter1_USM_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 19
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47808ba3766f290a0800000000000000
+      internalID: -6876162757814122380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chara_Fighter1_USM_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8167853de9be457e0800000000000000
+      internalID: -1777536885521353192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chara_Fighter1_USM_14
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 19
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d292992109d816890800000000000000
+      internalID: -7466531057276737235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chara_Fighter1_USM_15
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 0
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82c426a990bf3dcc0800000000000000
+      internalID: -3687327651222893528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chara_Fighter1_USM_16
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 19
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e206bb9d7803ad200800000000000000
+      internalID: 205530093030432814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chara_Fighter1_USM_17
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 0
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7e5c38d29cf11660800000000000000
+      internalID: 7354937374095990399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chara_Fighter1_USM_18
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 18
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecfc0252640814550800000000000000
+      internalID: 6143332405469040590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chara_Fighter1_USM_19
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 0
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eddb69d23b0f36cd0800000000000000
+      internalID: -2565942710316384802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chara_Fighter1_USM_20
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 19
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18dbbd5e15d382f90800000000000000
+      internalID: -6978260200652554879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chara_Fighter1_USM_21
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 0
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8e65ee6570a67970800000000000000
+      internalID: 8752359352073285262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chara_Fighter1_USM_22
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 0
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0384595563f409fc0800000000000000
+      internalID: -3490202616429459408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chara_Fighter1_USM_23
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 19
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8aa48e3110e61ea50800000000000000
+      internalID: 6548636284081425064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Chara_Fighter1_USM_0: -5798942466220341039
+      Chara_Fighter1_USM_1: 168464411631973642
+      Chara_Fighter1_USM_10: -854243417781266930
+      Chara_Fighter1_USM_11: -9077598678032650776
+      Chara_Fighter1_USM_12: -6876162757814122380
+      Chara_Fighter1_USM_13: -1777536885521353192
+      Chara_Fighter1_USM_14: -7466531057276737235
+      Chara_Fighter1_USM_15: -3687327651222893528
+      Chara_Fighter1_USM_16: 205530093030432814
+      Chara_Fighter1_USM_17: 7354937374095990399
+      Chara_Fighter1_USM_18: 6143332405469040590
+      Chara_Fighter1_USM_19: -2565942710316384802
+      Chara_Fighter1_USM_2: -4053702971772368269
+      Chara_Fighter1_USM_20: -6978260200652554879
+      Chara_Fighter1_USM_21: 8752359352073285262
+      Chara_Fighter1_USM_22: -3490202616429459408
+      Chara_Fighter1_USM_23: 6548636284081425064
+      Chara_Fighter1_USM_3: 4351939859542331453
+      Chara_Fighter1_USM_4: -4389132833550671837
+      Chara_Fighter1_USM_5: -5679477061122306136
+      Chara_Fighter1_USM_6: 8120252605115139146
+      Chara_Fighter1_USM_7: 3483512644917696503
+      Chara_Fighter1_USM_8: 4341028071854770869
+      Chara_Fighter1_USM_9: 4711208031794897494
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,741 @@
+fileFormatVersion: 2
+guid: 9678dfde6017fe641865077b78552fbc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -654189508357456046
+    second: Monster_Dragon_Brown_Uroboros_0
+  - first:
+      213: -5864209683837594100
+    second: Monster_Dragon_Brown_Uroboros_1
+  - first:
+      213: 7617806633071392160
+    second: Monster_Dragon_Brown_Uroboros_2
+  - first:
+      213: -4843889079485718545
+    second: Monster_Dragon_Brown_Uroboros_3
+  - first:
+      213: -3554912751510817878
+    second: Monster_Dragon_Brown_Uroboros_4
+  - first:
+      213: -8838237225609212249
+    second: Monster_Dragon_Brown_Uroboros_5
+  - first:
+      213: 604307074547307178
+    second: Monster_Dragon_Brown_Uroboros_6
+  - first:
+      213: -5242650548663969856
+    second: Monster_Dragon_Brown_Uroboros_7
+  - first:
+      213: -6431872609053602887
+    second: Monster_Dragon_Brown_Uroboros_8
+  - first:
+      213: -4982673897703504822
+    second: Monster_Dragon_Brown_Uroboros_9
+  - first:
+      213: -1428987398378551083
+    second: Monster_Dragon_Brown_Uroboros_10
+  - first:
+      213: -2031819500111849710
+    second: Monster_Dragon_Brown_Uroboros_11
+  - first:
+      213: 2706496882026237447
+    second: Monster_Dragon_Brown_Uroboros_12
+  - first:
+      213: -6527645679784533349
+    second: Monster_Dragon_Brown_Uroboros_13
+  - first:
+      213: -2348605838093351114
+    second: Monster_Dragon_Brown_Uroboros_14
+  - first:
+      213: -5627257558356337006
+    second: Monster_Dragon_Brown_Uroboros_15
+  - first:
+      213: -5767035408840092772
+    second: Monster_Dragon_Brown_Uroboros_16
+  - first:
+      213: 1448784362966428325
+    second: Monster_Dragon_Brown_Uroboros_17
+  - first:
+      213: 8518821575830099526
+    second: Monster_Dragon_Brown_Uroboros_18
+  - first:
+      213: 2191446262371469867
+    second: Monster_Dragon_Brown_Uroboros_19
+  - first:
+      213: 3799650038382490031
+    second: Monster_Dragon_Brown_Uroboros_20
+  - first:
+      213: -6495266354431236845
+    second: Monster_Dragon_Brown_Uroboros_21
+  - first:
+      213: -1416877970816568964
+    second: Monster_Dragon_Brown_Uroboros_22
+  - first:
+      213: 2432097338601440257
+    second: Monster_Dragon_Brown_Uroboros_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Monster_Dragon_Brown_Uroboros_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 83
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25ff092bb1adbe6f0800000000000000
+      internalID: -654189508357456046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_Dragon_Brown_Uroboros_1
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 84
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c06547acc542e9ea0800000000000000
+      internalID: -5864209683837594100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_Dragon_Brown_Uroboros_2
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 85
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a5b5db95c2e7b960800000000000000
+      internalID: 7617806633071392160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_Dragon_Brown_Uroboros_3
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 83
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fef1cd5db8c07ccb0800000000000000
+      internalID: -4843889079485718545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_Dragon_Brown_Uroboros_4
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 84
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa3f0beefa96aaec0800000000000000
+      internalID: -3554912751510817878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_Dragon_Brown_Uroboros_5
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 85
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7aecdeef116485580800000000000000
+      internalID: -8838237225609212249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_Dragon_Brown_Uroboros_6
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 55
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa2d5a1251ee26800800000000000000
+      internalID: 604307074547307178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_Dragon_Brown_Uroboros_7
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 56
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c7906d4a1d5e37b0800000000000000
+      internalID: -5242650548663969856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_Dragon_Brown_Uroboros_8
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 57
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bb8bc880f56db6a0800000000000000
+      internalID: -6431872609053602887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_Dragon_Brown_Uroboros_9
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 55
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4485c74d7cf9dab0800000000000000
+      internalID: -4982673897703504822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_Dragon_Brown_Uroboros_10
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 56
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d8032348873b2ce0800000000000000
+      internalID: -1428987398378551083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_Dragon_Brown_Uroboros_11
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 57
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2171f100ee68dc3e0800000000000000
+      internalID: -2031819500111849710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_Dragon_Brown_Uroboros_12
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 27
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70e40e613986f8520800000000000000
+      internalID: 2706496882026237447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_Dragon_Brown_Uroboros_13
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 28
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9264d4d6d42965a0800000000000000
+      internalID: -6527645679784533349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_Dragon_Brown_Uroboros_14
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 29
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63789070f63186fd0800000000000000
+      internalID: -2348605838093351114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_Dragon_Brown_Uroboros_15
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 27
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29ed98ea017f7e1b0800000000000000
+      internalID: -5627257558356337006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_Dragon_Brown_Uroboros_16
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 28
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c939cf8c9df57ffa0800000000000000
+      internalID: -5767035408840092772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_Dragon_Brown_Uroboros_17
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 29
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5aa21ceb3bd1b1410800000000000000
+      internalID: 1448784362966428325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_Dragon_Brown_Uroboros_18
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 0
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 646594ca61fe83670800000000000000
+      internalID: 8518821575830099526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_Dragon_Brown_Uroboros_19
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 0
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2a420dc3c4996e10800000000000000
+      internalID: 2191446262371469867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_Dragon_Brown_Uroboros_20
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 1
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa1769814911bb430800000000000000
+      internalID: 3799650038382490031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_Dragon_Brown_Uroboros_21
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 0
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 315649ef9ad2cd5a0800000000000000
+      internalID: -6495266354431236845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_Dragon_Brown_Uroboros_22
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 0
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c71f6631efc365ce0800000000000000
+      internalID: -1416877970816568964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_Dragon_Brown_Uroboros_23
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 1
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1040386c4ab80c120800000000000000
+      internalID: 2432097338601440257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Monster_Dragon_Brown_Uroboros_0: -654189508357456046
+      Monster_Dragon_Brown_Uroboros_1: -5864209683837594100
+      Monster_Dragon_Brown_Uroboros_10: -1428987398378551083
+      Monster_Dragon_Brown_Uroboros_11: -2031819500111849710
+      Monster_Dragon_Brown_Uroboros_12: 2706496882026237447
+      Monster_Dragon_Brown_Uroboros_13: -6527645679784533349
+      Monster_Dragon_Brown_Uroboros_14: -2348605838093351114
+      Monster_Dragon_Brown_Uroboros_15: -5627257558356337006
+      Monster_Dragon_Brown_Uroboros_16: -5767035408840092772
+      Monster_Dragon_Brown_Uroboros_17: 1448784362966428325
+      Monster_Dragon_Brown_Uroboros_18: 8518821575830099526
+      Monster_Dragon_Brown_Uroboros_19: 2191446262371469867
+      Monster_Dragon_Brown_Uroboros_2: 7617806633071392160
+      Monster_Dragon_Brown_Uroboros_20: 3799650038382490031
+      Monster_Dragon_Brown_Uroboros_21: -6495266354431236845
+      Monster_Dragon_Brown_Uroboros_22: -1416877970816568964
+      Monster_Dragon_Brown_Uroboros_23: 2432097338601440257
+      Monster_Dragon_Brown_Uroboros_3: -4843889079485718545
+      Monster_Dragon_Brown_Uroboros_4: -3554912751510817878
+      Monster_Dragon_Brown_Uroboros_5: -8838237225609212249
+      Monster_Dragon_Brown_Uroboros_6: 604307074547307178
+      Monster_Dragon_Brown_Uroboros_7: -5242650548663969856
+      Monster_Dragon_Brown_Uroboros_8: -6431872609053602887
+      Monster_Dragon_Brown_Uroboros_9: -4982673897703504822
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

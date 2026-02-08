@@ -1,0 +1,741 @@
+fileFormatVersion: 2
+guid: d9931549c26ecea40aa8d8b1812b8b24
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2040452752674466922
+    second: Animal_Cow_pochi_0
+  - first:
+      213: 1316862457141959500
+    second: Animal_Cow_pochi_1
+  - first:
+      213: -49710545134309171
+    second: Animal_Cow_pochi_2
+  - first:
+      213: 5774530601581600592
+    second: Animal_Cow_pochi_3
+  - first:
+      213: -7286602477660274473
+    second: Animal_Cow_pochi_4
+  - first:
+      213: 5066383338561676863
+    second: Animal_Cow_pochi_5
+  - first:
+      213: -3382999480443199873
+    second: Animal_Cow_pochi_6
+  - first:
+      213: -1530521294504938620
+    second: Animal_Cow_pochi_7
+  - first:
+      213: 934302006046411305
+    second: Animal_Cow_pochi_8
+  - first:
+      213: -7086393013098930406
+    second: Animal_Cow_pochi_9
+  - first:
+      213: 6199418605140954355
+    second: Animal_Cow_pochi_10
+  - first:
+      213: -7173781237857042887
+    second: Animal_Cow_pochi_11
+  - first:
+      213: -4276586491058611080
+    second: Animal_Cow_pochi_12
+  - first:
+      213: 2964613602740304089
+    second: Animal_Cow_pochi_13
+  - first:
+      213: 8613910136984793113
+    second: Animal_Cow_pochi_14
+  - first:
+      213: 2571064615876826400
+    second: Animal_Cow_pochi_15
+  - first:
+      213: 3652775217747856985
+    second: Animal_Cow_pochi_16
+  - first:
+      213: -4532233524663003025
+    second: Animal_Cow_pochi_17
+  - first:
+      213: -4373560598163008265
+    second: Animal_Cow_pochi_18
+  - first:
+      213: 2214523018327619102
+    second: Animal_Cow_pochi_19
+  - first:
+      213: -2340305118401397761
+    second: Animal_Cow_pochi_20
+  - first:
+      213: -8388704761311027822
+    second: Animal_Cow_pochi_21
+  - first:
+      213: 361471690026822016
+    second: Animal_Cow_pochi_22
+  - first:
+      213: 1074532517813650205
+    second: Animal_Cow_pochi_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Animal_Cow_pochi_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 72
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6c2120c7f4215c10800000000000000
+      internalID: 2040452752674466922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Cow_pochi_1
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 73
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4b9eff7d6f664210800000000000000
+      internalID: 1316862457141959500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Cow_pochi_2
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 72
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc0bda7c5846f4ff0800000000000000
+      internalID: -49710545134309171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Cow_pochi_3
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 73
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05fd4e3ccf0432050800000000000000
+      internalID: 5774530601581600592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Cow_pochi_4
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 73
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d0049317a9c0ea90800000000000000
+      internalID: -7286602477660274473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Cow_pochi_5
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 72
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f362de6bdc86f4640800000000000000
+      internalID: 5066383338561676863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Cow_pochi_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 49
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7e1adc75eb2d01d0800000000000000
+      internalID: -3382999480443199873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Cow_pochi_7
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 49
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 483bcdfddfe72cae0800000000000000
+      internalID: -1530521294504938620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Cow_pochi_8
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 49
+        width: 29
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92ac45f69be47fc00800000000000000
+      internalID: 934302006046411305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Cow_pochi_9
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 48
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1f9d63991318ad90800000000000000
+      internalID: -7086393013098930406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Cow_pochi_10
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 49
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fccf5d1062c80650800000000000000
+      internalID: 6199418605140954355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Cow_pochi_11
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 49
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93e3b25f8fb917c90800000000000000
+      internalID: -7173781237857042887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Cow_pochi_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 25
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87c9735ae3386a4c0800000000000000
+      internalID: -4276586491058611080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Cow_pochi_13
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 25
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d870af4d5c642920800000000000000
+      internalID: 2964613602740304089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Cow_pochi_14
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 25
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9107d1291a1ca8770800000000000000
+      internalID: 8613910136984793113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Cow_pochi_15
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 24
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0251ae365a14ea320800000000000000
+      internalID: 2571064615876826400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Cow_pochi_16
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 24
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95e063215b341b230800000000000000
+      internalID: 3652775217747856985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Cow_pochi_17
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 23
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6858534f954a11c0800000000000000
+      internalID: -4532233524663003025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Cow_pochi_18
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 0
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f459dedecdfd43c0800000000000000
+      internalID: -4373560598163008265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Cow_pochi_19
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 0
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e16f75eb3f09bbe10800000000000000
+      internalID: 2214523018327619102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Cow_pochi_20
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 0
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffbf7afe4e0958fd0800000000000000
+      internalID: -2340305118401397761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Cow_pochi_21
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 0
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29d9d600775559b80800000000000000
+      internalID: -8388704761311027822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Cow_pochi_22
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 0
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 089a8604694340500800000000000000
+      internalID: 361471690026822016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Cow_pochi_23
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 0
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1383efb1a189ee00800000000000000
+      internalID: 1074532517813650205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Animal_Cow_pochi_0: 2040452752674466922
+      Animal_Cow_pochi_1: 1316862457141959500
+      Animal_Cow_pochi_10: 6199418605140954355
+      Animal_Cow_pochi_11: -7173781237857042887
+      Animal_Cow_pochi_12: -4276586491058611080
+      Animal_Cow_pochi_13: 2964613602740304089
+      Animal_Cow_pochi_14: 8613910136984793113
+      Animal_Cow_pochi_15: 2571064615876826400
+      Animal_Cow_pochi_16: 3652775217747856985
+      Animal_Cow_pochi_17: -4532233524663003025
+      Animal_Cow_pochi_18: -4373560598163008265
+      Animal_Cow_pochi_19: 2214523018327619102
+      Animal_Cow_pochi_2: -49710545134309171
+      Animal_Cow_pochi_20: -2340305118401397761
+      Animal_Cow_pochi_21: -8388704761311027822
+      Animal_Cow_pochi_22: 361471690026822016
+      Animal_Cow_pochi_23: 1074532517813650205
+      Animal_Cow_pochi_3: 5774530601581600592
+      Animal_Cow_pochi_4: -7286602477660274473
+      Animal_Cow_pochi_5: 5066383338561676863
+      Animal_Cow_pochi_6: -3382999480443199873
+      Animal_Cow_pochi_7: -1530521294504938620
+      Animal_Cow_pochi_8: 934302006046411305
+      Animal_Cow_pochi_9: -7086393013098930406
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

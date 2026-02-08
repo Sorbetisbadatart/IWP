@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: 37a43e9dad7d09e47a43a94afe3c5344
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1921405721725992473
+    second: Animal_Sheep-b_pochi_0
+  - first:
+      213: 4166968804787424759
+    second: Animal_Sheep-b_pochi_1
+  - first:
+      213: 715191238710271623
+    second: Animal_Sheep-b_pochi_2
+  - first:
+      213: 4772651372414530878
+    second: Animal_Sheep-b_pochi_3
+  - first:
+      213: -7082476510691208124
+    second: Animal_Sheep-b_pochi_4
+  - first:
+      213: -5733737580473215409
+    second: Animal_Sheep-b_pochi_5
+  - first:
+      213: 3161237975489963843
+    second: Animal_Sheep-b_pochi_6
+  - first:
+      213: -2541732110801860724
+    second: Animal_Sheep-b_pochi_7
+  - first:
+      213: -2140706964457070288
+    second: Animal_Sheep-b_pochi_8
+  - first:
+      213: 7450127025727147433
+    second: Animal_Sheep-b_pochi_9
+  - first:
+      213: 8329701289403564534
+    second: Animal_Sheep-b_pochi_10
+  - first:
+      213: 8469108509828953324
+    second: Animal_Sheep-b_pochi_11
+  - first:
+      213: -427993095350395377
+    second: Animal_Sheep-b_pochi_12
+  - first:
+      213: -2605674442851945505
+    second: Animal_Sheep-b_pochi_13
+  - first:
+      213: -3618899398840645382
+    second: Animal_Sheep-b_pochi_14
+  - first:
+      213: 4319002435893594590
+    second: Animal_Sheep-b_pochi_15
+  - first:
+      213: -8583503202860464761
+    second: Animal_Sheep-b_pochi_16
+  - first:
+      213: 7187373774617420146
+    second: Animal_Sheep-b_pochi_17
+  - first:
+      213: 452752169806211359
+    second: Animal_Sheep-b_pochi_18
+  - first:
+      213: -6111079528822131624
+    second: Animal_Sheep-b_pochi_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Animal_Sheep-b_pochi_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 37
+        width: 61
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e18e171dabc555e0800000000000000
+      internalID: -1921405721725992473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Sheep-b_pochi_1
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 53
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fd0d77ec0c04d930800000000000000
+      internalID: 4166968804787424759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Sheep-b_pochi_2
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 54
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78e1cc174aedce900800000000000000
+      internalID: 715191238710271623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Sheep-b_pochi_3
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 53
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e357c89f22ddb3240800000000000000
+      internalID: 4772651372414530878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Sheep-b_pochi_4
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 54
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 444d33a532df5bd90800000000000000
+      internalID: -7082476510691208124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Sheep-b_pochi_5
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 54
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4616989c0cad60b0800000000000000
+      internalID: -5733737580473215409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Sheep-b_pochi_6
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 53
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 347ed839039fedb20800000000000000
+      internalID: 3161237975489963843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Sheep-b_pochi_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 19
+        width: 61
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c878375ac14f9bcd0800000000000000
+      internalID: -2541732110801860724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Sheep-b_pochi_8
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 35
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 031e4579b5eaa42e0800000000000000
+      internalID: -2140706964457070288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Sheep-b_pochi_9
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 36
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ad0104be0b246760800000000000000
+      internalID: 7450127025727147433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Sheep-b_pochi_10
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 18
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f14308a03b099370800000000000000
+      internalID: 8329701289403564534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Sheep-b_pochi_11
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 36
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce4b7948151588570800000000000000
+      internalID: 8469108509828953324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Sheep-b_pochi_12
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 0
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0ed1512c867f0af0800000000000000
+      internalID: -427993095350395377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Sheep-b_pochi_13
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 18
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd3fe7156e8c6dbd0800000000000000
+      internalID: -2605674442851945505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Sheep-b_pochi_14
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 0
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af88a36ab2617cdc0800000000000000
+      internalID: -3618899398840645382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Sheep-b_pochi_15
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 17
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed90c7715dd20fb30800000000000000
+      internalID: 4319002435893594590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Sheep-b_pochi_16
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 0
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7850319705541e880800000000000000
+      internalID: -8583503202860464761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Sheep-b_pochi_17
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 0
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 271a7002e5eaeb360800000000000000
+      internalID: 7187373774617420146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Sheep-b_pochi_18
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 0
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f19269c13bf784600800000000000000
+      internalID: 452752169806211359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Sheep-b_pochi_19
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 0
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8543562eb85113ba0800000000000000
+      internalID: -6111079528822131624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Animal_Sheep-b_pochi_0: -1921405721725992473
+      Animal_Sheep-b_pochi_1: 4166968804787424759
+      Animal_Sheep-b_pochi_10: 8329701289403564534
+      Animal_Sheep-b_pochi_11: 8469108509828953324
+      Animal_Sheep-b_pochi_12: -427993095350395377
+      Animal_Sheep-b_pochi_13: -2605674442851945505
+      Animal_Sheep-b_pochi_14: -3618899398840645382
+      Animal_Sheep-b_pochi_15: 4319002435893594590
+      Animal_Sheep-b_pochi_16: -8583503202860464761
+      Animal_Sheep-b_pochi_17: 7187373774617420146
+      Animal_Sheep-b_pochi_18: 452752169806211359
+      Animal_Sheep-b_pochi_19: -6111079528822131624
+      Animal_Sheep-b_pochi_2: 715191238710271623
+      Animal_Sheep-b_pochi_3: 4772651372414530878
+      Animal_Sheep-b_pochi_4: -7082476510691208124
+      Animal_Sheep-b_pochi_5: -5733737580473215409
+      Animal_Sheep-b_pochi_6: 3161237975489963843
+      Animal_Sheep-b_pochi_7: -2541732110801860724
+      Animal_Sheep-b_pochi_8: -2140706964457070288
+      Animal_Sheep-b_pochi_9: 7450127025727147433
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

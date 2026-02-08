@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cf8b2ca949aa1db43b0fa8c5e4d13424, type: 3}
+  m_Name: BattleSFXData
+  m_EditorClassIdentifier: 
+  normalAttackSounds:
+  - {fileID: 8300000, guid: ce09381dafcbc3642b931936c1607308, type: 3}
+  - {fileID: 8300000, guid: 2c6db31ef1b8eb742964687b830bbd0b, type: 3}
+  - {fileID: 8300000, guid: 3f4982926b852384391c655597099665, type: 3}
+  strongAttackSounds:
+  - {fileID: 8300000, guid: 2d7b26b265ccf734eaae40fe25585b15, type: 3}
+  criticalHitSounds:
+  - {fileID: 8300000, guid: 16ca7a2adde292744a08a0da39bed32a, type: 3}
+  missSounds: []
+  lightDamageSounds: []
+  heavyDamageSounds: []
+  defenseDamageSounds: []
+  defenseStartSound: {fileID: 0}
+  defenseBlockSound: {fileID: 0}
+  defenseBreakSound: {fileID: 0}
+  healSounds:
+  - {fileID: 8300000, guid: debb11a7a6766b346a5b9f8f6d5e9a40, type: 3}
+  potionSounds: []
+  victorySounds: []
+  defeatSounds: []
+  levelUpSounds:
+  - {fileID: 8300000, guid: 162e58fed8af28d43aa88994c5e3d4ef, type: 3}
+  buttonClickSound: {fileID: 0}
+  buttonHoverSound: {fileID: 0}
+  selectionSound: {fileID: 0}
+  errorSound: {fileID: 0}
+  battleMusic: {fileID: 8300000, guid: b1088cf2910969043a1a415c100043aa, type: 3}
+  victoryMusic: {fileID: 8300000, guid: 6c4fa926c7505024dae25a558347fe3e, type: 3}
+  defeatMusic: {fileID: 8300000, guid: 974dddc9768c509469bd3094a39b7f57, type: 3}

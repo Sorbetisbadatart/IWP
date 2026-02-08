@@ -1,0 +1,741 @@
+fileFormatVersion: 2
+guid: 3732461c94ca63a4f80a85873f7e97b7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6426089787657520761
+    second: Animal_Crow1_pochi_0
+  - first:
+      213: 8216971654483157614
+    second: Animal_Crow1_pochi_1
+  - first:
+      213: 8774714066967597947
+    second: Animal_Crow1_pochi_2
+  - first:
+      213: -1864082100764479883
+    second: Animal_Crow1_pochi_3
+  - first:
+      213: -2070138566940163018
+    second: Animal_Crow1_pochi_4
+  - first:
+      213: -4490352311407650945
+    second: Animal_Crow1_pochi_5
+  - first:
+      213: 5935144871031476981
+    second: Animal_Crow1_pochi_6
+  - first:
+      213: -7757707471421989602
+    second: Animal_Crow1_pochi_7
+  - first:
+      213: 2881769363351217452
+    second: Animal_Crow1_pochi_8
+  - first:
+      213: 7622722036832937320
+    second: Animal_Crow1_pochi_9
+  - first:
+      213: 5708281201657072145
+    second: Animal_Crow1_pochi_10
+  - first:
+      213: -6285693392756974237
+    second: Animal_Crow1_pochi_11
+  - first:
+      213: 8817924216089294627
+    second: Animal_Crow1_pochi_12
+  - first:
+      213: 5890488135118189041
+    second: Animal_Crow1_pochi_13
+  - first:
+      213: -5062581916045626521
+    second: Animal_Crow1_pochi_14
+  - first:
+      213: 7987876088945154788
+    second: Animal_Crow1_pochi_15
+  - first:
+      213: 2129090436983057906
+    second: Animal_Crow1_pochi_16
+  - first:
+      213: 7423566373645355749
+    second: Animal_Crow1_pochi_17
+  - first:
+      213: 554251976527293904
+    second: Animal_Crow1_pochi_18
+  - first:
+      213: 143141584854325715
+    second: Animal_Crow1_pochi_19
+  - first:
+      213: 5320629228995028922
+    second: Animal_Crow1_pochi_20
+  - first:
+      213: -4943794934381219280
+    second: Animal_Crow1_pochi_21
+  - first:
+      213: -5656506237080571706
+    second: Animal_Crow1_pochi_22
+  - first:
+      213: 3927599072710064907
+    second: Animal_Crow1_pochi_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Animal_Crow1_pochi_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 54
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97687107d9e0e2950800000000000000
+      internalID: 6426089787657520761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Crow1_pochi_1
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 55
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e622ce23f2c880270800000000000000
+      internalID: 8216971654483157614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Crow1_pochi_2
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 54
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b731a3714fb06c970800000000000000
+      internalID: 8774714066967597947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Crow1_pochi_3
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 56
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57ee4c7a4337126e0800000000000000
+      internalID: -1864082100764479883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Crow1_pochi_4
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 56
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63402b101f36543e0800000000000000
+      internalID: -2070138566940163018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Crow1_pochi_5
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 55
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f77513a1d501fa1c0800000000000000
+      internalID: -4490352311407650945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Crow1_pochi_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 37
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f2105080dedd5250800000000000000
+      internalID: 5935144871031476981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Crow1_pochi_7
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 37
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1d9f762826175490800000000000000
+      internalID: -7757707471421989602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Crow1_pochi_8
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 37
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c25272bb7f91ef720800000000000000
+      internalID: 2881769363351217452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Crow1_pochi_9
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 37
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86528fa3e4959c960800000000000000
+      internalID: 7622722036832937320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Crow1_pochi_10
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 38
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11a4fc65283e73f40800000000000000
+      internalID: 5708281201657072145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Crow1_pochi_11
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 38
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36d53bd892bb4c8a0800000000000000
+      internalID: -6285693392756974237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Crow1_pochi_12
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 19
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 327315cea5f8f5a70800000000000000
+      internalID: 8817924216089294627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Crow1_pochi_13
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 19
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f17f5fefb73fb150800000000000000
+      internalID: 5890488135118189041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Crow1_pochi_14
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 19
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 763b8cfe1981eb9b0800000000000000
+      internalID: -5062581916045626521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Crow1_pochi_15
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 17
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ea99673bf2aade60800000000000000
+      internalID: 7987876088945154788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Crow1_pochi_16
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 18
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fd6e07d87c0c8d10800000000000000
+      internalID: 2129090436983057906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Crow1_pochi_17
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 17
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ea8aabf84ec50760800000000000000
+      internalID: 7423566373645355749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Crow1_pochi_18
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 0
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dda7f07c3911b700800000000000000
+      internalID: 554251976527293904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Crow1_pochi_19
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 0
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d914d5538a8cf100800000000000000
+      internalID: 143141584854325715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Crow1_pochi_20
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 0
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab72fc7081ca6d940800000000000000
+      internalID: 5320629228995028922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Crow1_pochi_21
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 0
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 032f4d553bc146bb0800000000000000
+      internalID: -4943794934381219280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Crow1_pochi_22
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 0
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c0f70dfb8d0081b0800000000000000
+      internalID: -5656506237080571706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Crow1_pochi_23
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 0
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0b790d1c82a18630800000000000000
+      internalID: 3927599072710064907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Animal_Crow1_pochi_0: 6426089787657520761
+      Animal_Crow1_pochi_1: 8216971654483157614
+      Animal_Crow1_pochi_10: 5708281201657072145
+      Animal_Crow1_pochi_11: -6285693392756974237
+      Animal_Crow1_pochi_12: 8817924216089294627
+      Animal_Crow1_pochi_13: 5890488135118189041
+      Animal_Crow1_pochi_14: -5062581916045626521
+      Animal_Crow1_pochi_15: 7987876088945154788
+      Animal_Crow1_pochi_16: 2129090436983057906
+      Animal_Crow1_pochi_17: 7423566373645355749
+      Animal_Crow1_pochi_18: 554251976527293904
+      Animal_Crow1_pochi_19: 143141584854325715
+      Animal_Crow1_pochi_2: 8774714066967597947
+      Animal_Crow1_pochi_20: 5320629228995028922
+      Animal_Crow1_pochi_21: -4943794934381219280
+      Animal_Crow1_pochi_22: -5656506237080571706
+      Animal_Crow1_pochi_23: 3927599072710064907
+      Animal_Crow1_pochi_3: -1864082100764479883
+      Animal_Crow1_pochi_4: -2070138566940163018
+      Animal_Crow1_pochi_5: -4490352311407650945
+      Animal_Crow1_pochi_6: 5935144871031476981
+      Animal_Crow1_pochi_7: -7757707471421989602
+      Animal_Crow1_pochi_8: 2881769363351217452
+      Animal_Crow1_pochi_9: 7622722036832937320
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

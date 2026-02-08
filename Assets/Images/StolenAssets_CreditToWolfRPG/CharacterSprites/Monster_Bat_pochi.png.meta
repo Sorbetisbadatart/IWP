@@ -1,0 +1,741 @@
+fileFormatVersion: 2
+guid: 4a507f95214636b4d8907dbd144ec9cc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6058856112933512833
+    second: Monster_Bat_pochi_0
+  - first:
+      213: -749165282314695691
+    second: Monster_Bat_pochi_1
+  - first:
+      213: 5349540991064737035
+    second: Monster_Bat_pochi_2
+  - first:
+      213: 8584310737933387556
+    second: Monster_Bat_pochi_3
+  - first:
+      213: -2774985095507184555
+    second: Monster_Bat_pochi_4
+  - first:
+      213: 7642895761794469671
+    second: Monster_Bat_pochi_5
+  - first:
+      213: 314643541597537321
+    second: Monster_Bat_pochi_6
+  - first:
+      213: -7391523923147961730
+    second: Monster_Bat_pochi_7
+  - first:
+      213: 6517976377421549233
+    second: Monster_Bat_pochi_8
+  - first:
+      213: 8878501002706846938
+    second: Monster_Bat_pochi_9
+  - first:
+      213: -2811298845784828324
+    second: Monster_Bat_pochi_10
+  - first:
+      213: 4936525719216882799
+    second: Monster_Bat_pochi_11
+  - first:
+      213: -7319799913162375297
+    second: Monster_Bat_pochi_12
+  - first:
+      213: 7302931004593151584
+    second: Monster_Bat_pochi_13
+  - first:
+      213: 2285698231163003038
+    second: Monster_Bat_pochi_14
+  - first:
+      213: 4778522050951194446
+    second: Monster_Bat_pochi_15
+  - first:
+      213: -4677816964156226466
+    second: Monster_Bat_pochi_16
+  - first:
+      213: -5046965233456730165
+    second: Monster_Bat_pochi_17
+  - first:
+      213: 7541866861656875675
+    second: Monster_Bat_pochi_18
+  - first:
+      213: 3509239232388369734
+    second: Monster_Bat_pochi_19
+  - first:
+      213: -7359681016351345263
+    second: Monster_Bat_pochi_20
+  - first:
+      213: 5202187086965310158
+    second: Monster_Bat_pochi_21
+  - first:
+      213: 5701521527872042113
+    second: Monster_Bat_pochi_22
+  - first:
+      213: 3642279561741088372
+    second: Monster_Bat_pochi_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Monster_Bat_pochi_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 81
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f79d46b677e9aeba0800000000000000
+      internalID: -6058856112933512833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_Bat_pochi_1
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 83
+        width: 21
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fbc39d152e6a95f0800000000000000
+      internalID: -749165282314695691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_Bat_pochi_2
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 82
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b050ec330336d3a40800000000000000
+      internalID: 5349540991064737035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_Bat_pochi_3
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 80
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42747107229912770800000000000000
+      internalID: 8584310737933387556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_Bat_pochi_4
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 83
+        width: 19
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5547a4512c54d79d0800000000000000
+      internalID: -2774985095507184555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_Bat_pochi_5
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 82
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72f09199335011a60800000000000000
+      internalID: 7642895761794469671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_Bat_pochi_6
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 55
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 924cacf42a6dd5400800000000000000
+      internalID: 314643541597537321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_Bat_pochi_7
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 55
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7ac6f367280c6990800000000000000
+      internalID: -7391523923147961730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_Bat_pochi_8
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 57
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1be49964bf0847a50800000000000000
+      internalID: 6517976377421549233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_Bat_pochi_9
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 56
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad48a442f95c63b70800000000000000
+      internalID: 8878501002706846938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_Bat_pochi_10
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 59
+        width: 19
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c56978b38924cf8d0800000000000000
+      internalID: -2811298845784828324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_Bat_pochi_11
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 58
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f64808e9cff028440800000000000000
+      internalID: 4936525719216882799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_Bat_pochi_12
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 31
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7f750dc2c8da6a90800000000000000
+      internalID: -7319799913162375297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_Bat_pochi_13
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 31
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06e16fb5e09395560800000000000000
+      internalID: 7302931004593151584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_Bat_pochi_14
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 33
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e90a53c5e6e68bf10800000000000000
+      internalID: 2285698231163003038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_Bat_pochi_15
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 33
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e472156dc78b05240800000000000000
+      internalID: 4778522050951194446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_Bat_pochi_16
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 33
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e540c27514e051fb0800000000000000
+      internalID: -4677816964156226466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_Bat_pochi_17
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 35
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcfa0123cd395f9b0800000000000000
+      internalID: -5046965233456730165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_Bat_pochi_18
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 11
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b922950c3f71aa860800000000000000
+      internalID: 7541866861656875675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_Bat_pochi_19
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 12
+        width: 21
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64d8f563d7253b030800000000000000
+      internalID: 3509239232388369734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_Bat_pochi_20
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 11
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1953130eb192dd990800000000000000
+      internalID: -7359681016351345263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_Bat_pochi_21
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 9
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec201bdd791e13840800000000000000
+      internalID: 5202187086965310158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_Bat_pochi_22
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 9
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1843e042f9fdf1f40800000000000000
+      internalID: 5701521527872042113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_Bat_pochi_23
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 11
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4763e3ab6f9fb8230800000000000000
+      internalID: 3642279561741088372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Monster_Bat_pochi_0: -6058856112933512833
+      Monster_Bat_pochi_1: -749165282314695691
+      Monster_Bat_pochi_10: -2811298845784828324
+      Monster_Bat_pochi_11: 4936525719216882799
+      Monster_Bat_pochi_12: -7319799913162375297
+      Monster_Bat_pochi_13: 7302931004593151584
+      Monster_Bat_pochi_14: 2285698231163003038
+      Monster_Bat_pochi_15: 4778522050951194446
+      Monster_Bat_pochi_16: -4677816964156226466
+      Monster_Bat_pochi_17: -5046965233456730165
+      Monster_Bat_pochi_18: 7541866861656875675
+      Monster_Bat_pochi_19: 3509239232388369734
+      Monster_Bat_pochi_2: 5349540991064737035
+      Monster_Bat_pochi_20: -7359681016351345263
+      Monster_Bat_pochi_21: 5202187086965310158
+      Monster_Bat_pochi_22: 5701521527872042113
+      Monster_Bat_pochi_23: 3642279561741088372
+      Monster_Bat_pochi_3: 8584310737933387556
+      Monster_Bat_pochi_4: -2774985095507184555
+      Monster_Bat_pochi_5: 7642895761794469671
+      Monster_Bat_pochi_6: 314643541597537321
+      Monster_Bat_pochi_7: -7391523923147961730
+      Monster_Bat_pochi_8: 6517976377421549233
+      Monster_Bat_pochi_9: 8878501002706846938
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

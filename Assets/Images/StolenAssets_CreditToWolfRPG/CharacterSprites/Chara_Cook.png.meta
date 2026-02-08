@@ -1,0 +1,741 @@
+fileFormatVersion: 2
+guid: f7d35c0e6dbdc614ab7b392f2e8c9d8f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1957786973765162956
+    second: Chara_Cook_0
+  - first:
+      213: -6091719249817505236
+    second: Chara_Cook_1
+  - first:
+      213: 4359943608675564838
+    second: Chara_Cook_2
+  - first:
+      213: -1850196608387222091
+    second: Chara_Cook_3
+  - first:
+      213: -1372312730901020188
+    second: Chara_Cook_4
+  - first:
+      213: -3494442086801155936
+    second: Chara_Cook_5
+  - first:
+      213: 3399536104905601032
+    second: Chara_Cook_6
+  - first:
+      213: -4211096747819268186
+    second: Chara_Cook_7
+  - first:
+      213: -4027711807140781717
+    second: Chara_Cook_8
+  - first:
+      213: -21118578358639345
+    second: Chara_Cook_9
+  - first:
+      213: 8621157593899850151
+    second: Chara_Cook_10
+  - first:
+      213: -6094242959631085817
+    second: Chara_Cook_11
+  - first:
+      213: -4299071967605861183
+    second: Chara_Cook_12
+  - first:
+      213: -4470629957477935982
+    second: Chara_Cook_13
+  - first:
+      213: -2239878544015505008
+    second: Chara_Cook_14
+  - first:
+      213: 6971526743305834452
+    second: Chara_Cook_15
+  - first:
+      213: -7746350102089443228
+    second: Chara_Cook_16
+  - first:
+      213: 2856437320209611329
+    second: Chara_Cook_17
+  - first:
+      213: -8337750866666870201
+    second: Chara_Cook_18
+  - first:
+      213: -980668697218553971
+    second: Chara_Cook_19
+  - first:
+      213: -2017776114343713384
+    second: Chara_Cook_20
+  - first:
+      213: -6049149696382025794
+    second: Chara_Cook_21
+  - first:
+      213: -8975566056568040676
+    second: Chara_Cook_22
+  - first:
+      213: -8392845634184701466
+    second: Chara_Cook_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Chara_Cook_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 65
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43827d2ce1b84d4e0800000000000000
+      internalID: -1957786973765162956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chara_Cook_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 44
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c22f73b1e9dd57ba0800000000000000
+      internalID: -6091719249817505236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chara_Cook_2
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 66
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62d77d3bc91a18c30800000000000000
+      internalID: 4359943608675564838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chara_Cook_3
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 44
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b57278ccf7c256e0800000000000000
+      internalID: -1850196608387222091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chara_Cook_4
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 65
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e106e197d094fce0800000000000000
+      internalID: -1372312730901020188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chara_Cook_5
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 44
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a8da08bf6f318fc0800000000000000
+      internalID: -3494442086801155936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chara_Cook_6
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 43
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 800730e63149d2f20800000000000000
+      internalID: 3399536104905601032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chara_Cook_7
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 66
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a70e67b1dd2f85c0800000000000000
+      internalID: -4211096747819268186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chara_Cook_8
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 66
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b612abd7371ba18c0800000000000000
+      internalID: -4027711807140781717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chara_Cook_9
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 44
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f05a5cec3c8f4bff0800000000000000
+      internalID: -21118578358639345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chara_Cook_10
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 65
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a9df01a72184a770800000000000000
+      internalID: 8621157593899850151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chara_Cook_11
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 44
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70f83402156ec6ba0800000000000000
+      internalID: -6094242959631085817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chara_Cook_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 22
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c4530ba2d0a654c0800000000000000
+      internalID: -4299071967605861183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chara_Cook_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 294de467db125f1c0800000000000000
+      internalID: -4470629957477935982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chara_Cook_14
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 0
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 099cfe3e45a5ae0e0800000000000000
+      internalID: -2239878544015505008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chara_Cook_15
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 22
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4df41e4e2a6dfb060800000000000000
+      internalID: 6971526743305834452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chara_Cook_16
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 22
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 468d523cf9f6f7490800000000000000
+      internalID: -7746350102089443228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chara_Cook_17
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 0
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14a3342db9a14a720800000000000000
+      internalID: 2856437320209611329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chara_Cook_18
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 21
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74aad9613cb5a4c80800000000000000
+      internalID: -8337750866666870201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chara_Cook_19
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 0
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8761f30407f362f0800000000000000
+      internalID: -980668697218553971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chara_Cook_20
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 22
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 895664c805b6ff3e0800000000000000
+      internalID: -2017776114343713384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chara_Cook_21
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 0
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebfbcf1a66a1d0ca0800000000000000
+      internalID: -6049149696382025794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chara_Cook_22
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 0
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c135534e932607380800000000000000
+      internalID: -8975566056568040676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chara_Cook_23
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 22
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e99bb7ec5f968b80800000000000000
+      internalID: -8392845634184701466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Chara_Cook_0: -1957786973765162956
+      Chara_Cook_1: -6091719249817505236
+      Chara_Cook_10: 8621157593899850151
+      Chara_Cook_11: -6094242959631085817
+      Chara_Cook_12: -4299071967605861183
+      Chara_Cook_13: -4470629957477935982
+      Chara_Cook_14: -2239878544015505008
+      Chara_Cook_15: 6971526743305834452
+      Chara_Cook_16: -7746350102089443228
+      Chara_Cook_17: 2856437320209611329
+      Chara_Cook_18: -8337750866666870201
+      Chara_Cook_19: -980668697218553971
+      Chara_Cook_2: 4359943608675564838
+      Chara_Cook_20: -2017776114343713384
+      Chara_Cook_21: -6049149696382025794
+      Chara_Cook_22: -8975566056568040676
+      Chara_Cook_23: -8392845634184701466
+      Chara_Cook_3: -1850196608387222091
+      Chara_Cook_4: -1372312730901020188
+      Chara_Cook_5: -3494442086801155936
+      Chara_Cook_6: 3399536104905601032
+      Chara_Cook_7: -4211096747819268186
+      Chara_Cook_8: -4027711807140781717
+      Chara_Cook_9: -21118578358639345
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

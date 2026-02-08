@@ -1,0 +1,741 @@
+fileFormatVersion: 2
+guid: 3966d3b387dd82c459efa8c1c225df77
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8172593885690968783
+    second: Animal_Goat_pochi_0
+  - first:
+      213: -2417481914851754364
+    second: Animal_Goat_pochi_1
+  - first:
+      213: -7843972171863843743
+    second: Animal_Goat_pochi_2
+  - first:
+      213: -733682353045248847
+    second: Animal_Goat_pochi_3
+  - first:
+      213: 8855447923210532034
+    second: Animal_Goat_pochi_4
+  - first:
+      213: 1578222700139235281
+    second: Animal_Goat_pochi_5
+  - first:
+      213: 5486654138253364827
+    second: Animal_Goat_pochi_6
+  - first:
+      213: -2004569915211320537
+    second: Animal_Goat_pochi_7
+  - first:
+      213: -7223467508943716831
+    second: Animal_Goat_pochi_8
+  - first:
+      213: -2938728489949898935
+    second: Animal_Goat_pochi_9
+  - first:
+      213: -1266877096757959405
+    second: Animal_Goat_pochi_10
+  - first:
+      213: 169010897304186609
+    second: Animal_Goat_pochi_11
+  - first:
+      213: -2151718803203748654
+    second: Animal_Goat_pochi_12
+  - first:
+      213: -6142386027076779353
+    second: Animal_Goat_pochi_13
+  - first:
+      213: -3332791262723122841
+    second: Animal_Goat_pochi_14
+  - first:
+      213: 7741889773802035331
+    second: Animal_Goat_pochi_15
+  - first:
+      213: -7626575318569440100
+    second: Animal_Goat_pochi_16
+  - first:
+      213: -3708022755690875708
+    second: Animal_Goat_pochi_17
+  - first:
+      213: -8644012155305383385
+    second: Animal_Goat_pochi_18
+  - first:
+      213: 6547646225265833203
+    second: Animal_Goat_pochi_19
+  - first:
+      213: -6381546821523755622
+    second: Animal_Goat_pochi_20
+  - first:
+      213: -7372385497551666248
+    second: Animal_Goat_pochi_21
+  - first:
+      213: -6740629501276487689
+    second: Animal_Goat_pochi_22
+  - first:
+      213: 6067163434868279600
+    second: Animal_Goat_pochi_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Animal_Goat_pochi_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 66
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcab32ab6d2ea6170800000000000000
+      internalID: 8172593885690968783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Goat_pochi_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 67
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48e745eb101637ed0800000000000000
+      internalID: -2417481914851754364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Goat_pochi_2
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 66
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16c910c6edc942390800000000000000
+      internalID: -7843972171863843743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Goat_pochi_3
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 67
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b4e3c089cf61d5f0800000000000000
+      internalID: -733682353045248847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Goat_pochi_4
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 67
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c43fedc7fed4ea70800000000000000
+      internalID: 8855447923210532034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Goat_pochi_5
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 66
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d7c14a1f29f6e510800000000000000
+      internalID: 1578222700139235281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Goat_pochi_6
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 46
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5ec4048ed2842c40800000000000000
+      internalID: 5486654138253364827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Goat_pochi_7
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 46
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 723f46468465e24e0800000000000000
+      internalID: -2004569915211320537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Goat_pochi_8
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 46
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12e75da729611cb90800000000000000
+      internalID: -7223467508943716831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Goat_pochi_9
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 44
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9475739220a8737d0800000000000000
+      internalID: -2938728489949898935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Goat_pochi_10
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 45
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 315e9a12ef52b6ee0800000000000000
+      internalID: -1266877096757959405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Goat_pochi_11
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 45
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fe6cf00482785200800000000000000
+      internalID: 169010897304186609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Goat_pochi_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 24
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dc0386162f8322e0800000000000000
+      internalID: -2151718803203748654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Goat_pochi_13
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 24
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a204ceb37cd1caa0800000000000000
+      internalID: -6142386027076779353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Goat_pochi_14
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 24
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 769dcd2210c8fb1d0800000000000000
+      internalID: -3332791262723122841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Goat_pochi_15
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 22
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38813b12bb7b07b60800000000000000
+      internalID: 7741889773802035331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Goat_pochi_16
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 22
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9c28e3b726f82690800000000000000
+      internalID: -7626575318569440100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Goat_pochi_17
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 21
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c4fafb13f47a8cc0800000000000000
+      internalID: -3708022755690875708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Goat_pochi_18
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 0
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72a2dd02ebc4a0880800000000000000
+      internalID: -8644012155305383385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Goat_pochi_19
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f4b5eb0d89edda50800000000000000
+      internalID: 6547646225265833203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Goat_pochi_20
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 0
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9dad890af03077a0800000000000000
+      internalID: -6381546821523755622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Goat_pochi_21
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 0
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b30137537600b990800000000000000
+      internalID: -7372385497551666248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Goat_pochi_22
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 0
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ff75e59e297472a0800000000000000
+      internalID: -6740629501276487689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Goat_pochi_23
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 0
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0390091bff4e23450800000000000000
+      internalID: 6067163434868279600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Animal_Goat_pochi_0: 8172593885690968783
+      Animal_Goat_pochi_1: -2417481914851754364
+      Animal_Goat_pochi_10: -1266877096757959405
+      Animal_Goat_pochi_11: 169010897304186609
+      Animal_Goat_pochi_12: -2151718803203748654
+      Animal_Goat_pochi_13: -6142386027076779353
+      Animal_Goat_pochi_14: -3332791262723122841
+      Animal_Goat_pochi_15: 7741889773802035331
+      Animal_Goat_pochi_16: -7626575318569440100
+      Animal_Goat_pochi_17: -3708022755690875708
+      Animal_Goat_pochi_18: -8644012155305383385
+      Animal_Goat_pochi_19: 6547646225265833203
+      Animal_Goat_pochi_2: -7843972171863843743
+      Animal_Goat_pochi_20: -6381546821523755622
+      Animal_Goat_pochi_21: -7372385497551666248
+      Animal_Goat_pochi_22: -6740629501276487689
+      Animal_Goat_pochi_23: 6067163434868279600
+      Animal_Goat_pochi_3: -733682353045248847
+      Animal_Goat_pochi_4: 8855447923210532034
+      Animal_Goat_pochi_5: 1578222700139235281
+      Animal_Goat_pochi_6: 5486654138253364827
+      Animal_Goat_pochi_7: -2004569915211320537
+      Animal_Goat_pochi_8: -7223467508943716831
+      Animal_Goat_pochi_9: -2938728489949898935
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
